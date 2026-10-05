@@ -22,3 +22,11 @@
 - Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (5 October 2026, 11:03:34 +0200)
 
 > Planches de materiaux refaites (3600 px, Inter, grille 3 colonnes de boites 1100x800, crops natifs). Le lys est un TRIM SHEET de 7 zones en 4 bandes (decision Matthieu), pampa et eucalyptus en proposition. Methode et regle de decision trim sheet ou materiaux separes enregistrees dans le skill zenray-houdini (priorite 0), script MaterialSheets.py en template. PLAN.md adapte. Le trim n est pas cree. Prochain: affiner le modele du lys, planches validees puis heights par zone. (5 October 2026, 11:03:34 +0200)
+
+## 5 October 2026, 12:27:03 +0200 : Iteration
+
+<!-- feedback-event:210ea7da542c7f719d5718fae7f042fd5f273461da0187e4f7a61503bde80461 (5 October 2026, 12:27:03 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (5 October 2026, 12:27:03 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (5 October 2026, 12:27:03 +0200)
+
+> Trim sheet du lys: la height de l IA est une reference de mesure uniquement (copie interdite, noté dans le skill). Graphe /obj/Lily_Trim genere la height: 7 bandes x 64 noeuds = 448 wrangles (TrimStages.py), merge max, base color = height. Banc de mesure TrimLab.py et calage Calibrate.py (moyenne, ecart type, densite de detail par bande): erreur totale 1.33 -> 0.55. Seamless par construction (periodique). Reste: fidelite des formes par bande, table de bandes UV dans le HDA, notes skill sur masques/trim. Archive de l approche interdite dans 90-archive. (5 October 2026, 12:27:03 +0200)

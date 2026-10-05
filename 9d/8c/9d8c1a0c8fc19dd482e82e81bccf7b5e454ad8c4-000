@@ -564,3 +564,19 @@
 - Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 01:07:23 +0200)
 
 > Tige v3 par Streak Blur avec champ de direction (vrais poils, raccord invisible), bouton sans couture + peau fibreuse, couleur du bouton par masque, cartes et UV regeneres, stage Karma a jour. Images dans versions/band4_v3, band6_v2, maps v8. (6 October 2026, 01:07:23 +0200)
+
+## 6 October 2026, 01:14:41 +0200 : Iteration
+
+<!-- feedback-event:ee93bcdacb94df9588322f904d44c4927e059bc5268e374f4d4b6cdfec8f2e82 (6 October 2026, 01:14:41 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 01:14:41 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 01:14:41 +0200)
+
+> Evolution de la height complete en 1:1: 77 images 2048 dans versions/height_evolution (toutes bandes alignees, heure UTC et bande modifiee), contact_sheet, INDEX.md, script BuildHeightEvolution.py, limites et regle documentees dans le skill. (6 October 2026, 01:14:41 +0200)
+
+## 6 October 2026, 01:20:42 +0200 : Iteration
+
+<!-- feedback-event:30ed9e5e927145e05bdd7a502e6aac34b56e111f5dfaf50d885b66d2cc0e3df9 (6 October 2026, 01:20:42 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 01:20:42 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 01:20:42 +0200)
+
+> Graphe Copernicus range (colonnes, network boxes), colonne FINAL MAPS alignee avec switch VIEW, opacite refaite avec fenetres dures et bords nets (1 pour cent de gris), padding de couleur au bord des decoupes. Bande 1 opaque en entier (ref couleur pleine). (6 October 2026, 01:20:42 +0200)

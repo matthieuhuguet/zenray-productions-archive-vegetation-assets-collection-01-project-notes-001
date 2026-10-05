@@ -500,3 +500,11 @@
 > Valides-tu ce plan ? (5 October 2026, 23:41:13 +0200)
 >
 > Le [skill plan-then-execute](/Users/zenray/.codex/skills/plan-then-execute/SKILL.md) impose d’attendre cette validation avant les écritures. (5 October 2026, 23:41:13 +0200)
+
+## 5 October 2026, 23:44:29 +0200 : Prompt
+
+<!-- feedback-event:d5e73ed9e16ee00e72706e5a7291d61442cdaff0d93de3d9040466693db2f98b (5 October 2026, 23:44:29 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (5 October 2026, 23:44:29 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (5 October 2026, 23:44:29 +0200)
+
+> go [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) mais par contre node vex et python sont interdites n'oublie pas et crée une vrai logique component par component similaire à speedtree : trunk / branch / leaf. go je valide le plan n'oublie pas de tout consigner. notamment les screens étape par étape archive l'ancien arbre on essaie de recommence et mask les 4 vues pour comparer et avancer go (5 October 2026, 23:44:29 +0200)

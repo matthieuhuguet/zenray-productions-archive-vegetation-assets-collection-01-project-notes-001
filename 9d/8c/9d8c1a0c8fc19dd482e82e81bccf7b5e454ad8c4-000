@@ -1,0 +1,24 @@
+# vegetation-assets-collection-01 : project feedback, append only (5 October 2026, 10:38:02 +0200)
+
+## 5 October 2026, 10:38:02 +0200 : Log
+
+<!-- feedback-event:67542bc3bcdbc5f108d2ffd691ef62d455f8650b8d1a42067a23beaa654d0d96 (5 October 2026, 10:38:02 +0200) -->
+- Project: vegetation-assets-collection-01; kind: log. (5 October 2026, 10:38:02 +0200)
+
+> Project initialized: Vegatations Assets ZenRay Collection 01. Workshop: /Users/zenray/.claude/tmp/tmp-vegetation-assets-collection-01. (5 October 2026, 10:38:02 +0200)
+
+## 5 October 2026, 10:46:54 +0200 : Iteration
+
+<!-- feedback-event:6235ca8796d772ec107dee70928cbaefec280b39ab27abc1483b4808f536178b (5 October 2026, 10:46:54 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (5 October 2026, 10:46:54 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (5 October 2026, 10:46:54 +0200)
+
+> 23 references 4K telechargees (refs/raw, planches refs/sheets), PLAN.md avec composants et materiaux. Trois objets /obj dans VegetationCollection01.hiplc, ouverts dans Houdini live: Lily_Flower 4372 prims, Pampas_Grass 9079, Eucalyptus 4278, chacun six a quatre composants Python SOP, 2 dossiers HDA de 8 parametres. Previews dans previews/. Pas de graphe Copernicus (attente identification materiaux). Manque: planches 4 vues et heights de reference (prompts dans PLAN.md). Prochain: polissage des composants, UV atlas, LOD. (5 October 2026, 10:46:54 +0200)
+
+## 5 October 2026, 11:03:34 +0200 : Iteration
+
+<!-- feedback-event:8ba5fac2126ab142770ad6518380588771d50078db71ec82eb36d8dd72358dba (5 October 2026, 11:03:34 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (5 October 2026, 11:03:34 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (5 October 2026, 11:03:34 +0200)
+
+> Planches de materiaux refaites (3600 px, Inter, grille 3 colonnes de boites 1100x800, crops natifs). Le lys est un TRIM SHEET de 7 zones en 4 bandes (decision Matthieu), pampa et eucalyptus en proposition. Methode et regle de decision trim sheet ou materiaux separes enregistrees dans le skill zenray-houdini (priorite 0), script MaterialSheets.py en template. PLAN.md adapte. Le trim n est pas cree. Prochain: affiner le modele du lys, planches validees puis heights par zone. (5 October 2026, 11:03:34 +0200)

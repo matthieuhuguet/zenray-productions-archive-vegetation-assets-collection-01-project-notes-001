@@ -3,3 +3,27 @@
 - Project ID: vegetation-assets-collection-01. (5 October 2026)
 - Canonical feedback: /Users/zenray/.claude/Memory1/Projects/vegetation-assets-collection-01/FEEDBACK.md. (5 October 2026)
 - Append dated decisions and verified knowledge here; retain existing entries. (5 October 2026)
+
+## Tree component sheet and measured modeling start (5 October 2026)
+
+- Sheet: refs/tree-sheets/EucalyptusComponents-v001.png in the registered workshop; prompts: TreeComponentPrompts.md and the Houdini skill component-segmentation/Protocol1.md. C1 Trunk, C2 Branch, C3 Twig, C4 Leaf. (5 October 2026)
+- Live /obj/Eucalyptus is zenray_eucalyptus::2.0; definition otls/ZenRay_Eucalyptus_v002.hda; scene hip/VegetationCollection01.hiplc. Snapshots v001 before_mask_fit and v002 measured_components_v002 preserve both versions. (5 October 2026)
+- Fresh instance: 41694 faces and 70350 points; full HDA parameter interface explicitly stored in the definition. Strict silhouette IoU front .319 to .536, side .472 to .520. Measurements and overlays: workshop measurements/tree/fit-report.json and comparison-after.png. (5 October 2026)
+- Two OpenGL tree images verified: viewport-front34-verified.png and viewport-back34-verified.png. Earlier screenshots showed Lily or empty geometry and are failure evidence, not tree validation. (5 October 2026)
+- This is a modeling start. Crown branching, sagging lower foliage and trunk forks remain to refine; hidden topology from generated views is interpreted, absolute physical scale unknown. Tree height references are still required before texturing. No reference raster enters the geometry generator. (5 October 2026)
+
+## 5 October 2026 : Tronc natif Point VOP
+
+- 5 October 2026 : Eucalyptus v004 remplace le tronc Python par VEX Backbone, Sweep, lobes de pied et Point VOP, huit curseurs. Definition ZenRay_Eucalyptus_v004.hda, replay neuf 45962 faces ; relief maximal 2.31 cm, volume signe positif apres correction du winding.
+- 5 October 2026 : scripts BuildTrunkVop.py et CaptureTrunkVop.py en production et dans le skill, rapport measurements/tree/trunk-v004-report.json dans TMP, captures deux angles relues. Prochain : fourches et raccords anatomiques ; arbre non valide artistiquement.
+
+
+## 5 October 2026 : Eucalyptus, etat de reprise raw02
+
+- 5 October 2026 : aucune generation d image par l agent. Sheet materiaux obtenue par crops du raw02, source et rectangles mesures conserves ; prompt materiaux dans references/component-segmentation/RawMaterialPrompt.md, prompt tricolore dans TreeTricolorPrompt.md du meme dossier.
+- 5 October 2026 : segmentation editable rouge tronc, bleu branches et rameaux, vert feuilles, noir fond. Le masque est estime par reperes manuels et couleurs ; les petits rameaux sombres restent ambigus. Ni masque ni pixels raw ne sont lus par les SOP. Seules les courbes mesurees et les tables numeriques grossieres de densite deviennent contraintes de construction.
+- 5 October 2026 : graphe Eucalyptus v015 : axes VEX, Resample et Sweep, fusion VDB des fourches principales, conservation par Sweep des branches fines sous la taille de voxel, transfert continu par xyzdist et primuv du repere de croissance, Point VOP a onze nodes, fibres longitudinales et plaques d ecorce levees en geometrie. Quatre touffes pendantes sont placees separement depuis le raw.
+- 5 October 2026 : preuve actuelle PositionSheet-v015.png compare raw, geometrie live, masque et differences. Recouvrement strict visible 53.10 pour cent, bois 43.54 pour cent, feuilles 23.57 pour cent, sur masque estime et camera approchee. Ces mesures ne prouvent PAS une ressemblance parfaite. Le feuillage reste trop regulier et le relief du tronc trop granuleux ; la profondeur cachee est interpretee.
+- 5 October 2026 : HDA ZenRay_Eucalyptus_v015.hda, quatre categories de 8, 3, 6 et 6 controles. Instance neuve : geometrie identique en nombre de points, primitives et bbox, aucune erreur de cook. Les feuilles sont des instances packed ; le nombre de primitives ne compte donc pas toutes leurs faces internes. Archive rejouable Library/Houdini/Projects/EucalyptusRawMask/Manifest.json.
+- 5 October 2026 : pieges verifies : Sweep ne conserve pas pscale ; le relief reste presque nul sans transfert. nearpoint donne un repere discontinu, utiliser xyzdist et primuv. VDB supprime les fins rameaux, les conserver separement en Sweep. copyToHDAFile prend new_name, pas new_type_name ; changeNodeType remplace l objet HOM, reprendre sa valeur retour. Reappliquer le groupe et les valeurs du maitre APRES le changement de type, sinon une instance neuve reprend les anciens defauts.
+- 5 October 2026 : captures OpenGL : conserver et restaurer flags OBJ, camera, viewport, grilles, constructionPlane et referencePlane. Composer explicitement le PNG RGBA sur un fond pour eviter les contours blancs dus a la transparence. Le raster NPZ doit charger ses arrays UNE FOIS, jamais dans chaque face. Les anciens cadrages et scores errones restent des preuves d echec, pas des validations.

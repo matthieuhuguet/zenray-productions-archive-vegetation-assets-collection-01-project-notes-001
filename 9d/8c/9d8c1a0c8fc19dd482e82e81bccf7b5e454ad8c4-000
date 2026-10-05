@@ -556,3 +556,11 @@
 - Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 00:57:34 +0200)
 
 > Demande de Matthieu: une image locale par iteration Copernicus. Constat honnete: pas toujours fait (previews ecrasees). Corrige: AUTOSAVE dans CmpBand/CmpBands (versions/auto horodate), 183 images uniques recuperees depuis le transcript JSONL de la conversation dans versions/recovered_from_conversation avec INDEX.md, script RecoverImagesFromTranscript.py, tout consigne dans le skill zenray-houdini. (6 October 2026, 00:57:34 +0200)
+
+## 6 October 2026, 01:07:23 +0200 : Iteration
+
+<!-- feedback-event:6eeb980632959f537a6ac2d27576ebda6804c89aec45c13c8837b0072dcb2723 (6 October 2026, 01:07:23 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 01:07:23 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 01:07:23 +0200)
+
+> Tige v3 par Streak Blur avec champ de direction (vrais poils, raccord invisible), bouton sans couture + peau fibreuse, couleur du bouton par masque, cartes et UV regeneres, stage Karma a jour. Images dans versions/band4_v3, band6_v2, maps v8. (6 October 2026, 01:07:23 +0200)

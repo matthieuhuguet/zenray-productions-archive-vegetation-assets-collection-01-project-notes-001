@@ -1078,3 +1078,52 @@
 > **A :** apparition immédiate, gros pop. **B :** fondu très rapide à partir de 1,5 seconde. Le titre reste ensuite visible jusqu’à la coupure à 5 secondes. (6 October 2026, 14:36:27 +0200)
 >
 > J’attends ton **go**, conformément au skill `wait-validation`. (6 October 2026, 14:36:27 +0200)
+
+## 6 October 2026, 14:38:08 +0200 : Prompt
+
+<!-- feedback-event:75531634c37818352c3ee010ce02e693ceedff1d0d9bad84126f5a517d8f1ddc (6 October 2026, 14:38:08 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 14:38:08 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:38:08 +0200)
+
+> Non première ligne en **Anthropic Serif Light**, fondu de 0 à 1.5 seconde (6 October 2026, 14:38:08 +0200)
+> Deuxième ligne « Fleur de Lys » apparaît imédiatement à 1.5 ou 1 en **Inter Black en gros max d'espace (deux variations)&#x20;** (6 October 2026, 14:38:08 +0200)
+>
+> et disparait à 5 d'un coup. go (6 October 2026, 14:38:08 +0200)
+
+## 6 October 2026, 14:40:14 +0200 : Iteration
+
+<!-- feedback-event:03f8446e824d45fdf56752597ac76baa2509662701681894c4bef00e851942e3 (6 October 2026, 14:40:14 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:40:14 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:40:14 +0200)
+
+> Deux nouveaux MOV4K5s, pop Inter Black900 a1s ou1.5s. Premiere ligne anglaise SerifLight300 en fondu0a1.5s puis coupeinstantanee ; seconde Fleur de Lys francaise apparaitimmediatement et restejusquacoupure5s. Tailles police mesurees max94% largeur,sanscropping. Blanc ombrecentree,0.53et0.51Mo. MD JSON et Verification.json dans title-animation/pop-variants. (6 October 2026, 14:40:14 +0200)
+
+## 6 October 2026, 14:40:26 +0200 : Iteration
+
+<!-- feedback-event:7650bdefd2f04725018c7e2632b6e0603920cade9fadfc9e3e1527c727765025 (6 October 2026, 14:40:26 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:40:26 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:40:26 +0200)
+
+> Les deux variantes sont prêtes : (6 October 2026, 14:40:26 +0200)
+>
+> | MOV 4K | Apparition de « Fleur de Lys » | Poids | (6 October 2026, 14:40:26 +0200)
+> |---|---|---| (6 October 2026, 14:40:26 +0200)
+> | [Variante 1](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/pop-variants/07-pop-at-1-second.mov) | Pop immédiat à **1 seconde** | 0,53 Mo | (6 October 2026, 14:40:26 +0200)
+> | [Variante 2](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/pop-variants/08-pop-at-1_5-seconds.mov) | Pop immédiat à **1,5 seconde** | 0,51 Mo | (6 October 2026, 14:40:26 +0200)
+>
+> Première ligne en **Anthropic Serif Light**, fondu jusqu’à 1,5 seconde puis disparition. « Fleur de Lys » en **Inter Black**, taille maximale sans rognage, reste jusqu’à la coupure à **5 secondes**. (6 October 2026, 14:40:26 +0200)
+
+## 6 October 2026, 14:40:26 +0200 : Iteration
+
+<!-- feedback-event:265b06ae4f9a49a56a4f16597e19631255711313f47b6ef9faa198d9aab95fb6 (6 October 2026, 14:40:26 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:40:26 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:40:26 +0200)
+
+> Les deux variantes sont prêtes : (6 October 2026, 14:40:26 +0200)
+>
+> | MOV 4K | Apparition de « Fleur de Lys » | Poids | (6 October 2026, 14:40:26 +0200)
+> |---|---|---| (6 October 2026, 14:40:26 +0200)
+> | [Variante 1](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/pop-variants/07-pop-at-1-second.mov) | Pop immédiat à **1 seconde** | 0,53 Mo | (6 October 2026, 14:40:26 +0200)
+> | [Variante 2](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/pop-variants/08-pop-at-1_5-seconds.mov) | Pop immédiat à **1,5 seconde** | 0,51 Mo | (6 October 2026, 14:40:26 +0200)
+>
+> Première ligne en **Anthropic Serif Light**, fondu jusqu’à 1,5 seconde puis disparition. « Fleur de Lys » en **Inter Black**, taille maximale sans rognage, reste jusqu’à la coupure à **5 secondes**. (6 October 2026, 14:40:26 +0200)

@@ -956,3 +956,45 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:27:20 +0200)
 
 > +trois variation de couleurs cyan magenta et turquoise stp. toujours optimisé la taille (6 October 2026, 14:27:20 +0200)
+
+## 6 October 2026, 14:28:30 +0200 : Iteration
+
+<!-- feedback-event:8754234c6f4dadc2ab115f0d0134621ad963a71f377eb83286d619f1a747b018 (6 October 2026, 14:28:30 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:28:30 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:28:30 +0200)
+
+> 02-connexions-croisees.mov seul actualise : texte anglais ZenRay Vegetation Collection 01 et francais Fleur de Lys,blanc avec ombre centree douce16px55%. Timing1.5s apparition,2s maintien,1.5s disparition,total5s. Trois derives cyan,magenta,turquoise. Tous4K30fps150images,0.95 a1.26Mo ; endpoints vides,maintien fixe et autres anciensMOV inchangesSHA256 verifies. MD JSON et verification associes. (6 October 2026, 14:28:30 +0200)
+
+## 6 October 2026, 14:28:43 +0200 : Iteration
+
+<!-- feedback-event:cb24df8b432814a0d360ad41ed2b5926e47a9812baa3e8cad109f8e2e6bed750 (6 October 2026, 14:28:43 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:28:43 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:28:43 +0200)
+
+> Les quatre versions sont prêtes, avec **ombre centrée**, texte anglais/français corrigé et timing **1,5 s / 2 s / 1,5 s**. (6 October 2026, 14:28:43 +0200)
+>
+> | MOV 4K | Poids | (6 October 2026, 14:28:43 +0200)
+> |---|---| (6 October 2026, 14:28:43 +0200)
+> | [Blanc](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees.mov) | 0,95 Mo | (6 October 2026, 14:28:43 +0200)
+> | [Cyan](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-cyan.mov) | 1,26 Mo | (6 October 2026, 14:28:43 +0200)
+> | [Magenta](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-magenta.mov) | 1,20 Mo | (6 October 2026, 14:28:43 +0200)
+> | [Turquoise](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-turquoise.mov) | 1,20 Mo | (6 October 2026, 14:28:43 +0200)
+>
+> Durée vérifiée : **cinq secondes chacune**. (6 October 2026, 14:28:43 +0200)
+
+## 6 October 2026, 14:28:43 +0200 : Iteration
+
+<!-- feedback-event:8d5a3186af1365eafb77535fc36e5776401877cd89e6a8ba1ec43709c824bc91 (6 October 2026, 14:28:43 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:28:43 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:28:43 +0200)
+
+> Les quatre versions sont prêtes, avec **ombre centrée**, texte anglais/français corrigé et timing **1,5 s / 2 s / 1,5 s**. (6 October 2026, 14:28:43 +0200)
+>
+> | MOV 4K | Poids | (6 October 2026, 14:28:43 +0200)
+> |---|---| (6 October 2026, 14:28:43 +0200)
+> | [Blanc](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees.mov) | 0,95 Mo | (6 October 2026, 14:28:43 +0200)
+> | [Cyan](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-cyan.mov) | 1,26 Mo | (6 October 2026, 14:28:43 +0200)
+> | [Magenta](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-magenta.mov) | 1,20 Mo | (6 October 2026, 14:28:43 +0200)
+> | [Turquoise](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-turquoise.mov) | 1,20 Mo | (6 October 2026, 14:28:43 +0200)
+>
+> Durée vérifiée : **cinq secondes chacune**. (6 October 2026, 14:28:43 +0200)

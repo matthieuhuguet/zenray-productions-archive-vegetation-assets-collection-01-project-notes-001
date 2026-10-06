@@ -823,3 +823,60 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:16:24 +0200)
 
 > De toute manière, ce que tu as oublié, c'est que ça va toujours de gauche à droite et de haut en bas. Donc déjà, il faut que tu adaptes sur les animations. Et enfin, c'est pas mal, mais c'est pas encore ça. ça fait pas assez / glitch / electricité / courant (6 October 2026, 14:16:24 +0200)
+
+## 6 October 2026, 14:17:58 +0200 : Iteration
+
+<!-- feedback-event:8198decc226e5148ac9a2b7d5ddbe9e2f336be1d94d571e1a3bbcdc2b2b2dae1 (6 October 2026, 14:17:58 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:17:58 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:17:58 +0200)
+
+> Trois MOV corriges : gauche vers droite, premiere ligne terminee .485s avant debut seconde .515s. Courant renforce via micro-coupures franches et 8 bandes decalees par lettre. 4K 30fps 5s,0.97 a1.08Mo. Ancienne version archive-v1,Animation.md complete,Verification.json actualise. (6 October 2026, 14:17:58 +0200)
+
+## 6 October 2026, 14:18:16 +0200 : Iteration
+
+<!-- feedback-event:c434a5d20ed6293e3931ba9dbd07be025b41253375a1059c56c34b402389dc93 (6 October 2026, 14:18:16 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:18:16 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:18:16 +0200)
+
+> Les trois animations suivent maintenant **gauche à droite, puis haut en bas**, avec des micro-coupures franches et des décalages plus marqués dans les lettres. (6 October 2026, 14:18:16 +0200)
+>
+> - [1. Courant haché](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/01-circuit-sequentiel.mov) (6 October 2026, 14:18:16 +0200)
+> - [2. Micro-coupures](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees.mov) (6 October 2026, 14:18:16 +0200)
+> - [3. Décharge numérique](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/03-impulsion-synchronisee.mov) (6 October 2026, 14:18:16 +0200)
+>
+> Toujours **4K, cinq secondes, environ 1 Mo chacune**. Le [résumé `.md`](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/Animation.md) est actualisé. (6 October 2026, 14:18:16 +0200)
+>
+> | Correction | Fait | Preuve | (6 October 2026, 14:18:16 +0200)
+> |---|---|---| (6 October 2026, 14:18:16 +0200)
+> | Respecter le sens de lecture | Oui | La première ligne termine avant le début de la seconde | (6 October 2026, 14:18:16 +0200)
+> | Renforcer le glitch électrique | Oui | Coupures et décalages visibles dans les nouveaux MOV | (6 October 2026, 14:18:16 +0200)
+
+## 6 October 2026, 14:18:16 +0200 : Iteration
+
+<!-- feedback-event:1c95205c78e30ea076862248cc8a598d4595b2923a87dcf7664a176213447a96 (6 October 2026, 14:18:16 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:18:16 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:18:16 +0200)
+
+> Les trois animations suivent maintenant **gauche à droite, puis haut en bas**, avec des micro-coupures franches et des décalages plus marqués dans les lettres. (6 October 2026, 14:18:16 +0200)
+>
+> - [1. Courant haché](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/01-circuit-sequentiel.mov) (6 October 2026, 14:18:16 +0200)
+> - [2. Micro-coupures](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees.mov) (6 October 2026, 14:18:16 +0200)
+> - [3. Décharge numérique](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/03-impulsion-synchronisee.mov) (6 October 2026, 14:18:16 +0200)
+>
+> Toujours **4K, cinq secondes, environ 1 Mo chacune**. Le [résumé `.md`](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/Animation.md) est actualisé. (6 October 2026, 14:18:16 +0200)
+>
+> | Correction | Fait | Preuve | (6 October 2026, 14:18:16 +0200)
+> |---|---|---| (6 October 2026, 14:18:16 +0200)
+> | Respecter le sens de lecture | Oui | La première ligne termine avant le début de la seconde | (6 October 2026, 14:18:16 +0200)
+> | Renforcer le glitch électrique | Oui | Coupures et décalages visibles dans les nouveaux MOV | (6 October 2026, 14:18:16 +0200)
+
+## 6 October 2026, 14:19:30 +0200 : Prompt
+
+<!-- feedback-event:d3580ba1af12055fd3b615f948b56f25aa3dc7eaedfd55d602231fa7c75582c4 (6 October 2026, 14:19:30 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 14:19:30 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:19:30 +0200)
+
+> Je sais exactement comment on peut faire. On peut diviser toute la grille via des tout petits cubes ou pixels et tu me crées trois nouvelles animations où ça s'anime comme si c'était des cubes qui venaient s'agglutiner. C'est à la fois l'effet le plus fin, ça va faire un peu comme du sable qui est en train de se former, et l'effet le plus gros, ça va faire comme si des cubes ils s'aggloméraient, un peu comme dans un jeu comme dans Crimson Desert, il y avait cet esprit un peu de voxel sur les VFX, mais en fait c'est à peu près ça. Tu fais trois variations de cubes plus ou moins gros pour que ça fasse un nouvel effet. Mais tu crées trois nouvelles animations avec l'association des fichiers Toujours dans le même ordre par rapport au mouvement (6 October 2026, 14:19:30 +0200)
+>
+> Fleur de Lys est en francais  (6 October 2026, 14:19:30 +0200)
+> ZenRay Vegetation Collection 01 en anglais (6 October 2026, 14:19:30 +0200)

@@ -678,3 +678,33 @@
 - Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 13:45:43 +0200)
 
 > 6 October 2026 : AO locale ajoutee a la base color Band0, intensite 0.05. Scene et carte 2048 sauvegardees. Comparaison fraiche : changement moyen Band0 2.1128/255, autres bandes depuis ligne 430 identiques. Skill archive et synchronise. Export 4096 non verifie. (6 October 2026, 13:45:43 +0200)
+
+## 6 October 2026, 13:45:51 +0200 : Iteration
+
+<!-- feedback-event:0955cd2c05bb1ab1c611d856633b8f7542ac05f6fc9d36465228c21dcdc5bbb0 (6 October 2026, 13:45:51 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 13:45:51 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 13:45:51 +0200)
+
+> L’AO locale est ajoutée à la **base color Band0**, avec une intensité de **0,05**, réglable via `Petal Colour → Pattern AO Intensity`. La scène, la texture et le skill sont sauvegardés. (6 October 2026, 13:45:51 +0200)
+>
+> [Voir l’avant/après](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/petal_colour_match/AO_Before_After.png) (6 October 2026, 13:45:51 +0200)
+>
+> | Ce que tu voulais | Fait | Preuve | (6 October 2026, 13:45:51 +0200)
+> |---|---|---| (6 October 2026, 13:45:51 +0200)
+> | Renforcer les motifs avec l’AO | Oui | Comparaison avant/après en 2048 | (6 October 2026, 13:45:51 +0200)
+> | Préserver les autres bandes | Oui | Aucun changement mesuré hors Band0 | (6 October 2026, 13:45:51 +0200)
+
+## 6 October 2026, 13:45:51 +0200 : Iteration
+
+<!-- feedback-event:7fbfb2874c0143939c6d9d533d4b07095a81393ae3dbd4b77dd2b8198c749f91 (6 October 2026, 13:45:51 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 13:45:51 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 13:45:51 +0200)
+
+> L’AO locale est ajoutée à la **base color Band0**, avec une intensité de **0,05**, réglable via `Petal Colour → Pattern AO Intensity`. La scène, la texture et le skill sont sauvegardés. (6 October 2026, 13:45:51 +0200)
+>
+> [Voir l’avant/après](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/petal_colour_match/AO_Before_After.png) (6 October 2026, 13:45:51 +0200)
+>
+> | Ce que tu voulais | Fait | Preuve | (6 October 2026, 13:45:51 +0200)
+> |---|---|---| (6 October 2026, 13:45:51 +0200)
+> | Renforcer les motifs avec l’AO | Oui | Comparaison avant/après en 2048 | (6 October 2026, 13:45:51 +0200)
+> | Préserver les autres bandes | Oui | Aucun changement mesuré hors Band0 | (6 October 2026, 13:45:51 +0200)

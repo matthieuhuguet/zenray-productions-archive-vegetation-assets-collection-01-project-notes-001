@@ -1185,3 +1185,51 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:59:35 +0200)
 
 > Parfait, du coup, on va utiliser cette méthode. Du coup, on va juste refaire une nouvelle variante d'animation et du coup, ça va juste être un pop média à 1 seconde. Pop média à 1 seconde. On peut aussi tenter le pop média à 1,5 seconde, mais il n'y aura pas de fade-in sur les animations et du coup, ce sera directement les deux textes qui apparaissent directement à 1 seconde. Comme ça, ce sera très très simple et très très beau. Et du coup, ben il faut que tu utilises Vogun Medium en revanche, donc la fonte, donc la police. En revanche, la première ligne, elle est en case pas caps, sauf que la deuxième, elle est en caps lock. Et tu me fais une variation en full caps lock aussi. Et tu me fais même une troisième variation en caps comme ça on voit tout (6 October 2026, 14:59:35 +0200)
+
+## 6 October 2026, 15:01:39 +0200 : Iteration
+
+<!-- feedback-event:736baad6c69e9397524d675108c1c5f9635cd4b7530896a232eba594789f84b5 (6 October 2026, 15:01:39 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:01:39 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 15:01:39 +0200)
+
+> Six nouveaux MOV Vogun Medium original : trois compositions mixte,fullcaps,capitales espacees ; chacune popsimultane deuxlignes a1s ou1.5s,sansfondu,jusquacoupure5s. Blancombrecentree,4K30fps150images,0.60a0.79Mo. MediumSHA256preserve,timings etcontoursdanscadre verifies. SourcesMDJSONverification dans title-animation/vogun-pop. (6 October 2026, 15:01:39 +0200)
+
+## 6 October 2026, 15:01:49 +0200 : Iteration
+
+<!-- feedback-event:9b0c9a23050b77f3d637b53a26f7495c9f9080460670854319c6aa83d78735f1 (6 October 2026, 15:01:49 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:01:49 +0200)
+- Source: checkpoint:antigravity:9ef86ebe-668e-4d1f-b889-4af985f7a3fe. (6 October 2026, 15:01:49 +0200)
+
+> Musique et typographie : (1) telechargement et decoupe haute qualite de Grandbrothers - Sonic Riots de 03:59 a la fin (85,07 s, MP3 VBR Q0 a 303 kbps) dans audio/ avec INDEX.md ; (2) inscription de Vogun Medium (Yukita Creative, ~/Library/Fonts/Vogun-Medium.ttf) comme police display et titrage d accent dans CLAUDE.md et rules/Typography1.md, avec declencheurs ajoutes a triggers.json et miroirs propages. (6 October 2026, 15:01:49 +0200)
+
+## 6 October 2026, 15:01:55 +0200 : Iteration
+
+<!-- feedback-event:f66ae036b1b5af620a37c7cd7cc42c2c16deb9e06969ef2d0814471ec3827166 (6 October 2026, 15:01:55 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:01:55 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:01:55 +0200)
+
+> Voici les trois compositions en **Vogun Medium**, chacune avec deux timings. Les deux lignes apparaissent ensemble, sans fondu, puis coupent à cinq secondes. (6 October 2026, 15:01:55 +0200)
+>
+> | Composition | Pop à 1 seconde | Pop à 1,5 seconde | (6 October 2026, 15:01:55 +0200)
+> |---|---|---| (6 October 2026, 15:01:55 +0200)
+> | Première ligne normale, seconde en CAPS | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-mixed-pop-1s.mov) | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-mixed-pop-1_5s.mov) | (6 October 2026, 15:01:55 +0200)
+> | Deux lignes en CAPS | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-caps-pop-1s.mov) | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-caps-pop-1_5s.mov) | (6 October 2026, 15:01:55 +0200)
+> | CAPS espacées | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-spaced-caps-pop-1s.mov) | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-spaced-caps-pop-1_5s.mov) | (6 October 2026, 15:01:55 +0200)
+>
+> **4K, sans rognage, entre 0,60 et 0,79 Mo chacune.** (6 October 2026, 15:01:55 +0200)
+
+## 6 October 2026, 15:01:55 +0200 : Iteration
+
+<!-- feedback-event:3699569703a12085fa6a4c7edc7a6a60500ae87329cc97917f7bfaa6f678a107 (6 October 2026, 15:01:55 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:01:55 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:01:55 +0200)
+
+> Voici les trois compositions en **Vogun Medium**, chacune avec deux timings. Les deux lignes apparaissent ensemble, sans fondu, puis coupent à cinq secondes. (6 October 2026, 15:01:55 +0200)
+>
+> | Composition | Pop à 1 seconde | Pop à 1,5 seconde | (6 October 2026, 15:01:55 +0200)
+> |---|---|---| (6 October 2026, 15:01:55 +0200)
+> | Première ligne normale, seconde en CAPS | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-mixed-pop-1s.mov) | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-mixed-pop-1_5s.mov) | (6 October 2026, 15:01:55 +0200)
+> | Deux lignes en CAPS | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-caps-pop-1s.mov) | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-caps-pop-1_5s.mov) | (6 October 2026, 15:01:55 +0200)
+> | CAPS espacées | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-spaced-caps-pop-1s.mov) | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-spaced-caps-pop-1_5s.mov) | (6 October 2026, 15:01:55 +0200)
+>
+> **4K, sans rognage, entre 0,60 et 0,79 Mo chacune.** (6 October 2026, 15:01:55 +0200)

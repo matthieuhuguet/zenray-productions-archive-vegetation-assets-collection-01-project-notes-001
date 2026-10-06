@@ -1014,3 +1014,31 @@
 - Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:32:40 +0200)
 
 > Couleurs corrigees CMY pures : cyan00FFFF,magentaFF00FF,yellowFFFF00. Trois MOV4K30fps5s reexportes, timing1.5/2/1.5 et ombrecentree conserves. Verification02-cmy-verification.json. (6 October 2026, 14:32:40 +0200)
+
+## 6 October 2026, 14:33:10 +0200 : Iteration
+
+<!-- feedback-event:534373f5a5faede54edb71b709e2a9a1f0afa76213212b4a5a7bf8ca49ae1b54 (6 October 2026, 14:33:10 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:33:10 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:33:10 +0200)
+
+> Corrigé avec les **CMY pures**, en gardant l’ombre et le timing : (6 October 2026, 14:33:10 +0200)
+>
+> - [Cyan #00FFFF](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-cyan.mov) (6 October 2026, 14:33:10 +0200)
+> - [Magenta #FF00FF](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-magenta.mov) (6 October 2026, 14:33:10 +0200)
+> - [Jaune #FFFF00](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-yellow.mov) (6 October 2026, 14:33:10 +0200)
+>
+> **4K, cinq secondes, entre 1,30 et 1,48 Mo chacune.** (6 October 2026, 14:33:10 +0200)
+
+## 6 October 2026, 14:33:10 +0200 : Iteration
+
+<!-- feedback-event:b24830076d21be84f597388b6f808d06921ec72c00e940125f62d14e7103df40 (6 October 2026, 14:33:10 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:33:10 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:33:10 +0200)
+
+> Corrigé avec les **CMY pures**, en gardant l’ombre et le timing : (6 October 2026, 14:33:10 +0200)
+>
+> - [Cyan #00FFFF](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-cyan.mov) (6 October 2026, 14:33:10 +0200)
+> - [Magenta #FF00FF](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-magenta.mov) (6 October 2026, 14:33:10 +0200)
+> - [Jaune #FFFF00](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-yellow.mov) (6 October 2026, 14:33:10 +0200)
+>
+> **4K, cinq secondes, entre 1,30 et 1,48 Mo chacune.** (6 October 2026, 14:33:10 +0200)

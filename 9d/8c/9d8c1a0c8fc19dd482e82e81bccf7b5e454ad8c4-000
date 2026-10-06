@@ -767,3 +767,51 @@
 > Font Anthropic Serif Light (6 October 2026, 14:09:47 +0200)
 >
 > a ranger dans le dossier same format output que les pétales mais en 4k. Optimise pour que ce ne soit pas trop lourd. (6 October 2026, 14:09:47 +0200)
+
+## 6 October 2026, 14:14:09 +0200 : Iteration
+
+<!-- feedback-event:505dd5ff809519f50e5bc41667a2f87b31c2910fbb68489ea720caba84b31152 (6 October 2026, 14:14:09 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:14:09 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:14:09 +0200)
+
+> Trois variantes titre MOV 3840x2160, HEVC, 30 fps, 5 secondes : apparition 1s, maintien 3s, disparition 1s. AnthropicSerif-Light.ttf reelle poids300. Fichiers 1.22,1.26,1.36 Mo, fond clair opaque. Animation.md, HTML editable, parametres JSON et preuves Verification.json dans maps/trim/petals/title-animation. Dimensions,150frames,premiere et derniere images vides,maintien stable verifies. (6 October 2026, 14:14:09 +0200)
+
+## 6 October 2026, 14:14:23 +0200 : Iteration
+
+<!-- feedback-event:677203d760bebea9e0104cb21e21ea2f8413907a2db9c6193eb56982974031a2 (6 October 2026, 14:14:23 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:14:23 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:14:23 +0200)
+
+> Voici les **trois propositions MOV en 4K**, rangées avec les pétales : (6 October 2026, 14:14:23 +0200)
+>
+> | Proposition | Mouvement | Poids | (6 October 2026, 14:14:23 +0200)
+> |---|---|---| (6 October 2026, 14:14:23 +0200)
+> | [1. Circuit séquentiel](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/01-circuit-sequentiel.mov) | Activation électrique de gauche à droite | 1,22 Mo | (6 October 2026, 14:14:23 +0200)
+> | [2. Connexions croisées](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees.mov) | Les sections des lettres se raccordent depuis le centre | 1,26 Mo | (6 October 2026, 14:14:23 +0200)
+> | [3. Impulsion synchronisée](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/03-impulsion-synchronisee.mov) | Assemblage presque simultané, avec de brefs décalages | 1,36 Mo | (6 October 2026, 14:14:23 +0200)
+>
+> **Anthropic Serif Light**, deux lignes, aucun VFX. Timing vérifié : **1 seconde d’apparition, 3 secondes fixes, 1 seconde de disparition**. Aperçus sur fond clair opaque. (6 October 2026, 14:14:23 +0200)
+>
+> [Résumé de l’animation `.md`](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/Animation.md) (6 October 2026, 14:14:23 +0200)
+>
+> Dis-moi laquelle tu préfères : **1, 2 ou 3**. (6 October 2026, 14:14:23 +0200)
+
+## 6 October 2026, 14:14:23 +0200 : Iteration
+
+<!-- feedback-event:3d4c4a630d31ff90555b2d2541d972c69a8ce3d905736a985380ea04aa51218f (6 October 2026, 14:14:23 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:14:23 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:14:23 +0200)
+
+> Voici les **trois propositions MOV en 4K**, rangées avec les pétales : (6 October 2026, 14:14:23 +0200)
+>
+> | Proposition | Mouvement | Poids | (6 October 2026, 14:14:23 +0200)
+> |---|---|---| (6 October 2026, 14:14:23 +0200)
+> | [1. Circuit séquentiel](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/01-circuit-sequentiel.mov) | Activation électrique de gauche à droite | 1,22 Mo | (6 October 2026, 14:14:23 +0200)
+> | [2. Connexions croisées](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees.mov) | Les sections des lettres se raccordent depuis le centre | 1,26 Mo | (6 October 2026, 14:14:23 +0200)
+> | [3. Impulsion synchronisée](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/03-impulsion-synchronisee.mov) | Assemblage presque simultané, avec de brefs décalages | 1,36 Mo | (6 October 2026, 14:14:23 +0200)
+>
+> **Anthropic Serif Light**, deux lignes, aucun VFX. Timing vérifié : **1 seconde d’apparition, 3 secondes fixes, 1 seconde de disparition**. Aperçus sur fond clair opaque. (6 October 2026, 14:14:23 +0200)
+>
+> [Résumé de l’animation `.md`](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/Animation.md) (6 October 2026, 14:14:23 +0200)
+>
+> Dis-moi laquelle tu préfères : **1, 2 ou 3**. (6 October 2026, 14:14:23 +0200)

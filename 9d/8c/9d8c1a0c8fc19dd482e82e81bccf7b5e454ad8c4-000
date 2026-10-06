@@ -670,3 +670,11 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 13:34:08 +0200)
 
 > C'est quasi parfait il manque juste les détails de l'ambient occlusion qui pourrait renforcer les patterns motif ajoute le à la texture stp [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) (6 October 2026, 13:34:08 +0200)
+
+## 6 October 2026, 13:45:43 +0200 : Iteration
+
+<!-- feedback-event:b00a50cc4344e0aae08d6c11ec9d131c1105e45032f5593ffd1361b6e7981be9 (6 October 2026, 13:45:43 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 13:45:43 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 13:45:43 +0200)
+
+> 6 October 2026 : AO locale ajoutee a la base color Band0, intensite 0.05. Scene et carte 2048 sauvegardees. Comparaison fraiche : changement moyen Band0 2.1128/255, autres bandes depuis ligne 430 identiques. Skill archive et synchronise. Export 4096 non verifie. (6 October 2026, 13:45:43 +0200)

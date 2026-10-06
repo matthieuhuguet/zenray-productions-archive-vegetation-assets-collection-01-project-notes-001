@@ -1349,3 +1349,19 @@
 > | [Blanc #FFFFFF](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-white.mov) | 0,88 Mo | [.md](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-white.md) | (6 October 2026, 15:25:12 +0200)
 >
 > **Cinq secondes chacune : 1,5 s d’apparition, 2 s de maintien, 1,5 s de sortie.** (6 October 2026, 15:25:12 +0200)
+
+## 6 October 2026, 15:33:52 +0200 : Prompt
+
+<!-- feedback-event:01045ade97913c93f5cd6db314ac13afa6cabf8575693ff806b07b5b6362d221 (6 October 2026, 15:33:52 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 15:33:52 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:33:52 +0200)
+
+> Actuellement, j'ai un problème sur Houdini. Karma XPU est pas supporté sur macOS. Donc Karma XPU ne fonctionne pas. Mais du coup, au lieu de tout le temps devoir ouvrir Unreal pour faire mes rendus, j'aimerais simplement ajouter un plugin dans Houdini qui me permette quand même de pouvoir utiliser mon GPU pour faire des rendus plus rapides. En fait, il me faudrait un rendu gratuit à l'image de Cycles dans Blender ou de Lumen dans Unreal. Bref, une global illumination ultra moderne qui est gratuite et intégrale dans Houdini. J'ai entendu parler de Redshift, mais je crois que c'est payant. J'aimerais vraiment quelque chose de gratuit à l'ère de Blender et d'Unreal. Je pense que c'est quand même relativement inutile de payer pour un moteur de rendu et surtout, je veux pas avoir des dépendances via une entreprise. Donc j'aimerais que tu me fasses le state of the art de ce qui existe en termes de rendu. J'aimerais que tu utilises ta propre documentation, ton propre LLM pour aller rechercher dans la data ce qui existe, puis que tu ailles sur le web pour confirmer ce que tu penses. Mais je veux vraiment une recherche très très précise et très très intelligente (6 October 2026, 15:33:52 +0200)
+
+## 6 October 2026, 15:34:36 +0200 : Iteration
+
+<!-- feedback-event:aeffa76d77cdbafda339240c74cdc6c806f1d346ae1bfce02f0e1e46e1d425bb (6 October 2026, 15:34:36 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:34:36 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:34:36 +0200)
+
+> 6 October 2026 : movie v003 square 1920x1920, 43.67 s: 3 s hook (top render placeholder), trimsheet base colour and height from maps/trim, height storyboard, 3 petals, 4 Karma renders, yellow cyber title, Sonic Riots. Cuts verified at 3, 4.5, 6 s. Index video/INDEX.md. v002 removed. Watcher builds the final with the 72 turn over frames. (6 October 2026, 15:34:36 +0200)

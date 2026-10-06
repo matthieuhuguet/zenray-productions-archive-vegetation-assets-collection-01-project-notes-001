@@ -880,3 +880,47 @@
 >
 > Fleur de Lys est en francais  (6 October 2026, 14:19:30 +0200)
 > ZenRay Vegetation Collection 01 en anglais (6 October 2026, 14:19:30 +0200)
+
+## 6 October 2026, 14:23:39 +0200 : Iteration
+
+<!-- feedback-event:30e260530c13652ba537b9bfcfa5a9698756732d16c521a743719a318ece9fb4 (6 October 2026, 14:23:39 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:23:39 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:23:39 +0200)
+
+> Trois nouvelles variantes MOV agglomeration de blocs 4,14,40pixels. Titre anglais ZenRay Vegetation Collection 01, seconde ligne francaise Fleur de Lys. Ordre gauche droite puis haut bas mesure,4K30fps5s,maintien fixe et extremites vides verifies. Poids2.27,1.68,1.16Mo. Chaque MOV associe a MD et JSON, source HTML partagee dans maps/trim/petals/title-animation/voxel-variants. Anciennes variantes preservees. (6 October 2026, 14:23:39 +0200)
+
+## 6 October 2026, 14:23:51 +0200 : Iteration
+
+<!-- feedback-event:834e4c679a46027a1849e45fd4fec0a068b6ce15d9b346f2335dae01543d6d7c (6 October 2026, 14:23:51 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:23:51 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:23:51 +0200)
+
+> Voici les **trois nouvelles animations**, avec « ZenRay Vegetation Collection 01 » en anglais et « Fleur de Lys » en français. (6 October 2026, 14:23:51 +0200)
+>
+> | Animation | Taille des blocs | Poids | (6 October 2026, 14:23:51 +0200)
+> |---|---|---| (6 October 2026, 14:23:51 +0200)
+> | [Sable fin](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/04-sable-fin.mov) | 4 px | 2,27 Mo | (6 October 2026, 14:23:51 +0200)
+> | [Pixels agglomérés](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/05-pixels-agglomeres.mov) | 14 px | 1,68 Mo | (6 October 2026, 14:23:51 +0200)
+> | [Blocs voxel](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/06-blocs-voxels.mov) | 40 px | 1,16 Mo | (6 October 2026, 14:23:51 +0200)
+>
+> Toutes sont en **4K, cinq secondes**, avec formation de gauche à droite, puis de haut en bas. Chaque MOV possède son `.md` et ses réglages `.json` associés, dans le même dossier. (6 October 2026, 14:23:51 +0200)
+>
+> [Résumé des animations](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/Animation.md) (6 October 2026, 14:23:51 +0200)
+
+## 6 October 2026, 14:23:51 +0200 : Iteration
+
+<!-- feedback-event:fba189ec6191c6450ef50c6f902772ccc38b75966aebed7b86cafc553113e270 (6 October 2026, 14:23:51 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:23:51 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:23:51 +0200)
+
+> Voici les **trois nouvelles animations**, avec « ZenRay Vegetation Collection 01 » en anglais et « Fleur de Lys » en français. (6 October 2026, 14:23:51 +0200)
+>
+> | Animation | Taille des blocs | Poids | (6 October 2026, 14:23:51 +0200)
+> |---|---|---| (6 October 2026, 14:23:51 +0200)
+> | [Sable fin](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/04-sable-fin.mov) | 4 px | 2,27 Mo | (6 October 2026, 14:23:51 +0200)
+> | [Pixels agglomérés](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/05-pixels-agglomeres.mov) | 14 px | 1,68 Mo | (6 October 2026, 14:23:51 +0200)
+> | [Blocs voxel](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/06-blocs-voxels.mov) | 40 px | 1,16 Mo | (6 October 2026, 14:23:51 +0200)
+>
+> Toutes sont en **4K, cinq secondes**, avec formation de gauche à droite, puis de haut en bas. Chaque MOV possède son `.md` et ses réglages `.json` associés, dans le même dossier. (6 October 2026, 14:23:51 +0200)
+>
+> [Résumé des animations](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/voxel-variants/Animation.md) (6 October 2026, 14:23:51 +0200)

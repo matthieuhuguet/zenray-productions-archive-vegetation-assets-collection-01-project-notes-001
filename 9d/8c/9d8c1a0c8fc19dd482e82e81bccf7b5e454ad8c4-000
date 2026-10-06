@@ -1289,3 +1289,63 @@
 - Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:18:06 +0200)
 
 > 6 October 2026 : video 37.67 s (1920x1112, 24 fps, HEVC hvc1 .mov + H.264 .mp4) assembled in ZenRayHoudini/VegetationCollection01/video/ by Scripts/AssembleLilyMovie.py: height storyboard 84 images (0.33 s each, last held 1 s), 3 petal base colours (1 s), 4 Karma renders (1.5 s), title keyed over the first 5 s, Grandbrothers Sonic Riots from 3:59. Index video/INDEX.md. Turn over (72 frames, Karma CPU 1866x1080) still rendering (21 of 72), a watcher builds the final LilyHeightToRender_v001 when it ends. The 1280x740 XPU turn over frames were deleted by my cleanup. Next: wait for the render or re-render 720p with XPU. (6 October 2026, 15:18:06 +0200)
+
+## 6 October 2026, 15:21:44 +0200 : Iteration
+
+<!-- feedback-event:224765cd6b87aa75a71a1919eea688949e085aba4a803d298a14edfd8b51331a (6 October 2026, 15:21:44 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:21:44 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:21:44 +0200)
+
+> 6 October 2026 : movie v002 SQUARE 1920x1920 (black bars top and bottom around the 1920x1112 picture), 37.67 s, HEVC hvc1 mov + H.264 mp4 in VegetationCollection01/video/, index video/INDEX.md. v001 (non square) removed. Watcher builds the final v002 with the 72 turn over frames when the Karma CPU render ends (27 of 72). (6 October 2026, 15:21:44 +0200)
+
+## 6 October 2026, 15:22:47 +0200 : Prompt
+
+<!-- feedback-event:71f5fbdeab21af7d98a723d0501fc9ec63eb19c61c529a09ef3105e7592c4fa0 (6 October 2026, 15:22:47 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 15:22:47 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:22:47 +0200)
+
+> fait le en jaune en nouvelle variation et on va refaire l'anim de toute à l'heure (6 October 2026, 15:22:47 +0200)
+>
+> animation de gauche à droite de haut en bas et effet ping-pong lors du fade out et effet de variation cybernétique. Donc je te redonne exactement l'animation (6 October 2026, 15:22:47 +0200)
+>
+> c'était cette animation du coup à toi de la reprendre pour l'adapter à la nouvelle font /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/archive/6-October-2026/02-connexions-croisees-yellow.mov (6 October 2026, 15:22:47 +0200)
+>
+> je veux aussi la variation blanche go 2 output + .md (6 October 2026, 15:22:47 +0200)
+
+## 6 October 2026, 15:24:51 +0200 : Iteration
+
+<!-- feedback-event:ead6d0eadf078231dfd748d3b44622367868998d90764a62cc8571b4f2edfb62 (6 October 2026, 15:24:51 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:24:51 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 15:24:51 +0200)
+
+> Deux MOV adaptes du jaunearchive : VogunMediumoriginal,premiereligneanglaise casenormale,seconde FLEUR DE LYS. JauneFFFF00 etblancFFFFFF,apparitioncyber gaucheadroitehautbas1.5s,maintien2s,sortiepingpongcyber1.5s,total5s.4K30fps150images,1.22et0.88Mo. MDJSONetVerification.jsondans title-animation/vogun-cyber. Popselectionnepreserve. (6 October 2026, 15:24:51 +0200)
+
+## 6 October 2026, 15:25:11 +0200 : Iteration
+
+<!-- feedback-event:69c988fb6b5f146ee76b8e539329116bc0082980175629d1f3b50f25efe188dd (6 October 2026, 15:25:11 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:25:11 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:25:11 +0200)
+
+> Les deux versions **Vogun Medium** sont prêtes : apparition cybernétique de gauche à droite puis de haut en bas, avec sortie **ping-pong**. (6 October 2026, 15:25:11 +0200)
+>
+> | MOV 4K | Poids | Descriptif | (6 October 2026, 15:25:11 +0200)
+> |---|---|---| (6 October 2026, 15:25:11 +0200)
+> | [Jaune #FFFF00](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-yellow.mov) | 1,22 Mo | [.md](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-yellow.md) | (6 October 2026, 15:25:11 +0200)
+> | [Blanc #FFFFFF](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-white.mov) | 0,88 Mo | [.md](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-white.md) | (6 October 2026, 15:25:11 +0200)
+>
+> **Cinq secondes chacune : 1,5 s d’apparition, 2 s de maintien, 1,5 s de sortie.** (6 October 2026, 15:25:11 +0200)
+
+## 6 October 2026, 15:25:12 +0200 : Iteration
+
+<!-- feedback-event:7454f401d5512fc0e544f5b72dc7ae54b2f3319625a32d0078c54cac072a662e (6 October 2026, 15:25:12 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:25:12 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:25:12 +0200)
+
+> Les deux versions **Vogun Medium** sont prêtes : apparition cybernétique de gauche à droite puis de haut en bas, avec sortie **ping-pong**. (6 October 2026, 15:25:12 +0200)
+>
+> | MOV 4K | Poids | Descriptif | (6 October 2026, 15:25:12 +0200)
+> |---|---|---| (6 October 2026, 15:25:12 +0200)
+> | [Jaune #FFFF00](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-yellow.mov) | 1,22 Mo | [.md](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-yellow.md) | (6 October 2026, 15:25:12 +0200)
+> | [Blanc #FFFFFF](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-white.mov) | 0,88 Mo | [.md](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-cyber/vogun-cyber-pingpong-white.md) | (6 October 2026, 15:25:12 +0200)
+>
+> **Cinq secondes chacune : 1,5 s d’apparition, 2 s de maintien, 1,5 s de sortie.** (6 October 2026, 15:25:12 +0200)

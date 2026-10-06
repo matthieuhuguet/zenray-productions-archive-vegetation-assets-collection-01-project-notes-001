@@ -1042,3 +1042,39 @@
 > - [Jaune #FFFF00](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-yellow.mov) (6 October 2026, 14:33:10 +0200)
 >
 > **4K, cinq secondes, entre 1,30 et 1,48 Mo chacune.** (6 October 2026, 14:33:10 +0200)
+
+## 6 October 2026, 14:36:16 +0200 : Prompt
+
+<!-- feedback-event:f70d554e8b495f14f3993ebb2b439713d7a9f7370ccf8fedd1eada64d95664f3 (6 October 2026, 14:36:16 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 14:36:16 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:36:16 +0200)
+
+> La première ligne, du coup, c'est toujours pareil, mais en fait, la deuxième ligne, elle apparaît au bout de 1 seconde mais d'un coup. En fait, c'est comme si elle faisait un gros pop. Genre, c'est ce qu'il y a dans Control et dans Alan Wake et c'est super stylé. Et en fait, tu vas pas mettre Tu vas mettre Donc en fait, la première animation, en fait, ça va être simplement un fade-in tranquille. Et ouais, la deuxième, ça va être En fait, c'est au bout de 1 seconde, ça pop d'un coup et ça va être inter Attends, je regarde dans mon sketchbook. Inter À mon avis, ça va être la plus grosse défonce. Donc ça va être voilà, ça va être inter black et tu me pop mon truc. Évidemment, il faut pas qu'il y ait de cropping ou de machin. (6 October 2026, 14:36:16 +0200)
+>
+> recap Donc la première ligne, c'est toujours la même fonte et simplement un fade-in qui s'affiche en 1 seconde. À 1 seconde, ça disparaît instantanément. Et tu as l'animation fleur de lys qui apparaît dans la seconde ligne et qui pop immédiatement en fait, il n'y a pas de délai d'animation. Et là, c'est inter black qu'il faut mettre. Ça reste affiché, c'est pendant 1,5 seconde. Du coup, ça reste affiché jusqu'au truc et ensuite ça disparaît à la 5e seconde. Mais du coup, il n'y a plus de transition d'animation du fait que ça parte. Ouais, c'est pas grave. Ou alors, il y a un fade-in à 1,5 seconde. Ouais, on peut essayer. On peut essayer deux variations et je te dis ce que je (6 October 2026, 14:36:16 +0200)
+>
+> donc à 1.5 sec [$wait-validation](/Users/zenray/.codex/skills/wait-validation/SKILL.md) (6 October 2026, 14:36:16 +0200)
+
+## 6 October 2026, 14:36:27 +0200 : Iteration
+
+<!-- feedback-event:530d628a614d8598b013b1eb360aaa101331fa7698d3c8f61c1bb7822a907ab1 (6 October 2026, 14:36:27 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:36:27 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:36:27 +0200)
+
+> Je prévois deux variantes : première ligne en **Anthropic Serif Light**, fondu de 0 à 1 seconde puis disparition instantanée ; à **1,5 seconde**, « Fleur de Lys » apparaît en **Inter Black**, sans aucun rognage. (6 October 2026, 14:36:27 +0200)
+>
+> **A :** apparition immédiate, gros pop. **B :** fondu très rapide à partir de 1,5 seconde. Le titre reste ensuite visible jusqu’à la coupure à 5 secondes. (6 October 2026, 14:36:27 +0200)
+>
+> J’attends ton **go**, conformément au skill `wait-validation`. (6 October 2026, 14:36:27 +0200)
+
+## 6 October 2026, 14:36:27 +0200 : Iteration
+
+<!-- feedback-event:f171fb3371795f52933e4922869de40c5a4caa6b2310e9bcb59f007941a9abc7 (6 October 2026, 14:36:27 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:36:27 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:36:27 +0200)
+
+> Je prévois deux variantes : première ligne en **Anthropic Serif Light**, fondu de 0 à 1 seconde puis disparition instantanée ; à **1,5 seconde**, « Fleur de Lys » apparaît en **Inter Black**, sans aucun rognage. (6 October 2026, 14:36:27 +0200)
+>
+> **A :** apparition immédiate, gros pop. **B :** fondu très rapide à partir de 1,5 seconde. Le titre reste ensuite visible jusqu’à la coupure à 5 secondes. (6 October 2026, 14:36:27 +0200)
+>
+> J’attends ton **go**, conformément au skill `wait-validation`. (6 October 2026, 14:36:27 +0200)

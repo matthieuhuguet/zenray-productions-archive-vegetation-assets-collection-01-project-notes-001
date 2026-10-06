@@ -2591,3 +2591,65 @@
 - Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 21:43:43 +0200)
 
 > 6 October 2026 : article Fleur de Lys écrit en brouillon non publié (33 figures WebP numérotées et indexées, 3 affiches, vignette, environ 6 100 mots), branche locale article-fleur-de-lys-draft du worktree du site, commit 84954cd, ni poussé ni déployé. Vérifié : Check.py vert et rouge sur copie cassée, rendu local contrôlé (aucune image plus haute que 86 % de la fenêtre ni plus large que 1400 px), carte et ancres. Code Assets : conversations liées au projet par preuve de chemins (LinkConversations, ConversationDigest avec filtre de confidentialité), correctif d identité des sessions Claude reprises, branche assets-conversation-links commit 282e8bec, 113 tests passent dans 10 suites, contrat de skill enregistré. ConversationIndex du projet régénéré, sessions Claude 2562b086, Codex 01a10bce et Gemini 20a24469 liées. Prochain : Matthieu poste les trois vidéos et donne les identifiants, les écrire dans VideoIds.json, relancer Article.py et Check.py, fusionner et déployer ; redémarrer le service Assets quand sa file est vide. Non vérifié : sauvegarde cloud des nouveaux fichiers (file en cours), traductions française et japonaise de l article non faites. (6 October 2026, 21:43:43 +0200)
+
+## 6 October 2026, 22:26:10 +0200 : Prompt
+
+<!-- feedback-event:5167c2b981236022c6e258bc8458efcca8bd0af6152c4ffdda37140abf2dbc4b (6 October 2026, 22:26:10 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 22:26:10 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 22:26:10 +0200)
+
+> [https://matthieuhuguet.com/reels/fleur-de-lys-procedural-lily-houdini-unreal](https://matthieuhuguet.com/reels/fleur-de-lys-procedural-lily-houdini-unreal) (6 October 2026, 22:26:10 +0200)
+> SUR CET ARTICLE ATTENTION (6 October 2026, 22:26:10 +0200)
+> /claude-md-global /zenray-houdini /zenray-website  Three agents worked on this project: Claude Code, Codex and Gemini. They do not share a conversation, they share a memory. ZenRay Assets V2 maps every folder of the project (the workshop, the Houdini scene, the Unreal content, the notes), keeps a feedback file with every prompt and every correction, and writes a checkpoint at the end of each session. Houdini is driven live through a small bridge, Unreal through a queue of Python scripts. (6 October 2026, 22:26:10 +0200)
+>
+> Donc tu vas enregistrer le protocole dans l'article Zen Rehoudini. Et par contre, toutes les mentions, et ça c'est très très mauvais ce que tu as fait, toutes les mentions d'agent ou d'automatisation ou de Claude Code ou de Codex ou de Gemini ou de LLM ou de AI, toutes ces mentions ne doivent jamais, au grand jamais, être omises par un LLM, notamment lors de l'écriture d'un article. Et toutes les valeurs qui sont peu humaines, peu sincères, peu authentiques, etc., ne doivent jamais, au grand jamais, être publiées dans un article. C'est pourquoi tu vas revoir l'article et tu vas supprimer toutes les mentions qui le mentionnent, puis tu vas noter dans Claude.md ainsi que dans Zen Rehoudini ainsi que dans website, donc dans le skill de website, de ne jamais faire ce genre de mention, car l'IA, il vaut mieux ne pas l'afficher directement. pour l'instant en tout cas. (6 October 2026, 22:26:10 +0200)
+> [$zenray-assets-v2](/Users/zenray/.codex/skills/zenray-assets-v2/SKILL.md)&#x20; (6 October 2026, 22:26:10 +0200)
+> Zenrea 7 V2, tu vas identifier la conversation et le JSON de Claude qui normalement est lié au projet TMP végétation puisqu'on a fait un article. Grâce à ce lien, tu vas me lire la conversation et tu vas voir le protocole de création d'article. Le protocole de création d'article normalement doit déjà être renseigné dans les skills et du coup tu vas modifier mon article ultimement et ensuite update tous mes skills pour ne plus jamais faire ce genre d'erreur. (6 October 2026, 22:26:10 +0200)
+>
+> je veux que tu me confirmes que tu as bien le contexte de l'autre conversation sur la création de l'article&#x20; (6 October 2026, 22:26:10 +0200)
+> Zenrea 7 V2, tu vas identifier la conversation et le JSON de Claude qui normalement est lié au projet TMP végétation puisqu'on a fait un article. Grâce à ce lien, tu vas me lire la conversation et tu vas voir le protocole de création d'article. Le protocole de création d'article normalement doit déjà être renseigné dans les skills et du coup tu vas modifier mon article ultimement et ensuite update tous mes skills pour ne plus jamais faire ce genre d'erreur. (6 October 2026, 22:26:10 +0200)
+> [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) (6 October 2026, 22:26:10 +0200)
+
+## 6 October 2026, 22:31:02 +0200 : Iteration
+
+<!-- feedback-event:ffd0877875cb6d2255c3052df503a311b665adbedfc78d1401a0d3d3498f2825 (6 October 2026, 22:31:02 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 22:31:02 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 22:31:02 +0200)
+
+> 6 October 2026: Read 25 article-related messages from linked Claude conversation 2562b086-836d-49c5-80c7-0c935a98513c. Removed internal agent and automation references from article and pipeline figure. Published website commit 721f051 to production; live article JSON matches corrected local file byte for byte. Preserved 33 figures and three videos. Added positive and negative publication checks and saved dated policy in CLAUDE.md, ShowYourWork and four synchronized skills. Next: use this publication gate for future articles. Local verification does not prove cloud backup. (6 October 2026, 22:31:02 +0200)
+
+## 6 October 2026, 22:31:27 +0200 : Iteration
+
+<!-- feedback-event:053e4f27994150df7dc477599005956f92d31e2dda0f8b510364ce6cfb352352 (6 October 2026, 22:31:27 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 22:31:27 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 22:31:27 +0200)
+
+> Oui, j’ai retrouvé la conversation **« Vegetations Creating Materials October 2026 »** et lu les passages consacrés à la création de l’article. (6 October 2026, 22:31:27 +0200)
+>
+> [L’article corrigé est publié](https://matthieuhuguet.com/reels/fleur-de-lys-procedural-lily-houdini-unreal). (6 October 2026, 22:31:27 +0200)
+>
+> | Ta demande | État | Preuve | (6 October 2026, 22:31:27 +0200)
+> |---|---|---| (6 October 2026, 22:31:27 +0200)
+> | Retirer les mentions internes | Fait | Texte et figure du pipeline corrigés, fichiers publics vérifiés | (6 October 2026, 22:31:27 +0200)
+> | Conserver le contenu du projet | Fait | 33 figures et 3 vidéos conservées | (6 October 2026, 22:31:27 +0200)
+> | Consigner la règle et le protocole | Fait | CLAUDE.md et quatre skills synchronisés, mémoire enregistrée | (6 October 2026, 22:31:27 +0200)
+>
+> Un contrôle bloque désormais ces mentions avant publication, sans inventer de vécu ou d’auteur pour les remplacer. (6 October 2026, 22:31:27 +0200)
+
+## 6 October 2026, 22:31:27 +0200 : Iteration
+
+<!-- feedback-event:7f71f594eba9b1bfb574aa646b452d30fb089de7dd22f7fcf569b98a7135cd44 (6 October 2026, 22:31:27 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 22:31:27 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 22:31:27 +0200)
+
+> Oui, j’ai retrouvé la conversation **« Vegetations Creating Materials October 2026 »** et lu les passages consacrés à la création de l’article. (6 October 2026, 22:31:27 +0200)
+>
+> [L’article corrigé est publié](https://matthieuhuguet.com/reels/fleur-de-lys-procedural-lily-houdini-unreal). (6 October 2026, 22:31:27 +0200)
+>
+> | Ta demande | État | Preuve | (6 October 2026, 22:31:27 +0200)
+> |---|---|---| (6 October 2026, 22:31:27 +0200)
+> | Retirer les mentions internes | Fait | Texte et figure du pipeline corrigés, fichiers publics vérifiés | (6 October 2026, 22:31:27 +0200)
+> | Conserver le contenu du projet | Fait | 33 figures et 3 vidéos conservées | (6 October 2026, 22:31:27 +0200)
+> | Consigner la règle et le protocole | Fait | CLAUDE.md et quatre skills synchronisés, mémoire enregistrée | (6 October 2026, 22:31:27 +0200)
+>
+> Un contrôle bloque désormais ces mentions avant publication, sans inventer de vécu ou d’auteur pour les remplacer. (6 October 2026, 22:31:27 +0200)

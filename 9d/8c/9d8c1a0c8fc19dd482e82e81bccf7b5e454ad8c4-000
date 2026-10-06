@@ -998,3 +998,19 @@
 > | [Turquoise](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/02-connexions-croisees-turquoise.mov) | 1,20 Mo | (6 October 2026, 14:28:43 +0200)
 >
 > Durée vérifiée : **cinq secondes chacune**. (6 October 2026, 14:28:43 +0200)
+
+## 6 October 2026, 14:31:38 +0200 : Prompt
+
+<!-- feedback-event:ba1df7d1890fdd338f6ca6a87c9bcfa3860d681ca4a4f1c1ef9e62500e84b661 (6 October 2026, 14:31:38 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 14:31:38 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:31:38 +0200)
+
+> Non les couleurs sont mauvaise apply l'équivalent FFF de CMY (yellow) (6 October 2026, 14:31:38 +0200)
+
+## 6 October 2026, 14:32:40 +0200 : Iteration
+
+<!-- feedback-event:d30bd2fdaa5ac9c07d5759fb35e83949a3237e7ebe0da8d102ad1a6d5457530e (6 October 2026, 14:32:40 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:32:40 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:32:40 +0200)
+
+> Couleurs corrigees CMY pures : cyan00FFFF,magentaFF00FF,yellowFFFF00. Trois MOV4K30fps5s reexportes, timing1.5/2/1.5 et ombrecentree conserves. Verification02-cmy-verification.json. (6 October 2026, 14:32:40 +0200)

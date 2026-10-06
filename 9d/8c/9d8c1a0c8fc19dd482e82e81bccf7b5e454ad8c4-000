@@ -1233,3 +1233,59 @@
 > | CAPS espacées | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-spaced-caps-pop-1s.mov) | [MOV](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-spaced-caps-pop-1_5s.mov) | (6 October 2026, 15:01:55 +0200)
 >
 > **4K, sans rognage, entre 0,60 et 0,79 Mo chacune.** (6 October 2026, 15:01:55 +0200)
+
+## 6 October 2026, 15:08:38 +0200 : Prompt
+
+<!-- feedback-event:4b883cc9d1289b8b7a06b8d3ad5d92f7f699f25b071745ea75c142a37cdb1afa (6 October 2026, 15:08:38 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 15:08:38 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:08:38 +0200)
+
+> /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-mixed-pop-1s.mov on va garder lui archive les autres stp ... a 1 sec et mix line 1 no caps Pascal Case with spaces line 2 caps. (6 October 2026, 15:08:38 +0200)
+>
+> donc archive aussi les anciens merci (6 October 2026, 15:08:38 +0200)
+
+## 6 October 2026, 15:10:49 +0200 : Iteration
+
+<!-- feedback-event:4ba83f970aec2a42b203c295b6217cce0b02d1a5e062db88854572ee16d27c6b (6 October 2026, 15:10:49 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:10:49 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 15:10:49 +0200)
+
+> Vogun mixed pop1s retenu seulMOVactif a soncheminoriginal,premiereligneZenRay Vegetation Collection01 etsecondeFLEUR DE LYS. Anciennesvariantesetsourcesarchivees archive/6-October-2026 via gear159operations0echecs.232fichiersoriginauxSHA256identiques. Sourcesselectionetfontconservees,Animation.jsonreduitaseuleinstance,Selected.md etarchiveVerification.json. (6 October 2026, 15:10:49 +0200)
+
+## 6 October 2026, 15:11:31 +0200 : Iteration
+
+<!-- feedback-event:846c22b57f258ccc8840a8dfbd775ebfda6dee5b86093c0f168456d2699fff39 (6 October 2026, 15:11:31 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:11:31 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:11:31 +0200)
+
+> La [version retenue](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-mixed-pop-1s.mov) reste à son emplacement : pop à **1 seconde**, première ligne en casse normale, seconde en **CAPS**. (6 October 2026, 15:11:31 +0200)
+>
+> Les **21 autres MOV**, anciens compris, sont [archivés](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/archive/6-October-2026) avec leurs sources. (6 October 2026, 15:11:31 +0200)
+>
+> | Demande | Fait | Preuve | (6 October 2026, 15:11:31 +0200)
+> |---|---|---| (6 October 2026, 15:11:31 +0200)
+> | Garder uniquement celui-ci | Oui | Un seul MOV actif | (6 October 2026, 15:11:31 +0200)
+> | Archiver les autres sans perte | Oui | 232 fichiers vérifiés identiques | (6 October 2026, 15:11:31 +0200)
+
+## 6 October 2026, 15:11:32 +0200 : Iteration
+
+<!-- feedback-event:e48dd0d4679bdb9731611c56e806dbaf0b937a6ea5c6dfc509e5d8dbbed39202 (6 October 2026, 15:11:32 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:11:32 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:11:32 +0200)
+
+> La [version retenue](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/vogun-pop/vogun-mixed-pop-1s.mov) reste à son emplacement : pop à **1 seconde**, première ligne en casse normale, seconde en **CAPS**. (6 October 2026, 15:11:32 +0200)
+>
+> Les **21 autres MOV**, anciens compris, sont [archivés](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/archive/6-October-2026) avec leurs sources. (6 October 2026, 15:11:32 +0200)
+>
+> | Demande | Fait | Preuve | (6 October 2026, 15:11:32 +0200)
+> |---|---|---| (6 October 2026, 15:11:32 +0200)
+> | Garder uniquement celui-ci | Oui | Un seul MOV actif | (6 October 2026, 15:11:32 +0200)
+> | Archiver les autres sans perte | Oui | 232 fichiers vérifiés identiques | (6 October 2026, 15:11:32 +0200)
+
+## 6 October 2026, 15:18:06 +0200 : Iteration
+
+<!-- feedback-event:6c7c079f8012c8af41d4b0bacefebc3511959b39ece254f4286fb0dae2fb3609 (6 October 2026, 15:18:06 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:18:06 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:18:06 +0200)
+
+> 6 October 2026 : video 37.67 s (1920x1112, 24 fps, HEVC hvc1 .mov + H.264 .mp4) assembled in ZenRayHoudini/VegetationCollection01/video/ by Scripts/AssembleLilyMovie.py: height storyboard 84 images (0.33 s each, last held 1 s), 3 petal base colours (1 s), 4 Karma renders (1.5 s), title keyed over the first 5 s, Grandbrothers Sonic Riots from 3:59. Index video/INDEX.md. Turn over (72 frames, Karma CPU 1866x1080) still rendering (21 of 72), a watcher builds the final LilyHeightToRender_v001 when it ends. The 1280x740 XPU turn over frames were deleted by my cleanup. Next: wait for the render or re-render 720p with XPU. (6 October 2026, 15:18:06 +0200)

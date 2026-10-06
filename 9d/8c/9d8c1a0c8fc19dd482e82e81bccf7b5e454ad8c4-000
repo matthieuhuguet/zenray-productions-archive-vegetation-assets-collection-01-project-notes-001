@@ -1127,3 +1127,61 @@
 > | [Variante 2](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/title-animation/pop-variants/08-pop-at-1_5-seconds.mov) | Pop immédiat à **1,5 seconde** | 0,51 Mo | (6 October 2026, 14:40:26 +0200)
 >
 > Première ligne en **Anthropic Serif Light**, fondu jusqu’à 1,5 seconde puis disparition. « Fleur de Lys » en **Inter Black**, taille maximale sans rognage, reste jusqu’à la coupure à **5 secondes**. (6 October 2026, 14:40:26 +0200)
+
+## 6 October 2026, 14:51:42 +0200 : Prompt
+
+<!-- feedback-event:ec8ad5ccf2c639c81e4cfe5937b1f6840992462761c0963e9d05cdab7d3a65be (6 October 2026, 14:51:42 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 14:51:42 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:51:42 +0200)
+
+> /Users/zenray/Downloads/Vogun-Medium.ttf prends vogun medium et simule pour  Et simule toutes les graisses de fontes pour l'installer proprement. Du coup, j'aimerais l'avoir de light à black. Ou sinon, tu peux juste faire de light à bold, ce sera déjà pas mal. sans changer medium sans faire aucune erreur bref l'installer dans mon fontbook (6 October 2026, 14:51:42 +0200)
+
+## 6 October 2026, 14:58:02 +0200 : Iteration
+
+<!-- feedback-event:641a3d16e7fb4224e0d5f48fd95a81785483e60214eaa89d80af77e394e42609 (6 October 2026, 14:58:02 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:58:02 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 14:58:02 +0200)
+
+> Vogun Light300 Regular400 Semibold600 Bold700 generees par contours synthetiques et installees Library/Fonts. Medium500 original deja installe conserve byteidentiqueSHA256. CoreText reconnait les cinqPostScriptnamesfamilleVogun ; couverture361codepoints et progressionencreverifiees. FontBookouvert. Recette font-weight-simulation archivee et synchronisee ; sortie assets/fonts/Vogun. (6 October 2026, 14:58:02 +0200)
+
+## 6 October 2026, 14:58:12 +0200 : Iteration
+
+<!-- feedback-event:90f8cce473f306fd293f860c3f96ad9f17263b5ceeefb9b8dbbad8eba585e816 (6 October 2026, 14:58:12 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:58:12 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:58:12 +0200)
+
+> **Vogun est installé de Light à Bold** dans Font Book : Light, Regular, Medium, Semibold et Bold. (6 October 2026, 14:58:12 +0200)
+>
+> Les nouvelles graisses sont simulées ; le **Medium original reste strictement intact**. (6 October 2026, 14:58:12 +0200)
+>
+> [Voir la comparaison des graisses](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/assets/fonts/Vogun/WeightComparison.png) (6 October 2026, 14:58:12 +0200)
+>
+> | Vérification | Résultat | Preuve | (6 October 2026, 14:58:12 +0200)
+> |---|---|---| (6 October 2026, 14:58:12 +0200)
+> | Cinq coupes disponibles | Oui | Reconnues par macOS | (6 October 2026, 14:58:12 +0200)
+> | Medium inchangé | Oui | Empreinte SHA256 identique | (6 October 2026, 14:58:12 +0200)
+
+## 6 October 2026, 14:58:12 +0200 : Iteration
+
+<!-- feedback-event:edd3c82ba7cd9e7f8806c08bbd772422b9455e68de2495d9315c5de69b7f0039 (6 October 2026, 14:58:12 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 14:58:12 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:58:12 +0200)
+
+> **Vogun est installé de Light à Bold** dans Font Book : Light, Regular, Medium, Semibold et Bold. (6 October 2026, 14:58:12 +0200)
+>
+> Les nouvelles graisses sont simulées ; le **Medium original reste strictement intact**. (6 October 2026, 14:58:12 +0200)
+>
+> [Voir la comparaison des graisses](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/assets/fonts/Vogun/WeightComparison.png) (6 October 2026, 14:58:12 +0200)
+>
+> | Vérification | Résultat | Preuve | (6 October 2026, 14:58:12 +0200)
+> |---|---|---| (6 October 2026, 14:58:12 +0200)
+> | Cinq coupes disponibles | Oui | Reconnues par macOS | (6 October 2026, 14:58:12 +0200)
+> | Medium inchangé | Oui | Empreinte SHA256 identique | (6 October 2026, 14:58:12 +0200)
+
+## 6 October 2026, 14:59:35 +0200 : Prompt
+
+<!-- feedback-event:632a8f07e9ba10f5d634b0279df030abe17c91a88f9ac63b43279feea2aea6ec (6 October 2026, 14:59:35 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 14:59:35 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 14:59:35 +0200)
+
+> Parfait, du coup, on va utiliser cette méthode. Du coup, on va juste refaire une nouvelle variante d'animation et du coup, ça va juste être un pop média à 1 seconde. Pop média à 1 seconde. On peut aussi tenter le pop média à 1,5 seconde, mais il n'y aura pas de fade-in sur les animations et du coup, ce sera directement les deux textes qui apparaissent directement à 1 seconde. Comme ça, ce sera très très simple et très très beau. Et du coup, ben il faut que tu utilises Vogun Medium en revanche, donc la fonte, donc la police. En revanche, la première ligne, elle est en case pas caps, sauf que la deuxième, elle est en caps lock. Et tu me fais une variation en full caps lock aussi. Et tu me fais même une troisième variation en caps comme ça on voit tout (6 October 2026, 14:59:35 +0200)

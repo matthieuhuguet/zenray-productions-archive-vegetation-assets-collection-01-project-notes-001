@@ -638,3 +638,11 @@
 - Source: checkpoint:antigravity:9ef86ebe-668e-4d1f-b889-4af985f7a3fe. (6 October 2026, 12:35:37 +0200)
 
 > Ajout et classement des 3 photos botaniques de reference du lys depuis Downloads dans refs/raw/1-flower-lily/photos/ : 01_lys1_fleur-double-rose.png, 02_lys2_stargazer-etamines-pistil.png, 03_feuillelys3_bouton-feuille-tige-isole.png. Integrite SHA256 verifiee bit a bit. INDEX.md cree avec inventaire, resolutions, canaux et zones du trim. Pris en compte par ZenRay Assets V2 (968 fichiers mappes). (6 October 2026, 12:35:37 +0200)
+
+## 6 October 2026, 13:11:04 +0200 : Iteration
+
+<!-- feedback-event:162c6068b054cedb8bf6fe3d61bba03a2d96b53dd67a4ba9e8ef624a2524a264 (6 October 2026, 13:11:04 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 13:11:04 +0200)
+- Source: checkpoint:antigravity:9ef86ebe-668e-4d1f-b889-4af985f7a3fe. (6 October 2026, 13:11:04 +0200)
+
+> Doctrine et skills mis a jour : (1) dans zenray-houdini SKILL.md et Copernicus1.md, consignation du dialogue Back and Forth Houdini et ChatGPT Image pour la height, decoupage progressif en references et astuce de la cellule centrale symetrisee pour les textures non seamless ; (2) dans CLAUDE.md et rules/SkillsAndMemory1.md, inscription de la regle de pause reflexive pendant une boucle longue pour pivoter en autonomie vers la bonne methode. Synchronisation globale executee. (6 October 2026, 13:11:04 +0200)

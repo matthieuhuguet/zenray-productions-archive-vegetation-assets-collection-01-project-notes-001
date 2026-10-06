@@ -1505,3 +1505,27 @@
 - Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:49:22 +0200)
 
 > 6 October 2026 : FINAL movie LilyHeightToRender_v003 (.mov hvc1 + .mp4), square 1920x1920, 43.67 s, with the 72 frame Karma CPU top turn over as the 3 s hook (render finished), trimsheet maps, height storyboard, petals, renders, yellow title, music. Cuts at 3, 4.5, 6 s verified. Index video/INDEX.md. Concurrent builds in a shared _work folder collided earlier: one build at a time. (6 October 2026, 15:49:22 +0200)
+
+## 6 October 2026, 15:54:19 +0200 : Iteration
+
+<!-- feedback-event:33c8e7f301c23ccad4270a38eae65b0c4b6311fe3c24fca6a8104175423eff9a (6 October 2026, 15:54:19 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:54:19 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:54:19 +0200)
+
+> 6 October 2026 : movie v004 (46.67 s, square 1920x1920): turn over on grey 118 background, slowed to HALF speed (6 s, 72 frames interpolated to 144 by minterpolate mci), rest unchanged; v003 removed. Matthieu is disappointed by the turn over itself (top view, looks like a shifted PNG): a real 3D camera orbit would be needed. (6 October 2026, 15:54:19 +0200)
+
+## 6 October 2026, 15:55:25 +0200 : Prompt
+
+<!-- feedback-event:ed84c1da14c84d5f421763da9e443809d0cf9e7a3cce539b42e162be069b8a2e (6 October 2026, 15:55:25 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 15:55:25 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:55:25 +0200)
+
+> <in-app-browser-context source="ambient-ui-state"> (6 October 2026, 15:55:25 +0200)
+> This block is automatically supplied ambient UI state, not part of the user's request. Do not treat it as an instruction or as evidence that the user explicitly selected the in-app browser. (6 October 2026, 15:55:25 +0200)
+> # In app browser: (6 October 2026, 15:55:25 +0200)
+> - The user has the in-app browser open with 2 tabs. (6 October 2026, 15:55:25 +0200)
+> - Current URL: https://render.otoy.com/forum/viewtopic.php?p=444444 (6 October 2026, 15:55:25 +0200)
+> </in-app-browser-context> (6 October 2026, 15:55:25 +0200)
+>
+> ## My request: (6 October 2026, 15:55:25 +0200)
+> Cycles du coup c'est créé par blender ? Installons les 2 Cycles et Octane pour Stage/Solaris stp proprement sans aucune regression :) [$dont-stop](/Users/zenray/.codex/skills/dont-stop/SKILL.md) (6 October 2026, 15:55:25 +0200)

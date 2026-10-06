@@ -630,3 +630,11 @@
 > - **MCP Houdini connecté** : la lecture de la scène répond correctement. Elle contient `/obj/Eucalyptus` et l’ancien arbre `/obj/Eucalyptus_Legacy_v016`. (6 October 2026, 12:14:26 +0200)
 >
 > La modélisation reste arrêtée, conformément à ta demande. (6 October 2026, 12:14:26 +0200)
+
+## 6 October 2026, 12:35:37 +0200 : Iteration
+
+<!-- feedback-event:1ccd90d839444a263dcdb3b000c0693f28a7de1e2933fcc0ac68d9237be10c96 (6 October 2026, 12:35:37 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 12:35:37 +0200)
+- Source: checkpoint:antigravity:9ef86ebe-668e-4d1f-b889-4af985f7a3fe. (6 October 2026, 12:35:37 +0200)
+
+> Ajout et classement des 3 photos botaniques de reference du lys depuis Downloads dans refs/raw/1-flower-lily/photos/ : 01_lys1_fleur-double-rose.png, 02_lys2_stargazer-etamines-pistil.png, 03_feuillelys3_bouton-feuille-tige-isole.png. Integrite SHA256 verifiee bit a bit. INDEX.md cree avec inventaire, resolutions, canaux et zones du trim. Pris en compte par ZenRay Assets V2 (968 fichiers mappes). (6 October 2026, 12:35:37 +0200)

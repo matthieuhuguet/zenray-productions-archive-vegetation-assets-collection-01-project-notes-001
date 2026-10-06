@@ -708,3 +708,49 @@
 > |---|---|---| (6 October 2026, 13:45:51 +0200)
 > | Renforcer les motifs avec l’AO | Oui | Comparaison avant/après en 2048 | (6 October 2026, 13:45:51 +0200)
 > | Préserver les autres bandes | Oui | Aucun changement mesuré hors Band0 | (6 October 2026, 13:45:51 +0200)
+
+## 6 October 2026, 13:50:26 +0200 : Prompt
+
+<!-- feedback-event:fad180a8d6395a4d26f73eedf89daaffd9b557bffa9dac3c5402c22280d61270 (6 October 2026, 13:50:26 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 13:50:26 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 13:50:26 +0200)
+
+> tu peux m'export la base color puis me donner le crop individuel des trois pétales. stp. merci beaucoup. (6 October 2026, 13:50:26 +0200)
+
+## 6 October 2026, 13:51:30 +0200 : Iteration
+
+<!-- feedback-event:3262fdceac04b51f80a5800779a7a81bbc6823a411181e1725aeb81271b649b9 (6 October 2026, 13:51:30 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 13:51:30 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 13:51:30 +0200)
+
+> Base color 2048 avec AO conservee : empreinte identique a Verified_AfterAO.png. Nouvelle tentative live interrompue par cook Band5 ; export precedent verifie utilise. Trois crops PNG sans redimensionnement : 683x395, 682x395, 683x395 dans maps/trim/petals, coordonnees dans Crops.json. (6 October 2026, 13:51:30 +0200)
+
+## 6 October 2026, 13:51:41 +0200 : Iteration
+
+<!-- feedback-event:d2566750885cffec1a6440f8eee311ba6016744de074bf77b1ff697a89b724bd (6 October 2026, 13:51:41 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 13:51:41 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 13:51:41 +0200)
+
+> Voici la **base color avec AO en 2048 × 2048**, et les trois crops PNG sans redimensionnement : (6 October 2026, 13:51:41 +0200)
+>
+> - [Base color complète](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/lily_trim_basecolor.png) (6 October 2026, 13:51:41 +0200)
+> - [Pétale 1](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/lily_petal_01_basecolor.png) (6 October 2026, 13:51:41 +0200)
+> - [Pétale 2](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/lily_petal_02_basecolor.png) (6 October 2026, 13:51:41 +0200)
+> - [Pétale 3](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/lily_petal_03_basecolor.png) (6 October 2026, 13:51:41 +0200)
+>
+> Le nouvel export live s’interrompt ; les fichiers utilisent l’export précédent, vérifié identique à la version validée avec AO. (6 October 2026, 13:51:41 +0200)
+
+## 6 October 2026, 13:51:41 +0200 : Iteration
+
+<!-- feedback-event:416c89e4e56208a87b49b14fd98ebf3d56a9950fd5dbb0a4e621f7d200ab29f9 (6 October 2026, 13:51:41 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 13:51:41 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 13:51:41 +0200)
+
+> Voici la **base color avec AO en 2048 × 2048**, et les trois crops PNG sans redimensionnement : (6 October 2026, 13:51:41 +0200)
+>
+> - [Base color complète](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/lily_trim_basecolor.png) (6 October 2026, 13:51:41 +0200)
+> - [Pétale 1](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/lily_petal_01_basecolor.png) (6 October 2026, 13:51:41 +0200)
+> - [Pétale 2](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/lily_petal_02_basecolor.png) (6 October 2026, 13:51:41 +0200)
+> - [Pétale 3](/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/maps/trim/petals/lily_petal_03_basecolor.png) (6 October 2026, 13:51:41 +0200)
+>
+> Le nouvel export live s’interrompt ; les fichiers utilisent l’export précédent, vérifié identique à la version validée avec AO. (6 October 2026, 13:51:41 +0200)

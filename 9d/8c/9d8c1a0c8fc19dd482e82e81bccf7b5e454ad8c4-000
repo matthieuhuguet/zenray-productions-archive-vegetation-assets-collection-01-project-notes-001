@@ -1365,3 +1365,143 @@
 - Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:34:36 +0200)
 
 > 6 October 2026 : movie v003 square 1920x1920, 43.67 s: 3 s hook (top render placeholder), trimsheet base colour and height from maps/trim, height storyboard, 3 petals, 4 Karma renders, yellow cyber title, Sonic Riots. Cuts verified at 3, 4.5, 6 s. Index video/INDEX.md. v002 removed. Watcher builds the final with the 72 turn over frames. (6 October 2026, 15:34:36 +0200)
+
+## 6 October 2026, 15:46:11 +0200 : Iteration
+
+<!-- feedback-event:66b01769f1283496257e9a366273b196392ad921dc4f7773e9ac2d79080aaf76 (6 October 2026, 15:46:11 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:46:11 +0200)
+- Source: checkpoint:codex:01a10bce-5162-72a0-b738-4ec8574e1ddc. (6 October 2026, 15:46:11 +0200)
+
+> 6 October 2026 : recherche documentaire primaire consignée dans research/HoudiniMacGpuRendering.md. Machine mesurée Apple M5 Max, macOS 27.0.1. Cycles officiel Hydra avec instructions Houdini 21+ et backend Metal identifié, distinct du boberfly/hdcycles ancien. Octane 2026.5 Prime arm64 publié pour Houdini 22.0.368 et Solaris, mais activation en ligne propriétaire. Mitsuba 3.9 et hdMitsuba Metal identifiés. Radeon ProRender sans paquet Houdini 22 Mac établi. Aucun plugin installé ni vitesse mesurée ; MCP live inaccessible. Prochain : qualification Cycles sur scène jetable avec preuve Metal et alpha de feuille. Skill zenray-houdini complété et synchronisé. (6 October 2026, 15:46:11 +0200)
+
+## 6 October 2026, 15:47:52 +0200 : Iteration
+
+<!-- feedback-event:9fd00573fc98a117e60fa1275ee7840bc87e08fd71d2c9b5787a9c63ae6052e6 (6 October 2026, 15:47:52 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:47:52 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:47:52 +0200)
+
+> **La piste qui correspond le mieux à tes critères est Cycles lui-même, intégré à Solaris par son délégué Hydra officiel.** Il existe aussi un plugin **Octane Prime gratuit pour Mac**, publié pour ta version de Houdini. Leur différence décisive concerne l’indépendance : Cycles est libre, tandis qu’Octane dépend d’une licence OTOY. (6 October 2026, 15:47:52 +0200)
+>
+> Je distingue ci-dessous ce que la documentation et le code établissent de ce qui reste à tester sur ton **M5 Max**, que j’ai vérifié localement. Recherche arrêtée au **6 October 2026**. (6 October 2026, 15:47:52 +0200)
+>
+> D’abord, une précision sur Karma : **XPU peut fonctionner sur Apple Silicon, mais uniquement avec le CPU Embree**. Son accélération GPU nécessite actuellement NVIDIA ; aucun réglage ne permet d’activer le GPU Apple dans ce moteur. [Documentation SideFX](https://www.sidefx.com/docs/houdini/solaris/karma_xpu.html) (6 October 2026, 15:47:52 +0200)
+>
+> | Solution | Gratuité et indépendance | GPU Apple | Intégration Houdini | Évaluation | (6 October 2026, 15:47:52 +0200)
+> |---|---|---|---|---| (6 October 2026, 15:47:52 +0200)
+> | **Cycles officiel / Hydra** | Libre, Apache 2.0 | Backend Metal | Compilation documentée pour Houdini 21+ | **Premier candidat pour tes critères** | (6 October 2026, 15:47:52 +0200)
+> | **Octane Prime macOS** | Gratuit, propriétaire, activation en ligne | Metal | Paquet publié pour **22.0.368**, incluant Solaris | **Option la plus concrète à installer** | (6 October 2026, 15:47:52 +0200)
+> | **Mitsuba 3 / hdMitsuba** | Logiciels libres | Metal récent | Délégué Hydra à compiler | Alternative sérieuse, encore à qualifier | (6 October 2026, 15:47:52 +0200)
+> | **Radeon ProRender / hdRPR** | Plugin gratuit | Metal annoncé | Paquets Mac anciens, macOS expérimental | Compatibilité actuelle insuffisamment établie | (6 October 2026, 15:47:52 +0200)
+> | **Redshift** | Payant | GPU Apple pris en charge | Plugin ARM64 documenté | Fonctionnel en principe, hors critère gratuit | (6 October 2026, 15:47:52 +0200)
+>
+> Sources : [Cycles](https://github.com/blender/cycles/blob/main/BUILDING.md), [Octane](https://render.otoy.com/forum/viewtopic.php?p=444444), [hdMitsuba](https://github.com/google/hdmitsuba), [ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD/releases), [Redshift](https://www.maxon.net/en/redshift). (6 October 2026, 15:47:52 +0200)
+>
+> **Cycles est une piste actuelle, pas simplement un vieux plugin abandonné.** (6 October 2026, 15:47:52 +0200)
+>
+> Le dépôt officiel contient un délégué Hydra, c’est-à-dire l’adaptateur qui permet à Solaris de confier le rendu à Cycles. Les instructions Houdini sont actualisées en juin 2026 et demandent une compilation contre les bibliothèques USD de Houdini. Cette architecture permet de conserver la scène dans Houdini, sans ouvrir Blender. [Instructions officielles](https://github.com/blender/cycles/blob/main/BUILDING.md) (6 October 2026, 15:47:52 +0200)
+>
+> J’ai également vérifié le code : le backend Metal est activable sur Apple et le délégué sait sélectionner un périphérique de rendu. **Il peut toutefois revenir silencieusement au CPU**, ce qu’il faudra contrôler dans les logs. La présence de ces éléments rend la solution techniquement crédible, mais ne prouve pas encore son fonctionnement sur Houdini 22.0.368 et macOS 27.0.1. [Configuration Metal](https://github.com/blender/cycles/blob/main/CMakeLists.txt), [sélection du périphérique](https://github.com/blender/cycles/blob/main/src/hydra/render_delegate.cpp) (6 October 2026, 15:47:52 +0200)
+>
+> Il faut aussi distinguer ce dépôt de **boberfly/hdcycles**, ancien projet communautaire dont le dernier commit principal remonte à janvier 2021. [Ancien projet](https://github.com/boberfly/hdcycles) (6 October 2026, 15:47:52 +0200)
+>
+> **Octane Prime est réellement une option gratuite intégrée, avec une dépendance commerciale.** (6 October 2026, 15:47:52 +0200)
+>
+> L’annonce OTOY du **21 September 2026** fournit un paquet **Octane 2026.5.0.0 Prime macOS arm64 pour Houdini 22.0.368**. Les plugins Houdini classique et Solaris sont désormais réunis. [Annonce officielle](https://render.otoy.com/forum/viewtopic.php?p=444444) (6 October 2026, 15:47:52 +0200)
+>
+> L’offre annonce un usage personnel et commercial gratuit, mais exige une connexion au serveur de licence et conserve une disponibilité susceptible de changer. La page commerciale contient encore une mention ancienne de 2023 ; je ne transforme donc pas les téléchargements actuels en garantie de gratuité perpétuelle. [Conditions OTOY](https://home.otoy.com/render/octane-render/demo/) (6 October 2026, 15:47:52 +0200)
+>
+> Prime est limité à **un GPU**, ce qui ne signifie pas un seul cœur du GPU Apple. Il reste propriétaire et soumis à son activation : il répond au coût nul annoncé, mais satisfait moins bien ton exigence d’indépendance. [Licence Octane X](https://render.otoy.com/assets/docs/legal/eula/octanex_nonmacpro/Octane_X_EULA_08.13.2024.pdf) (6 October 2026, 15:47:52 +0200)
+>
+> **Mitsuba mérite désormais d’être considéré.** (6 October 2026, 15:47:52 +0200)
+>
+> Mitsuba **3.9.0**, publié en août 2026, apporte Metal. Le projet libre **hdMitsuba** montre du rendu interactif GPU sur macOS dans usdview et fournit un pont Hydra utilisable par des applications USD. Il faut cependant compiler les dépendances, qualifier Houdini et accepter certaines limites, notamment l’absence actuelle de volumes dans le délégué. [Mitsuba 3.9](https://github.com/mitsuba-renderer/mitsuba3/releases/tag/v3.9.0), [hdMitsuba](https://github.com/google/hdmitsuba) (6 October 2026, 15:47:52 +0200)
+>
+> Les autres noms ne résolvent pas mieux ton problème : (6 October 2026, 15:47:52 +0200)
+>
+> - **MoonRay** possède Hydra, mais son accélération GPU nécessite NVIDIA. [Documentation](https://docs.openmoonray.org/user-reference/execution-modes/) (6 October 2026, 15:47:52 +0200)
+> - **RenderMan 27** propose une licence non commerciale, mais macOS utilise encore RIS, sans XPU disponible. [FAQ Pixar](https://renderman.pixar.com/general-faq) (6 October 2026, 15:47:52 +0200)
+> - **Arnold** réserve son rendu GPU à NVIDIA sous Windows/Linux. Un débruiteur Metal ne change pas cette restriction. [Configuration requise](https://help.autodesk.com/cloudhelp/ENU/AR-Core/files/arnold_user_guide_ac_system_requirements_html.html) (6 October 2026, 15:47:52 +0200)
+> - **LuisaRender** possède Metal, mais je n’ai pas établi d’intégration Houdini prête à utiliser. [Dépôt](https://github.com/LuisaGroup/LuisaRender) (6 October 2026, 15:47:52 +0200)
+> - **V-Ray 7** dispose désormais de Metal RT ; l’ancienne affirmation « V-Ray GPU ne fonctionne pas sur Mac » est périmée. Il reste commercial. [Documentation Chaos](https://support.chaos.com/hc/en-us/articles/4412218197265-Can-I-use-V-Ray-GPU-on-macOS) (6 October 2026, 15:47:52 +0200)
+>
+> Pour ton travail, **je privilégierais donc une qualification courte du Cycles officiel** : une scène Solaris jetable avec éclairage indirect, tes textures, une feuille sur plane avec alpha, transmission et instances. Il faudra vérifier le GPU réellement utilisé, la traduction des matériaux, puis mesurer le temps de rendu. Les matériaux Karma existants ne sont pas automatiquement interchangeables ; le délégué Cycles contient notamment une traduction **UsdPreviewSurface**, dont l’opacité. [Code des matériaux](https://github.com/blender/cycles/blob/main/src/hydra/material.cpp) (6 October 2026, 15:47:52 +0200)
+>
+> Enfin, **GPU et temps réel restent deux objectifs différents** : Cycles et Octane calculent progressivement les rebonds lumineux, tandis que Lumen emploie une architecture conçue pour l’interactivité. Je ne promets donc pas la vitesse de Lumen simplement en installant un path tracer GPU. [Architecture Lumen](https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-technical-details-in-unreal-engine) (6 October 2026, 15:47:52 +0200)
+>
+> La comparaison détaillée est [enregistrée ici](/Users/zenray/.claude/tmp/tmp-vegetation-assets-collection-01/research/HoudiniMacGpuRendering.md) et consignée dans le skill Houdini. Aucun plugin n’est installé. (6 October 2026, 15:47:52 +0200)
+>
+> | Ce que tu voulais | État | Preuve | (6 October 2026, 15:47:52 +0200)
+> |---|---|---| (6 October 2026, 15:47:52 +0200)
+> | Une recherche précise | Fait | Documentation officielle et code examinés | (6 October 2026, 15:47:52 +0200)
+> | Une piste gratuite et libre dans Houdini | Identifiée | Délégué Cycles officiel avec backend Metal | (6 October 2026, 15:47:52 +0200)
+> | Un rendu plus rapide sur ton Mac | Non vérifié | Compilation et benchmark restent à effectuer | (6 October 2026, 15:47:52 +0200)
+
+## 6 October 2026, 15:47:52 +0200 : Iteration
+
+<!-- feedback-event:cc0095f202c972383a686e26930e6f923f0dee0ee3f25c25f74ab5282b60836d (6 October 2026, 15:47:52 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:47:52 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/05/rollout-2026-10-05T13-23-53-01a10bce-5162-72a0-b738-4ec8574e1ddc.jsonl. (6 October 2026, 15:47:52 +0200)
+
+> **La piste qui correspond le mieux à tes critères est Cycles lui-même, intégré à Solaris par son délégué Hydra officiel.** Il existe aussi un plugin **Octane Prime gratuit pour Mac**, publié pour ta version de Houdini. Leur différence décisive concerne l’indépendance : Cycles est libre, tandis qu’Octane dépend d’une licence OTOY. (6 October 2026, 15:47:52 +0200)
+>
+> Je distingue ci-dessous ce que la documentation et le code établissent de ce qui reste à tester sur ton **M5 Max**, que j’ai vérifié localement. Recherche arrêtée au **6 October 2026**. (6 October 2026, 15:47:52 +0200)
+>
+> D’abord, une précision sur Karma : **XPU peut fonctionner sur Apple Silicon, mais uniquement avec le CPU Embree**. Son accélération GPU nécessite actuellement NVIDIA ; aucun réglage ne permet d’activer le GPU Apple dans ce moteur. [Documentation SideFX](https://www.sidefx.com/docs/houdini/solaris/karma_xpu.html) (6 October 2026, 15:47:52 +0200)
+>
+> | Solution | Gratuité et indépendance | GPU Apple | Intégration Houdini | Évaluation | (6 October 2026, 15:47:52 +0200)
+> |---|---|---|---|---| (6 October 2026, 15:47:52 +0200)
+> | **Cycles officiel / Hydra** | Libre, Apache 2.0 | Backend Metal | Compilation documentée pour Houdini 21+ | **Premier candidat pour tes critères** | (6 October 2026, 15:47:52 +0200)
+> | **Octane Prime macOS** | Gratuit, propriétaire, activation en ligne | Metal | Paquet publié pour **22.0.368**, incluant Solaris | **Option la plus concrète à installer** | (6 October 2026, 15:47:52 +0200)
+> | **Mitsuba 3 / hdMitsuba** | Logiciels libres | Metal récent | Délégué Hydra à compiler | Alternative sérieuse, encore à qualifier | (6 October 2026, 15:47:52 +0200)
+> | **Radeon ProRender / hdRPR** | Plugin gratuit | Metal annoncé | Paquets Mac anciens, macOS expérimental | Compatibilité actuelle insuffisamment établie | (6 October 2026, 15:47:52 +0200)
+> | **Redshift** | Payant | GPU Apple pris en charge | Plugin ARM64 documenté | Fonctionnel en principe, hors critère gratuit | (6 October 2026, 15:47:52 +0200)
+>
+> Sources : [Cycles](https://github.com/blender/cycles/blob/main/BUILDING.md), [Octane](https://render.otoy.com/forum/viewtopic.php?p=444444), [hdMitsuba](https://github.com/google/hdmitsuba), [ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD/releases), [Redshift](https://www.maxon.net/en/redshift). (6 October 2026, 15:47:52 +0200)
+>
+> **Cycles est une piste actuelle, pas simplement un vieux plugin abandonné.** (6 October 2026, 15:47:52 +0200)
+>
+> Le dépôt officiel contient un délégué Hydra, c’est-à-dire l’adaptateur qui permet à Solaris de confier le rendu à Cycles. Les instructions Houdini sont actualisées en juin 2026 et demandent une compilation contre les bibliothèques USD de Houdini. Cette architecture permet de conserver la scène dans Houdini, sans ouvrir Blender. [Instructions officielles](https://github.com/blender/cycles/blob/main/BUILDING.md) (6 October 2026, 15:47:52 +0200)
+>
+> J’ai également vérifié le code : le backend Metal est activable sur Apple et le délégué sait sélectionner un périphérique de rendu. **Il peut toutefois revenir silencieusement au CPU**, ce qu’il faudra contrôler dans les logs. La présence de ces éléments rend la solution techniquement crédible, mais ne prouve pas encore son fonctionnement sur Houdini 22.0.368 et macOS 27.0.1. [Configuration Metal](https://github.com/blender/cycles/blob/main/CMakeLists.txt), [sélection du périphérique](https://github.com/blender/cycles/blob/main/src/hydra/render_delegate.cpp) (6 October 2026, 15:47:52 +0200)
+>
+> Il faut aussi distinguer ce dépôt de **boberfly/hdcycles**, ancien projet communautaire dont le dernier commit principal remonte à janvier 2021. [Ancien projet](https://github.com/boberfly/hdcycles) (6 October 2026, 15:47:52 +0200)
+>
+> **Octane Prime est réellement une option gratuite intégrée, avec une dépendance commerciale.** (6 October 2026, 15:47:52 +0200)
+>
+> L’annonce OTOY du **21 September 2026** fournit un paquet **Octane 2026.5.0.0 Prime macOS arm64 pour Houdini 22.0.368**. Les plugins Houdini classique et Solaris sont désormais réunis. [Annonce officielle](https://render.otoy.com/forum/viewtopic.php?p=444444) (6 October 2026, 15:47:52 +0200)
+>
+> L’offre annonce un usage personnel et commercial gratuit, mais exige une connexion au serveur de licence et conserve une disponibilité susceptible de changer. La page commerciale contient encore une mention ancienne de 2023 ; je ne transforme donc pas les téléchargements actuels en garantie de gratuité perpétuelle. [Conditions OTOY](https://home.otoy.com/render/octane-render/demo/) (6 October 2026, 15:47:52 +0200)
+>
+> Prime est limité à **un GPU**, ce qui ne signifie pas un seul cœur du GPU Apple. Il reste propriétaire et soumis à son activation : il répond au coût nul annoncé, mais satisfait moins bien ton exigence d’indépendance. [Licence Octane X](https://render.otoy.com/assets/docs/legal/eula/octanex_nonmacpro/Octane_X_EULA_08.13.2024.pdf) (6 October 2026, 15:47:52 +0200)
+>
+> **Mitsuba mérite désormais d’être considéré.** (6 October 2026, 15:47:52 +0200)
+>
+> Mitsuba **3.9.0**, publié en août 2026, apporte Metal. Le projet libre **hdMitsuba** montre du rendu interactif GPU sur macOS dans usdview et fournit un pont Hydra utilisable par des applications USD. Il faut cependant compiler les dépendances, qualifier Houdini et accepter certaines limites, notamment l’absence actuelle de volumes dans le délégué. [Mitsuba 3.9](https://github.com/mitsuba-renderer/mitsuba3/releases/tag/v3.9.0), [hdMitsuba](https://github.com/google/hdmitsuba) (6 October 2026, 15:47:52 +0200)
+>
+> Les autres noms ne résolvent pas mieux ton problème : (6 October 2026, 15:47:52 +0200)
+>
+> - **MoonRay** possède Hydra, mais son accélération GPU nécessite NVIDIA. [Documentation](https://docs.openmoonray.org/user-reference/execution-modes/) (6 October 2026, 15:47:52 +0200)
+> - **RenderMan 27** propose une licence non commerciale, mais macOS utilise encore RIS, sans XPU disponible. [FAQ Pixar](https://renderman.pixar.com/general-faq) (6 October 2026, 15:47:52 +0200)
+> - **Arnold** réserve son rendu GPU à NVIDIA sous Windows/Linux. Un débruiteur Metal ne change pas cette restriction. [Configuration requise](https://help.autodesk.com/cloudhelp/ENU/AR-Core/files/arnold_user_guide_ac_system_requirements_html.html) (6 October 2026, 15:47:52 +0200)
+> - **LuisaRender** possède Metal, mais je n’ai pas établi d’intégration Houdini prête à utiliser. [Dépôt](https://github.com/LuisaGroup/LuisaRender) (6 October 2026, 15:47:52 +0200)
+> - **V-Ray 7** dispose désormais de Metal RT ; l’ancienne affirmation « V-Ray GPU ne fonctionne pas sur Mac » est périmée. Il reste commercial. [Documentation Chaos](https://support.chaos.com/hc/en-us/articles/4412218197265-Can-I-use-V-Ray-GPU-on-macOS) (6 October 2026, 15:47:52 +0200)
+>
+> Pour ton travail, **je privilégierais donc une qualification courte du Cycles officiel** : une scène Solaris jetable avec éclairage indirect, tes textures, une feuille sur plane avec alpha, transmission et instances. Il faudra vérifier le GPU réellement utilisé, la traduction des matériaux, puis mesurer le temps de rendu. Les matériaux Karma existants ne sont pas automatiquement interchangeables ; le délégué Cycles contient notamment une traduction **UsdPreviewSurface**, dont l’opacité. [Code des matériaux](https://github.com/blender/cycles/blob/main/src/hydra/material.cpp) (6 October 2026, 15:47:52 +0200)
+>
+> Enfin, **GPU et temps réel restent deux objectifs différents** : Cycles et Octane calculent progressivement les rebonds lumineux, tandis que Lumen emploie une architecture conçue pour l’interactivité. Je ne promets donc pas la vitesse de Lumen simplement en installant un path tracer GPU. [Architecture Lumen](https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-technical-details-in-unreal-engine) (6 October 2026, 15:47:52 +0200)
+>
+> La comparaison détaillée est [enregistrée ici](/Users/zenray/.claude/tmp/tmp-vegetation-assets-collection-01/research/HoudiniMacGpuRendering.md) et consignée dans le skill Houdini. Aucun plugin n’est installé. (6 October 2026, 15:47:52 +0200)
+>
+> | Ce que tu voulais | État | Preuve | (6 October 2026, 15:47:52 +0200)
+> |---|---|---| (6 October 2026, 15:47:52 +0200)
+> | Une recherche précise | Fait | Documentation officielle et code examinés | (6 October 2026, 15:47:52 +0200)
+> | Une piste gratuite et libre dans Houdini | Identifiée | Délégué Cycles officiel avec backend Metal | (6 October 2026, 15:47:52 +0200)
+> | Un rendu plus rapide sur ton Mac | Non vérifié | Compilation et benchmark restent à effectuer | (6 October 2026, 15:47:52 +0200)
+
+## 6 October 2026, 15:49:22 +0200 : Iteration
+
+<!-- feedback-event:79e58ebe932a0685bd5b39fad045a83ab0e6a43e72b3cb520a4976d36f5dc329 (6 October 2026, 15:49:22 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 15:49:22 +0200)
+- Source: checkpoint:claude:2562b086-836d-49c5-80c7-0c935a98513c. (6 October 2026, 15:49:22 +0200)
+
+> 6 October 2026 : FINAL movie LilyHeightToRender_v003 (.mov hvc1 + .mp4), square 1920x1920, 43.67 s, with the 72 frame Karma CPU top turn over as the 3 s hook (render finished), trimsheet maps, height storyboard, petals, renders, yellow title, music. Cuts at 3, 4.5, 6 s verified. Index video/INDEX.md. Concurrent builds in a shared _work folder collided earlier: one build at a time. (6 October 2026, 15:49:22 +0200)

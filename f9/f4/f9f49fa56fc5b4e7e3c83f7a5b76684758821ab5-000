@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-08T22:11:16.540Z",
+ "scannedAt": "2026-10-08T22:19:17.387Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -37,18 +37,18 @@
   },
   {
    "projectId": "vegetation-assets-collection-01",
-   "lines": 58,
-   "work": 18,
+   "lines": 60,
+   "work": 19,
    "prompts": 0,
    "first": "2026-10-07T14:19:34.887Z",
-   "last": "2026-10-08T22:05:57.460Z",
+   "last": "2026-10-08T22:14:09.847Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T22:11:16.237Z",
-   "bytes": 215875222,
+   "updatedAt": "2026-10-08T22:19:16.586Z",
+   "bytes": 218612979,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -111,8 +111,8 @@
    "provider": "claude",
    "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
    "title": "Montage vidéo pot tournage",
-   "updatedAt": "2026-10-08T22:11:11.967Z",
-   "bytes": 19925448,
+   "updatedAt": "2026-10-08T22:18:40.576Z",
+   "bytes": 20658,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {

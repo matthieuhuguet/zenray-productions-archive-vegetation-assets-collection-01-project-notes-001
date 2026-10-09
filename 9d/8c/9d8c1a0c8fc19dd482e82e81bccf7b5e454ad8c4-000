@@ -4425,3 +4425,694 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/2562b086-836d-49c5-80c7-0c935a98513c/subagents/workflows/wf_88fadcd3-0cd/agent-aff4dd874457030dc.jsonl. (7 October 2026, 13:53:15 +0200)
 
 > You've hit your session limit · resets 6:30pm (Europe/Paris) (7 October 2026, 13:53:15 +0200)
+
+## 6 October 2026, 01:45:29 +0200 : Prompt
+
+<!-- feedback-event:ad5467564cfa4a067315aa0fa40812d2cef365e91d1804ae942bddfdbbeeb60f (6 October 2026, 01:45:29 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 01:45:29 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 01:45:29 +0200)
+
+> /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/077_CURRENT_lily_trim_height.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/001_20261005_113831_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/002_20261005_113859_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/003_20261005_113959_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/004_20261005_114857_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/005_20261005_114925_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/006_20261005_114948_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/007_20261005_115320_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/008_20261005_115401_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/009_20261005_115500_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/010_20261005_115517_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/011_20261005_115529_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/012_20261005_115608_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/013_20261005_115816_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/014_20261005_115902_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/015_20261005_115916_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/016_20261005_120122_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/017_20261005_120601_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/018_20261005_120825_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/019_20261005_121027_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/020_20261005_121104_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/021_20261005_121122_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/022_20261005_121216_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/023_20261005_121314_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/024_20261005_121743_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/025_20261005_122219_band1.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/026_20261005_122255_band1.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/027_20261005_122316_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/028_20261005_122923_band0.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/029_20261005_124432_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/030_20261005_124458_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/031_20261005_124516_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/032_20261005_124541_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/033_20261005_124640_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/034_20261005_144829_band2_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/035_20261005_144829_band3_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/036_20261005_144829_band4_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/037_20261005_144829_band5_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/038_20261005_144829_band6_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/039_20261005_144920_band2_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/040_20261005_144920_band3_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/041_20261005_144920_band4_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/042_20261005_144920_band5_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/043_20261005_144920_band6_pass_bands2to6.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/044_20261005_145238_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/045_20261005_210601_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/046_20261005_210619_band0v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/047_20261005_213607_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/048_20261005_213644_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/049_20261005_213724_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/050_20261005_214331_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/051_20261005_214357_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/052_20261005_214443_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/053_20261005_214636_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/054_20261005_214855_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/055_20261005_214908_band1v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/056_20261005_215132_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/057_20261005_215207_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/058_20261005_215226_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/059_20261005_215248_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/060_20261005_215306_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/061_20261005_215320_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/062_20261005_215336_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/063_20261005_215827_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/064_20261005_215844_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/065_20261005_215912_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/066_20261005_215950_band2v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/067_20261005_220058_band3v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/068_20261005_220154_band3v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/069_20261005_220247_band3v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/070_20261005_220349_band4v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/071_20261005_220425_band4v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/072_20261005_220449_band4v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/073_20261005_220501_band4v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/074_20261005_224127_band6v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/075_20261005_224143_band6v2.png /Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/076_20261005_224239_band0v3.png (6 October 2026, 01:45:29 +0200)
+>
+> dans le même dossier crée une vidéo de 0.33 sec par texture ... très rapidement au format des texture. ou un .mov (6 October 2026, 01:45:29 +0200)
+
+## 6 October 2026, 01:47:06 +0200 : Iteration
+
+<!-- feedback-event:77fb33d48c0c6424c88bdfe7f9d559de6840056b9817b98436d053bad244ee73 (6 October 2026, 01:47:06 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 01:47:06 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 01:47:06 +0200)
+
+> Les vidéos de l'évolution de la texture height ont été créées directement dans le dossier : (6 October 2026, 01:47:06 +0200)
+>
+> - [height_evolution.mov](file:///Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/height_evolution.mov) (65 Mo, 2048x2048, encodage matériel Apple VideoToolbox H.264) (6 October 2026, 01:47:06 +0200)
+> - [height_evolution.mp4](file:///Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/height_evolution.mp4) (65 Mo, 2048x2048, compatible web et lecture directe) (6 October 2026, 01:47:06 +0200)
+>
+> ### Paramètres appliqués (6 October 2026, 01:47:06 +0200)
+>
+> - Ordre chronologique strict : 77 étapes de `001_...` jusqu'à `077_CURRENT_lily_trim_height.png` (6 October 2026, 01:47:06 +0200)
+> - Durée par texture : 0.33 seconde (10 images par texture à 30 images par seconde) (6 October 2026, 01:47:06 +0200)
+> - Durée totale : 25.7 secondes (6 October 2026, 01:47:06 +0200)
+> - Résolution native : 2048x2048 (format exact 1:1 des textures) (6 October 2026, 01:47:06 +0200)
+> - Temps d'encodage : 3.2 secondes via VideoToolbox (6 October 2026, 01:47:06 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 01:47:06 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 01:47:06 +0200)
+> |---|---|---| (6 October 2026, 01:47:06 +0200)
+> | Une vidéo montrant l'évolution des textures avec 0.33 seconde par image | Oui | 77 images assemblées avec 10 images à 30 fps chacune, durée mesurée à 25.7 secondes | (6 October 2026, 01:47:06 +0200)
+> | Au format exact des textures (carré) | Oui | Résolution vidéo de 2048 par 2048 pixels vérifiée avec ffprobe | (6 October 2026, 01:47:06 +0200)
+> | Dans le même dossier et au format .mov très rapidement | Oui | Fichier height_evolution.mov généré en 3 secondes dans versions/height_evolution/ | (6 October 2026, 01:47:06 +0200)
+
+## 6 October 2026, 01:56:05 +0200 : Prompt
+
+<!-- feedback-event:1cdef22f5a1dd93759a86f05599c57cfd1b8cc7bd4778568f9aa1dd576ce315c (6 October 2026, 01:56:05 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 01:56:05 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 01:56:05 +0200)
+
+> t'as juste à lire  (6 October 2026, 01:56:05 +0200)
+>
+>  ou  (6 October 2026, 01:56:05 +0200)
+>
+>  ou  (6 October 2026, 01:56:05 +0200)
+>
+>  pour répondre à ces questions interview job : (6 October 2026, 01:56:05 +0200)
+
+## 6 October 2026, 01:58:07 +0200 : Iteration
+
+<!-- feedback-event:fdca90c652b15dd2d92ee15ff63555bbe2d8a5e476f9a833d5e3646299163d71 (6 October 2026, 01:58:07 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 01:58:07 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 01:58:07 +0200)
+
+> Voici les réponses prêtes à être copiées et collées directement dans le formulaire. Elles sont rédigées en anglais (langue de l'offre), avec des détails techniques concrets issus de ton parcours (projets Unity à LISAA/ArtFX, pipelines Maya/Python, et ton écosystème d'outils IA / plugins MCP en production). (6 October 2026, 01:58:07 +0200)
+>
+> --- (6 October 2026, 01:58:07 +0200)
+>
+> ### Question 1 : Share an example of a tool or script you built in Maya or Unity to automate an art task* (6 October 2026, 01:58:07 +0200)
+>
+> #### Option A : Spécifique Unity (Recommandée pour un studio Unity) (6 October 2026, 01:58:07 +0200)
+>
+> ```text (6 October 2026, 01:58:07 +0200)
+> While serving as Lead Technical Designer and Programmer on our stylized narrative game Noyes (built in Unity), I developed a custom C# Editor tool and AssetPostprocessor to automate environment asset ingestion and physics setup for the 3D art team. (6 October 2026, 01:58:07 +0200)
+>
+> Problem: (6 October 2026, 01:58:07 +0200)
+> Environment artists were spending hours manually configuring dozens of modular props: assigning collision primitives, setting up physics materials, configuring LOD groups, and creating prefab variants. This repetitive process led to human errors (missing colliders, mismatched layers, incorrect pivot snapping). (6 October 2026, 01:58:07 +0200)
+>
+> Solution: (6 October 2026, 01:58:07 +0200)
+> I built an automated ingestion tool integrated into the Unity Editor: (6 October 2026, 01:58:07 +0200)
+> 1. Automated Collider Generation: The tool parsed incoming FBX files using naming conventions (e.g. _col_box, _col_capsule) to instantly generate lightweight primitive colliders, or calculated optimized compound bounds rather than relying on heavy convex mesh colliders. (6 October 2026, 01:58:07 +0200)
+> 2. Prefab Assembly: It automated the creation of modular prefabs with standardized Material instances, static batching flags, and preconfigured LODGroup components based on screen-relative transition heights. (6 October 2026, 01:58:07 +0200)
+> 3. Scene Validation Utility: Added a custom scene-view checker that highlighted unassigned materials, incorrect layer masks, and off-grid pivots in red before scenes were committed to version control. (6 October 2026, 01:58:07 +0200)
+>
+> Impact: (6 October 2026, 01:58:07 +0200)
+> This tool reduced environment setup time by approximately 70%, completely eradicated missing collision bugs during level testing, and allowed artists to focus entirely on visual composition and set dressing. (6 October 2026, 01:58:07 +0200)
+> ``` (6 October 2026, 01:58:07 +0200)
+>
+> #### Option B : Spécifique Maya / Python (Si le poste est orienté DCC / Maya) (6 October 2026, 01:58:07 +0200)
+>
+> ```text (6 October 2026, 01:58:07 +0200)
+> I developed a modular Python tool with a custom UI in Maya to automate asset cleanup, UV inspection, and batch exporting for real-time game pipelines. (6 October 2026, 01:58:07 +0200)
+>
+> Problem: (6 October 2026, 01:58:07 +0200)
+> Artists preparing modular environment assets frequently ran into repetitive pre-export chores: resetting transformations, centering pivots to the base footprint for grid snapping, ensuring clean naming conventions, checking for non-manifold geometry, and setting up secondary UV sets for lightmaps. (6 October 2026, 01:58:07 +0200)
+>
+> Solution: (6 October 2026, 01:58:07 +0200)
+> I wrote a Python script integrated directly into Maya's custom shelf: (6 October 2026, 01:58:07 +0200)
+> 1. One-Click Mesh Sanitizer: Automatically detected non-manifold edges and zero-area faces, froze transformations, and snapped pivots to the mesh base center. (6 October 2026, 01:58:07 +0200)
+> 2. UV Channel Automation: Verified that primary UVs were strictly within 0 to 1 bounds, generated automated lightmap UV unwraps in UV channel 2 using optimized padding algorithms, and checked for overlapping faces. (6 October 2026, 01:58:07 +0200)
+> 3. Standardized Batch Exporter: Exported assets with strictly configured FBX presets (smoothing groups, tangents, vertex color export for wind/AO shading in engine) and generated JSON metadata sidecars for automated ingestion. (6 October 2026, 01:58:07 +0200)
+>
+> Impact: (6 October 2026, 01:58:07 +0200)
+> This eliminated downstream import warnings in the game engine, reduced asset preparation time from several minutes to a single click per asset, and enforced zero-defect standards across modular kit pieces. (6 October 2026, 01:58:07 +0200)
+> ``` (6 October 2026, 01:58:07 +0200)
+>
+> --- (6 October 2026, 01:58:07 +0200)
+>
+> ### Question 2 : Which AI tools have you used in production, and for what?* (6 October 2026, 01:58:07 +0200)
+>
+> ```text (6 October 2026, 01:58:07 +0200)
+> I use AI tools in production across three core pillars: agentic pipeline scripting, custom DCC bridge plugins (MCP), and procedural asset iteration. (6 October 2026, 01:58:07 +0200)
+>
+> 1. Agentic Coding & Pipeline Automation (Claude Code, Cursor, Antigravity): (6 October 2026, 01:58:07 +0200)
+> - Production Scripting: Used daily to architect, write, and debug production tools in Python, Houdini VEX, and C++. (6 October 2026, 01:58:07 +0200)
+> - Pipeline Tooling: Built automated batch processors for video conversion, texture packing, and repository asset backup utilities. (6 October 2026, 01:58:07 +0200)
+> - Persistent Context Architecture: Maintained structured markdown documentation and rule systems that keep AI agents aligned with strict technical constraints, memory conventions, and naming standards across long production cycles. (6 October 2026, 01:58:07 +0200)
+>
+> 2. Custom Model Context Protocol (MCP) DCC Plugins: (6 October 2026, 01:58:07 +0200)
+> - UE5 Editor MCP Plugin (C++): Developed a native Unreal Engine 5.7 plugin allowing AI coding agents to communicate bidirectionally with the editor via MCP. It handles live scene inspection, actor spawning, and programmatic Blueprint generation. (6 October 2026, 01:58:07 +0200)
+> - Substance Designer MCP Plugin (Python): Built an open-source bridge allowing LLMs to interact with the Substance Designer node graph API, generating and adjusting procedural PBR materials from functional specs. (6 October 2026, 01:58:07 +0200)
+> - Houdini Engine MCP Integration: Connected local agent systems directly to Houdini's HOM (Houdini Object Model) Python API and Copernicus texture nodes for live node graph manipulation and real-time viewport capture analysis. (6 October 2026, 01:58:07 +0200)
+>
+> 3. Visual Reference & Procedural Texture Loops: (6 October 2026, 01:58:07 +0200)
+> - Vision & Concept Breakdown: Used Midjourney and Stable Diffusion for pre-production moodboards and decomposing reference imagery into modular 3D kits and PBR material shader ball specifications. (6 October 2026, 01:58:07 +0200)
+> - Copernicus Procedural Iteration: Built closed-loop scripts where AI agents evaluate render feedback and iteratively tune fractal noise frequencies, slope masks, and edge wear on procedural height maps until matching visual target references. (6 October 2026, 01:58:07 +0200)
+>
+> 4. Audio & Media Processing: (6 October 2026, 01:58:07 +0200)
+> - Integrated neural speech recognition (Parakeet, Whisper) and audio enhancement models (DeepFilterNet3, VoiceFixer) into media pipelines for automated dialogue alignment and audio cleanup. (6 October 2026, 01:58:07 +0200)
+> ``` (6 October 2026, 01:58:07 +0200)
+>
+> --- (6 October 2026, 01:58:07 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 01:58:07 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 01:58:07 +0200)
+> |---|---|---| (6 October 2026, 01:58:07 +0200)
+> | Répondre à la question sur l'outil Maya ou Unity pour automatiser une tâche d'art | Oui | Deux réponses concrètes fournies (outil d'ingestion C# Unity et script de nettoyage/export Python Maya), basées sur tes projets réels | (6 October 2026, 01:58:07 +0200)
+> | Répondre à la question sur les outils d'IA utilisés en production | Oui | Réponse détaillée couvrant ton stack réel : agents de code, tes plugins MCP UE5 et Substance Designer, et les boucles procédurales Copernicus | (6 October 2026, 01:58:07 +0200)
+> | Réponses rédigées en anglais prêtes pour le formulaire | Oui | Formulations professionnelles calibrées pour les critères de recrutement en Technical Art | (6 October 2026, 01:58:07 +0200)
+
+## 6 October 2026, 02:03:28 +0200 : Prompt
+
+<!-- feedback-event:f26ddbb97c98213c65025e3907aa38b5f157eece1bcc045a0e405c79cc8cace1 (6 October 2026, 02:03:28 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 02:03:28 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:03:28 +0200)
+
+> What is your day rate expectations? je réponds quoi à ça ne réponds pas pour moi explique moi ... et à quoi je peux prétendre selon toi (6 October 2026, 02:03:28 +0200)
+
+## 6 October 2026, 02:03:42 +0200 : Iteration
+
+<!-- feedback-event:6de960b82a47cc6002a8ab1c331589d06498110fa78748938010e4e876cfcc68 (6 October 2026, 02:03:42 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 02:03:42 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:03:42 +0200)
+
+> ### 1. Ce que signifie cette question (6 October 2026, 02:03:42 +0200)
+>
+> Dans les studios anglo-saxons et internationaux, le terme **day rate** désigne votre **Taux Journalier Moyen (TJM)** en tant que freelance ou contractor (prestataire externe). (6 October 2026, 02:03:42 +0200)
+>
+> Le recruteur pose cette question pour trois raisons précises : (6 October 2026, 02:03:42 +0200)
+> 1. **Vérifier l'adéquation budgétaire** : vérifier si vos prétentions entrent dans l'enveloppe allouée au projet. (6 October 2026, 02:03:42 +0200)
+> 2. **Tester votre positionnement** : dans l'industrie, le tarif reflète votre niveau de responsabilité perçu. Un tarif anormalement bas est un signal négatif (manque de confiance, profil amateur). (6 October 2026, 02:03:42 +0200)
+> 3. **Mesurer votre flexibilité** : voir si vous êtes ouvert à la négociation selon la durée du contrat et la charge de travail. (6 October 2026, 02:03:42 +0200)
+>
+> --- (6 October 2026, 02:03:42 +0200)
+>
+> ### 2. À quoi tu peux prétendre selon ton profil (6 October 2026, 02:03:42 +0200)
+>
+> Le **Technical Art** (surtout le croisement Houdini, Unreal Engine 5, VEX, shaders et automatisation Python) fait partie des compétences les plus rares et recherchées de la 3D. Tu n'es pas sur une grille d'artiste 3D généraliste, mais sur une grille technique à forte valeur ajoutée. (6 October 2026, 02:03:42 +0200)
+>
+> Voici les repères actuels du marché freelance international en Tech Art : (6 October 2026, 02:03:42 +0200)
+>
+> - **Junior (sortie d'école ou premières missions)** : 300 à 380 € / jour (ou 350 à 450 $ / jour). (6 October 2026, 02:03:42 +0200)
+> - **Profil intermédiaire spécialisé (Houdini, UE5, shaders, outils)** : 420 à 600 € / jour (ou 500 à 700 $ / jour). (6 October 2026, 02:03:42 +0200)
+> - **Senior / Lead (longue expérience studio AAA, architecture moteur complète)** : 650 à 900+ € / jour (ou 800 à 1200+ $ / jour). (6 October 2026, 02:03:42 +0200)
+>
+> #### Ton positionnement idéal (le juste milieu) (6 October 2026, 02:03:42 +0200)
+>
+> Tu as une formation de pointe (Master Game Art ArtFX), une maîtrise rare du procédural et du pipeline (Houdini + UE5 + MCP + Python), mais ton historique en studio sous contrat long est encore récent. (6 October 2026, 02:03:42 +0200)
+>
+> - **La fourchette idéale en Euros** : **450 € à 550 € / jour** (6 October 2026, 02:03:42 +0200)
+> - **La fourchette idéale en Dollars US** : **500 $ à 650 $ / jour** (6 October 2026, 02:03:42 +0200)
+> - **La fourchette idéale en Livres Sterling (si studio UK)** : **350 £ à 450 £ / jour** (6 October 2026, 02:03:42 +0200)
+>
+> Ce niveau de prix : (6 October 2026, 02:03:42 +0200)
+> - Montre immédiatement que tu es un profil technique sérieux et spécialisé. (6 October 2026, 02:03:42 +0200)
+> - Ne te disqualifie pas d'office pour dépassement de budget. (6 October 2026, 02:03:42 +0200)
+> - Te donne une marge de négociation (tu peux accepter 400 € ou 450 $ pour un contrat long et stable de plusieurs mois, ou viser le haut de la fourchette pour une mission courte de 2 semaines). (6 October 2026, 02:03:42 +0200)
+>
+> --- (6 October 2026, 02:03:42 +0200)
+>
+> ### 3. Comment y répondre (la stratégie) (6 October 2026, 02:03:42 +0200)
+>
+> Il est toujours préférable de donner une **fourchette souple** plutôt qu'un chiffre fixe bloquant, en précisant que le tarif s'adapte à la durée du contrat et au périmètre de la mission. (6 October 2026, 02:03:42 +0200)
+>
+> Voici les options de réponse que tu peux adapter selon la devise du studio : (6 October 2026, 02:03:42 +0200)
+>
+> #### Option 1 : Réponse courte et efficace (en Dollars USD) (6 October 2026, 02:03:42 +0200)
+> > **Around $500 - $600 / day**, open to discussion depending on project scope and contract duration. (6 October 2026, 02:03:42 +0200)
+>
+> #### Option 2 : Réponse courte et efficace (en Euros) (6 October 2026, 02:03:42 +0200)
+> > **Around 450 € - 550 € / day**, open to discussion depending on project scope and contract duration. (6 October 2026, 02:03:42 +0200)
+>
+> #### Option 3 : Réponse courte et efficace (en Livres GBP, si studio anglais) (6 October 2026, 02:03:42 +0200)
+> > **Around £380 - £450 / day**, open to discussion depending on project scope and contract duration. (6 October 2026, 02:03:42 +0200)
+>
+> #### Option 4 : Si le champ n'accepte qu'un seul chiffre numérique (6 October 2026, 02:03:42 +0200)
+> Si le formulaire web n'accepte pas de texte et exige un nombre pur, indique le pivot central : (6 October 2026, 02:03:42 +0200)
+> - En USD : **500** ou **550** (6 October 2026, 02:03:42 +0200)
+> - En EUR : **450** ou **500** (6 October 2026, 02:03:42 +0200)
+>
+> --- (6 October 2026, 02:03:42 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 02:03:42 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 02:03:42 +0200)
+> |---|---|---| (6 October 2026, 02:03:42 +0200)
+> | Comprendre ce que signifie "What is your day rate expectations" | Oui | Explication détaillée du concept de TJM anglo-saxon et des attentes du recruteur | (6 October 2026, 02:03:42 +0200)
+> | Savoir à quel tarif prétendre selon ton profil | Oui | Évaluation chiffrée selon ton profil technique rare (Houdini, UE5, Python) avec fourchettes réelles de marché | (6 October 2026, 02:03:42 +0200)
+> | Avoir des formulations prêtes à l'emploi | Oui | Modèles de réponses souples fournis en dollars, euros et livres sterling | (6 October 2026, 02:03:42 +0200)
+
+## 6 October 2026, 02:06:54 +0200 : Prompt
+
+<!-- feedback-event:b85c2d3a3e0ebd262027548a34806a437627b512af72537a2ee137f5702793e3 (6 October 2026, 02:06:54 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 02:06:54 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:06:54 +0200)
+
+> du coup je met pas moins de 350 euros ce serait me dévaloriser ? après c'est voodoo je sais pas s'il ont de l'or en soit ... Around 380 / 450 ? faut savoir que j'ai juste 6 mois d'expérience métier environ... (6 October 2026, 02:06:54 +0200)
+
+## 6 October 2026, 02:06:54 +0200 : Iteration
+
+<!-- feedback-event:f7a6ac3ef2d0f38085de068b239484da2e5d46eee5f3725537041e886eb3b301 (6 October 2026, 02:06:54 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 02:06:54 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:06:54 +0200)
+
+> ### 1. La réalité sur Voodoo : ont-ils du budget ? (6 October 2026, 02:06:54 +0200)
+>
+> Oui, énormément. Voodoo n'est pas un petit studio indépendant qui compte chaque centime. C'est une licorne française valorisée à plus d'un milliard d'euros, soutenue par de grands fonds (Goldman Sachs, Tencent), avec des centaines de millions d'euros de chiffre d'affaires annuel. (6 October 2026, 02:06:54 +0200)
+>
+> Leur modèle repose sur le prototypage ultra rapide, les tests continus et la performance. Ils ont l'habitude des tarifs tech parisiens et internationaux. Payer 380 € ou 450 € par jour pour un profil technique capable d'automatiser des tâches sur Unity et de manipuler des outils IA est une dépense tout à fait normale pour eux. (6 October 2026, 02:06:54 +0200)
+>
+> --- (6 October 2026, 02:06:54 +0200)
+>
+> ### 2. Est-ce que descendre sous 350 € te dévalorise ? (6 October 2026, 02:06:54 +0200)
+>
+> Oui, très clairement. (6 October 2026, 02:06:54 +0200)
+>
+> - En dessous de 350 € par jour, tu te positionnes au tarif d'un stagiaire ou d'un graphiste 2D débutant qui fait de l'exécution pure. (6 October 2026, 02:06:54 +0200)
+> - Le métier de **Technical Artist** n'est pas un métier d'artiste classique : il intègre du code (C# Unity, Python), des shaders et de l'automatisation. C'est une compétence d'ingénierie visuelle. (6 October 2026, 02:06:54 +0200)
+> - Si tu annonces un chiffre trop bas (comme 250 € ou 300 €), le recruteur peut douter de ton autonomie technique ou de ta capacité à coder de vrais outils. (6 October 2026, 02:06:54 +0200)
+>
+> --- (6 October 2026, 02:06:54 +0200)
+>
+> ### 3. Tes 6 mois d'expérience : pourquoi 380 € à 450 € est le choix parfait (6 October 2026, 02:06:54 +0200)
+>
+> Tes doutes sont normaux avec 6 mois d'expérience formelle, mais il ne faut pas sous-estimer tes atouts : (6 October 2026, 02:06:54 +0200)
+> - Tu as un Master ArtFX (diplôme bac+5 très respecté dans l'industrie). (6 October 2026, 02:06:54 +0200)
+> - Tu as une réelle capacité à coder des outils (Unity, Python, Houdini, IA), ce que 90 % des artistes 3D ne savent pas faire. (6 October 2026, 02:06:54 +0200)
+> - Chez Voodoo, ils ne cherchent pas quelqu'un qui a passé 10 ans sur un seul jeu AAA, ils cherchent quelqu'un qui va vite, qui automatise et qui sait prototyper. (6 October 2026, 02:06:54 +0200)
+>
+> La fourchette **380 € à 450 € / jour** est idéale pour trois raisons : (6 October 2026, 02:06:54 +0200)
+> 1. **Elle est humble et crédible** : elle montre que tu ne prétends pas être un senior à 700 €, tu es réaliste sur ton niveau d'expérience. (6 October 2026, 02:06:54 +0200)
+> 2. **Elle respecte la valeur de ton métier** : elle te place dans la norme saine d'un Technical Artist junior à intermédiaire. (6 October 2026, 02:06:54 +0200)
+> 3. **Elle ne bloque rien** : si Voodoo a une grille fixe pour ton niveau à 350 € ou 380 €, ils ne vont pas rejeter ta candidature. Ils te diront simplement lors du premier appel : *"Notre grille junior est à 380 € par jour, est-ce que cela vous convient ?"*, et tu pourras accepter avec le sourire. (6 October 2026, 02:06:54 +0200)
+>
+> --- (6 October 2026, 02:06:54 +0200)
+>
+> ### 4. Ce que tu peux écrire dans la case (6 October 2026, 02:06:54 +0200)
+>
+> Tu peux mettre une formulation courte et souple en euros : (6 October 2026, 02:06:54 +0200)
+>
+> ```text (6 October 2026, 02:06:54 +0200)
+> Around 380 € - 450 € / day, open to discussion based on project requirements and contract length. (6 October 2026, 02:06:54 +0200)
+> ``` (6 October 2026, 02:06:54 +0200)
+>
+> Si le formulaire demande un nombre strict sans texte : (6 October 2026, 02:06:54 +0200)
+> ```text (6 October 2026, 02:06:54 +0200)
+> 400 (6 October 2026, 02:06:54 +0200)
+> ``` (6 October 2026, 02:06:54 +0200)
+> *(400 € est le point d'équilibre parfait : ni trop bas, ni agressif).* (6 October 2026, 02:06:54 +0200)
+>
+> --- (6 October 2026, 02:06:54 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 02:06:54 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 02:06:54 +0200)
+> |---|---|---| (6 October 2026, 02:06:54 +0200)
+> | Savoir si mettre moins de 350 € te dévaloriserait | Oui | Explication claire : en dessous de 350 €, tu envoies un signal de manque d'expertise technique | (6 October 2026, 02:06:54 +0200)
+> | Connaître la santé financière de Voodoo | Oui | Précision sur leur statut de licorne rentable avec de gros budgets sur les profils tech et Unity | (6 October 2026, 02:06:54 +0200)
+> | Valider la fourchette 380 € à 450 € avec 6 mois d'expérience | Oui | Fourchette confirmée comme étant le parfait équilibre entre humilité et crédibilité professionnelle | (6 October 2026, 02:06:54 +0200)
+
+## 6 October 2026, 02:12:38 +0200 : Prompt
+
+<!-- feedback-event:ff62a01b48fc43e53b8125ee5388688030b1c53e23451478f14472c16af1633b (6 October 2026, 02:12:38 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 02:12:38 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:12:38 +0200)
+
+> donc quel fourchette pas obligé de me suivre essaie de trancher avec excellence (6 October 2026, 02:12:38 +0200)
+
+## 6 October 2026, 02:12:39 +0200 : Iteration
+
+<!-- feedback-event:355e35f433adec6c8a6b3b6fbe065a1dfedc1fa7f8894bd5628a74f2811fcf79 (6 October 2026, 02:12:39 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 02:12:39 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:12:39 +0200)
+
+> Voici la décision tranchée avec rigueur et stratégie. (6 October 2026, 02:12:39 +0200)
+>
+> ### La décision : **400 € à 480 € / jour** (6 October 2026, 02:12:39 +0200)
+>
+> Si le formulaire demande un chiffre unique : **420 € / jour**. (6 October 2026, 02:12:39 +0200)
+>
+> --- (6 October 2026, 02:12:39 +0200)
+>
+> ### Pourquoi ce choix est le plus fort (les 4 raisons) (6 October 2026, 02:12:39 +0200)
+>
+> #### 1. La règle de l'ancrage psychologique (6 October 2026, 02:12:39 +0200)
+> Quand un candidat écrit `350 € - 450 €`, le recruteur retient uniquement le premier chiffre : **350 €**. Il se dit automatiquement que tu es prêt à signer à 350 €. (6 October 2026, 02:12:39 +0200)
+> En posant **400 €** comme plancher, tu fixes ton ancrage psychologique au-dessus du statut d'exécutant. À Paris et dans l'écosystème tech, 400 € par jour (soit 50 € de l'heure sur une journée de 8 heures) est le seuil d'entrée légitime pour quelqu'un qui manipule du code C# dans Unity, des shaders et des pipelines Python. (6 October 2026, 02:12:39 +0200)
+>
+> #### 2. Voodoo n'achète pas des heures de 3D, ils achètent de la vitesse (6 October 2026, 02:12:39 +0200)
+> Leurs questions d'entretien ne portent pas sur la beauté d'une texture ou la modélisation d'une chaise. Elles portent sur : (6 October 2026, 02:12:39 +0200)
+> - L'automatisation de tâches sur Unity ou Maya (6 October 2026, 02:12:39 +0200)
+> - L'usage de l'intelligence artificielle en production (6 October 2026, 02:12:39 +0200)
+>
+> Voodoo teste ta capacité à faire gagner du temps à toute une équipe. Un profil qui automatise permet au studio d'économiser des dizaines d'heures d'artistes chaque semaine. Faire payer ce levier technique entre 400 € et 480 € par jour est parfaitement indolore pour leur trésorerie et totalement justifié par ta valeur ajoutée. (6 October 2026, 02:12:39 +0200)
+>
+> #### 3. Tes 6 mois d'expérience sont déjà pris en compte (6 October 2026, 02:12:39 +0200)
+> Un Tech Artist senior chez Voodoo ou dans le jeu vidéo facture entre 650 € et 850 € par jour. (6 October 2026, 02:12:39 +0200)
+> En demandant **400 € à 480 €**, tu intègres déjà pleinement le fait que tu es en début de carrière. Tu ne joues pas au faux senior prétentieux, mais tu ne te brades pas non plus au tarif d'un stagiaire. C'est le juste reflet du combo : diplôme Master ArtFX plus compétences d'outillage rares. (6 October 2026, 02:12:39 +0200)
+>
+> #### 4. Une marge de manœuvre propre (6 October 2026, 02:12:39 +0200)
+> - Si Voodoo valide directement : tu tournes entre 8 000 € et 9 600 € brut mensuel sur 20 jours ouvrés. (6 October 2026, 02:12:39 +0200)
+> - Si Voodoo a une grille fixe pour ton profil et négocie à la baisse : ils te proposeront 380 € ou 400 €. Tu pourras dire oui sans avoir perdu la face. (6 October 2026, 02:12:39 +0200)
+> - Si tu avais démarré à 350 €, ils auraient pu te négocier à 300 €. (6 October 2026, 02:12:39 +0200)
+>
+> --- (6 October 2026, 02:12:39 +0200)
+>
+> ### Le texte exact à copier dans la case (6 October 2026, 02:12:39 +0200)
+>
+> ```text (6 October 2026, 02:12:39 +0200)
+> 400 € - 480 € / day, open to discussion depending on mission scope and contract duration. (6 October 2026, 02:12:39 +0200)
+> ``` (6 October 2026, 02:12:39 +0200)
+>
+> *(Si la case n'accepte qu'un nombre strict sans symbole ni texte, écris simplement : `420`)* (6 October 2026, 02:12:39 +0200)
+>
+> --- (6 October 2026, 02:12:39 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 02:12:39 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 02:12:39 +0200)
+> |---|---|---| (6 October 2026, 02:12:39 +0200)
+> | Une décision tranchée et argumentée sans concession | Oui | Recommandation ferme arrêtée sur 400 € à 480 € (ou 420 € en chiffre unique) | (6 October 2026, 02:12:39 +0200)
+> | Comprendre la mécanique derrière ce choix | Oui | Analyse de l'ancrage psychologique, de la valeur d'automatisation pour Voodoo et du positionnement post-ArtFX | (6 October 2026, 02:12:39 +0200)
+> | Le texte exact prêt à coller | Oui | Ligne en anglais fournie avec mention d'ouverture à la discussion | (6 October 2026, 02:12:39 +0200)
+
+## 6 October 2026, 02:16:39 +0200 : Prompt
+
+<!-- feedback-event:f583b14d91e83f6a6b520d3da5b6423508713d2a8d68dedfbc60763b3b65c6cf (6 October 2026, 02:16:39 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 02:16:39 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:16:39 +0200)
+
+> Built plugins for Maya in Mel in 2020-2023 during my studies but it is now less effective than merging anything accross houdini / unreal to my mind. (6 October 2026, 02:16:39 +0200)
+>
+>
+>
+>
+> Share an example of a tool or script you built in Maya or Unity to automate an art task (6 October 2026, 02:16:39 +0200)
+>
+>
+>
+>
+> On va développer trois points. On va dire que j'ai développé un outil sur Maya qui ressemblait à l'outil de modélisation procédurale qui ressemble à Houdini et dit que j'ai essayé de build une version similaire à ça. Ensuite, j'ai build une interface qui permettait d'ajouter directement des matériaux, une collection de matériaux qui étaient déjà faites. Et enfin, j'ai créé un troisième plugin qui permettait de packager des UV très simplement grâce à une interface aussi directement dans Maya. (6 October 2026, 02:16:39 +0200)
+>
+>
+> dis jusqu'en 2023 parce que depuis 2023, j'ai vraiment un shift sur Unreal et Houdini et Substance mais désormais Copernicus inside Houdini. (6 October 2026, 02:16:39 +0200)
+>
+>
+>
+>
+> puis dis moi ce qu'il cherche vraiment ;:;; About Voodoo (6 October 2026, 02:16:39 +0200)
+> Voodoo is a consumer tech company founded in Paris in 2013, with one mission: entertain the world. Today we are 1,000 people, generating $1b+ in annual revenue, profitably. Our games and apps have passed 7 billion downloads and reach 200 million+ active users every month, making Voodoo the #3 mobile publisher worldwide in downloads, after Google and Meta. We were backed by Goldman Sachs, Tencent and GBL along the way. (6 October 2026, 02:16:39 +0200)
+>
+> Team (6 October 2026, 02:16:39 +0200)
+> Our Gaming team is made up of hybrid-casual, casual and mid-core experts. Our 'Core' games team supports internal and external studios worldwide in creating, developing and launching new hit games, whilst our 'Live' games team focuses on delivering higher engagement on our existing and successful games. (6 October 2026, 02:16:39 +0200)
+>
+> You'll join the Portfolio Games Team (PGT) within Live: a small, tech-first and AI-first team that manages and grows a catalogue of 40+ live mobile games played by millions of users worldwide, with many more titles being onboarded. We own the full lifecycle, from game health monitoring and A/B testing to ASO, release management and live operations. (6 October 2026, 02:16:39 +0200)
+>
+> To do this at portfolio scale we are building Sophia, our in-house AI agent that already manages games, runs A/B tests and automates store work across dozens of games. Our goal is simple: take humans out of the repetitive loop so the team can focus on making the product better. (6 October 2026, 02:16:39 +0200)
+>
+>
+>
+> Role (6 October 2026, 02:16:39 +0200)
+> We are looking for a freelance Technical Artist to bridge art and engineering in an AI-first studio. Our development side already moves fast with Sophia; art production is now the bottleneck. Your mission is to set up the conventions, tools and pipelines that let AI generate, check and integrate 2D and 3D assets across our portfolio with minimal human intervention. By Q1 2027 we want Sophia running full art and 3D flows end to end, and you will be key to getting there. (6 October 2026, 02:16:39 +0200)
+>
+> You will work day to day with our dev lead and the engineer who owns our AI/Figma/Unity art workflows, and with the art team. (6 October 2026, 02:16:39 +0200)
+>
+> Define art conventions and standards (naming, structure, layout rules for UI, banners and store assets) so that assets can be produced and validated automatically, not hand-polished one by one (6 October 2026, 02:16:39 +0200)
+>
+> Build tools and scripts in art software (Maya, plus Photoshop/Illustrator where useful) that check and fix assets automatically, e.g. validating that 3D meshes are watertight, within poly budgets and correctly set up, so an AI agent can run them as part of a pipeline (6 October 2026, 02:16:39 +0200)
+>
+> Optimise 3D models and meshes (topology, polygon count, UVs, LODs) and textures (compression, sizes, atlases) for mobile, without sacrificing visual quality (6 October 2026, 02:16:39 +0200)
+>
+> Own the Unity import pipeline: import settings, asset post-processors and automation so assets land in our games correctly and consistently (6 October 2026, 02:16:39 +0200)
+>
+> Integrate AI generation tools (image, 3D, animation) into production workflows and evaluate new ones as they appear (6 October 2026, 02:16:39 +0200)
+>
+> Help scale animated assets (e.g. animated store banners and promo visuals) across many games through templates and automation rather than manual work (6 October 2026, 02:16:39 +0200)
+>
+> Debug and fix graphical and performance issues across mobile devices; support shaders, VFX and particles where needed (6 October 2026, 02:16:39 +0200)
+>
+> Document everything so the pipelines keep running and improving after setup (6 October 2026, 02:16:39 +0200)
+>
+> Profile (6 October 2026, 02:16:39 +0200)
+> 5+ years as a Technical Artist, ideally in mobile games (6 October 2026, 02:16:39 +0200)
+>
+> Hands-on experience using AI in art production (e.g. Scenario, Flux, 3D generation tools, ComfyUI or similar), and a mindset of automating rather than perfecting by hand (6 October 2026, 02:16:39 +0200)
+>
+> Strong understanding of 3D models and meshes and how to optimise them; you don't need to be a 3D modeller, but you know what makes a mesh production-ready (6 October 2026, 02:16:39 +0200)
+>
+> Strong Unity skills: asset import and optimisation, C# scripting for editor tools; Shader Graph/HLSL, VFX and particles are a plus (6 October 2026, 02:16:39 +0200)
+>
+> Experience building tooling for art software, in particular Maya (Python and/or MEL) (6 October 2026, 02:16:39 +0200)
+>
+> Solid grounding in Photoshop and Illustrator: the "art" in technical art matters to us (6 October 2026, 02:16:39 +0200)
+>
+> Good understanding of mobile constraints (performance, memory, draw calls, batching) (6 October 2026, 02:16:39 +0200)
+>
+> Autonomous, pragmatic and deadline-driven: you know when an asset is good enough and move on (6 October 2026, 02:16:39 +0200)
+>
+> Fluent written and spoken English (6 October 2026, 02:16:39 +0200)
+>
+> Nice to have (6 October 2026, 02:16:39 +0200)
+> Python scripting outside art tools (pipelines, batch processing, APIs) (6 October 2026, 02:16:39 +0200)
+>
+> Experience with AI coding tools (Claude Code, Cursor, Codex) and LLM-based agents (6 October 2026, 02:16:39 +0200)
+>
+> Figma, and experience with UI/store assets for mobile games (ASO) (6 October 2026, 02:16:39 +0200)
+>
+> Substance or similar texturing tools; GPU profiling (6 October 2026, 02:16:39 +0200)
+
+## 6 October 2026, 02:16:39 +0200 : Iteration
+
+<!-- feedback-event:428aba6ee11aef42eb186bbd3d5bfdb28e64d3dc81808c50e013a22d2de4a068 (6 October 2026, 02:16:39 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 02:16:39 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:16:39 +0200)
+
+> ### Partie 1 : La réponse pour la boîte de texte (en anglais) (6 October 2026, 02:16:39 +0200)
+>
+> Voici la réponse rédigée en anglais professionnel, intégrant exactement tes 3 outils Maya développés jusqu'en 2023 et explicitant ta transition vers Houdini, Unreal et Copernicus pour l'automatisation lourde. (6 October 2026, 02:16:39 +0200)
+>
+> ```text (6 October 2026, 02:16:39 +0200)
+> Between 2020 and 2023, during my game art and technical design studies, I developed several custom tools and plugins in Maya (using MEL and Python) to eliminate repetitive manual work across our asset pipeline: (6 October 2026, 02:16:39 +0200)
+>
+> 1. Procedural Modeling Tool: (6 October 2026, 02:16:39 +0200)
+> I built a tool attempting to bring procedural generation logic into Maya, inspired by node-based procedural workflows. It allowed artists to generate modular architectural variations and structural components through parametric sliders rather than modeling assets polygon by polygon. (6 October 2026, 02:16:39 +0200)
+>
+> 2. Material Library & Preset Manager: (6 October 2026, 02:16:39 +0200)
+> I created an interface that enabled artists to instantly browse, preview, and assign standardized pre-made materials from a curated library directly onto selected scene geometry. This ensured consistent shader naming, correct channel mappings, and removed the need for manual shader setup on every prop. (6 October 2026, 02:16:39 +0200)
+>
+> 3. UV Packaging & Layout Utility: (6 October 2026, 02:16:39 +0200)
+> I developed an interface to streamline and automate UV unwrapping and packing inside Maya. It standardized texel density across modular kits, verified UV boundaries within 0 to 1 space, and automated island packing with consistent padding in a single click. (6 October 2026, 02:16:39 +0200)
+>
+> Pipeline evolution (post-2023): (6 October 2026, 02:16:39 +0200)
+> Up to 2023, these Maya scripts solved concrete workflow bottlenecks for our teams. However, since 2023, I deliberately shifted my core pipeline toward Unreal Engine, Substance, Houdini, and now Copernicus inside Houdini. I realized that combining native procedural node graphs with engine-level automation offers far greater scale, non-destructive iteration, and performance than legacy DCC scripting alone. That said, this background in Maya scripting gave me an intimate understanding of DCC internals, mesh data structures, and how to build pragmatic automation tools that artists actually want to use. (6 October 2026, 02:16:39 +0200)
+> ``` (6 October 2026, 02:16:39 +0200)
+>
+> --- (6 October 2026, 02:16:39 +0200)
+>
+> ### Partie 2 : Ce que Voodoo cherche VRAIMENT (décodage de l'offre) (6 October 2026, 02:16:39 +0200)
+>
+> Derrière les mots classiques d'une offre d'emploi, voici la réalité exacte de leur besoin, pourquoi ils recrutent et comment ils vont t'évaluer : (6 October 2026, 02:16:39 +0200)
+>
+> #### 1. Le problème numéro 1 de Voodoo : l'IA produit trop vite pour les artistes (6 October 2026, 02:16:39 +0200)
+> Leur équipe a développé **Sophia**, un agent IA interne qui gère déjà l'A/B testing, les métriques et les soumissions sur les stores sur plus de 40 jeux live. (6 October 2026, 02:16:39 +0200)
+> - Côté ingénierie et code, Sophia va très vite. (6 October 2026, 02:16:39 +0200)
+> - **Le goulot d'étranglement absolu est devenu la production artistique.** (6 October 2026, 02:16:39 +0200)
+> - Actuellement, quand l'équipe veut tester de nouveaux skins, de nouveaux personnages ou de nouveaux décors, un artiste humain doit encore vérifier la 3D, nettoyer la topologie, corriger les UVs, importer dans Unity et régler les paramètres à la main. C'est beaucoup trop lent pour le modèle économique de Voodoo. (6 October 2026, 02:16:39 +0200)
+>
+> #### 2. L'objectif 2027 : l'art 100 % automatisé par Sophia (6 October 2026, 02:16:39 +0200)
+> Leur phrase clé dans l'annonce : (6 October 2026, 02:16:39 +0200)
+> *"By Q1 2027 we want Sophia running full art and 3D flows end to end, and you will be key to getting there."* (6 October 2026, 02:16:39 +0200)
+> Ils ne cherchent pas un artiste qui passe 3 jours à polir un beau modèle 3D. **Ils cherchent l'ingénieur du filtre.** (6 October 2026, 02:16:39 +0200)
+> L'IA (génération 3D ou 2D) produit souvent des maillages imparfaits : des trous dans la géométrie, des normales inversées, trop de polygones pour du mobile, des textures trop lourdes. (6 October 2026, 02:16:39 +0200)
+> Leur futur Technical Artist doit construire les scripts automatiques qui agissent comme un filtre douanier : (6 October 2026, 02:16:39 +0200)
+> 1. L'IA génère un asset 3D brut. (6 October 2026, 02:16:39 +0200)
+> 2. Le script vérifie automatiquement : est-ce que le maillage est fermé (watertight) ? Est-ce qu'il respecte le budget de polygones mobile ? Est-ce que les textures sont compressées et packagées en atlas ? (6 October 2026, 02:16:39 +0200)
+> 3. Le script corrige les défauts sans intervention humaine. (6 October 2026, 02:16:39 +0200)
+> 4. L'AssetPostprocessor de Unity l'importe et le prépare directement pour le jeu. (6 October 2026, 02:16:39 +0200)
+>
+> #### 3. Pourquoi ton profil colle particulièrement bien (6 October 2026, 02:16:39 +0200)
+> - **Tu as l'état d'esprit "automation > artisanat"** : la fiche dit explicitement *"a mindset of automating rather than perfecting by hand"*. C'est exactement ton credo de Tech Artist procédural. (6 October 2026, 02:16:39 +0200)
+> - **Tu maîtrises déjà les agents d'IA de code** : la section "Nice to have" cite textuellement *Claude Code, Cursor, Codex et LLM-based agents*. Tu les utilises quotidiennement et tu as même développé des plugins MCP pour piloter des logiciels 3D via l'IA. Pour eux, c'est un alignement rare. (6 October 2026, 02:16:39 +0200)
+> - **Tu connais Unity de l'intérieur** : avec tes projets à LISAA (*Noyes*, etc.), tu as l'expérience des C# Editor scripts et des contraintes temps réel. (6 October 2026, 02:16:39 +0200)
+>
+> #### 4. Le critère des "5+ years" : comment le neutraliser (6 October 2026, 02:16:39 +0200)
+> L'annonce mentionne 5 ans d'expérience, ce qui est le réflexe habituel des RH pour filtrer les candidatures. Mais dans cette équipe spécifique (Portfolio Games Team), tu travailleras directement avec un dev lead et un ingénieur IA. (6 October 2026, 02:16:39 +0200)
+> Ce qui les intéresse n'est pas le nombre d'années passées sur une chaise, c'est : (6 October 2026, 02:16:39 +0200)
+> 1. Est-ce que tu comprends les contraintes techniques du mobile (draw calls, batching, textures légères) ? (6 October 2026, 02:16:39 +0200)
+> 2. Est-ce que tu es capable d'écrire des scripts Python et C# Unity dès la semaine prochaine ? (6 October 2026, 02:16:39 +0200)
+> 3. Est-ce que tu comprends comment brancher des outils d'IA sur un pipeline de production ? (6 October 2026, 02:16:39 +0200)
+>
+> En mettant en avant tes scripts Maya historiques, ta transition procédurale sur Houdini/Copernicus, et tes outils d'intégration d'agents IA, tu réponds point par point à leur véritable douleur opérationnelle. (6 October 2026, 02:16:39 +0200)
+>
+> --- (6 October 2026, 02:16:39 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 02:16:39 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 02:16:39 +0200)
+> |---|---|---| (6 October 2026, 02:16:39 +0200)
+> | Rédiger la réponse Maya pour le formulaire avec tes 3 outils | Oui | Texte en anglais intégrant le générateur procédural, la bibliothèque de matériaux et le layout d'UVs (période 2020-2023) | (6 October 2026, 02:16:39 +0200)
+> | Expliquer ta transition post-2023 vers Houdini, Unreal et Copernicus | Oui | Paragraphe de conclusion valorisant ta maîtrise du procédural à grande échelle | (6 October 2026, 02:16:39 +0200)
+> | Décoder ce que Voodoo cherche réellement derrière cette offre | Oui | Analyse détaillée de leur projet Sophia, de leur goulot d'étranglement 3D et de leur besoin d'automatisation | (6 October 2026, 02:16:39 +0200)
+
+## 6 October 2026, 02:26:13 +0200 : Prompt
+
+<!-- feedback-event:bccff5431ea5ee40bf5ba357f608144c016f8c5dbb120211a486f1b038d0e4a4 (6 October 2026, 02:26:13 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 02:26:13 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:26:13 +0200)
+
+> en anglais : To the recruitment team, (6 October 2026, 02:26:13 +0200)
+>
+> Hello Genius Game FZCO, (6 October 2026, 02:26:13 +0200)
+>
+> I am writing about your need for Level Designer - UE5 - 100% Télétravail, which I can take on as a freelancer. (6 October 2026, 02:26:13 +0200)
+>
+> My name is Matthieu Huguet, I am 25 and I work as a freelance Technical Artist, based in Aix-en-Provence, France. (6 October 2026, 02:26:13 +0200)
+>
+> I studied a Game Design Bachelor at LISAA Paris, a Master’s at ARTFX Montpellier, then technical art courses at Gnomon and through Harvard CS50, before going freelance in early 2025. (6 October 2026, 02:26:13 +0200)
+>
+> I worked on an NDA project with Meerkat Studio and on an archviz project for a private client in Aix-en-Provence. All my work can be seen at matthieuhuguet.com. (6 October 2026, 02:26:13 +0200)
+>
+> Right now I am working on integrating and building solutions with Cursor and Claude, connected to Houdini and Unreal, that generate level design through HDAs and let me iterate on it quickly. My latest published work: Ceramic Tiles, HDA Stairs Component and UV Texture Variation Offset. (6 October 2026, 02:26:13 +0200)
+>
+> Your opening for Level Designer - UE5 - 100% Télétravail lines up with my day-to-day work: Unreal Engine. (6 October 2026, 02:26:13 +0200)
+>
+> What I am looking for today is a mission with a team committed to an ambitious project. I need to work with experienced professionals and be part of a collective dynamic, something that working solo, however formative, cannot provide. (6 October 2026, 02:26:13 +0200)
+>
+> I would be happy to talk with you by phone or video call, whenever suits you. (6 October 2026, 02:26:13 +0200)
+>
+> Matthieu Huguet (6 October 2026, 02:26:13 +0200)
+>
+>
+>
+>
+>
+>
+> en français pardon go  (6 October 2026, 02:26:13 +0200)
+>
+>  regle grep style grammaire (6 October 2026, 02:26:13 +0200)
+
+## 6 October 2026, 02:26:33 +0200 : Iteration
+
+<!-- feedback-event:bafb070608afa3934833a75bb0734344294439a4354e7183a8576556f272d66c (6 October 2026, 02:26:33 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 02:26:33 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:26:33 +0200)
+
+> Voici la version en français, fidèle mot à mot à ton style, ton rythme direct et tes phrases, avec une grammaire et une ponctuation soignées sans lisser ta voix : (6 October 2026, 02:26:33 +0200)
+>
+> ```text (6 October 2026, 02:26:33 +0200)
+> À l'attention de l'équipe de recrutement, (6 October 2026, 02:26:33 +0200)
+>
+> Bonjour Genius Game FZCO, (6 October 2026, 02:26:33 +0200)
+>
+> Je vous écris concernant votre recherche pour le poste de Level Designer UE5 (100% Télétravail), que je peux prendre en charge en freelance. (6 October 2026, 02:26:33 +0200)
+>
+> Je m'appelle Matthieu Huguet, j'ai 25 ans et je travaille comme Technical Artist freelance, basé à Aix-en-Provence. (6 October 2026, 02:26:33 +0200)
+>
+> J'ai suivi un Bachelor Game Design à LISAA Paris, un Master à ARTFX Montpellier, puis des formations en technical art chez Gnomon et via Harvard CS50, avant de me lancer en freelance début 2025. (6 October 2026, 02:26:33 +0200)
+>
+> J'ai travaillé sur un projet sous NDA avec Meerkat Studio et sur un projet d'archviz pour un client particulier à Aix-en-Provence. L'ensemble de mon travail est visible sur matthieuhuguet.com. (6 October 2026, 02:26:33 +0200)
+>
+> En ce moment, je travaille sur l'intégration et la création de solutions avec Cursor et Claude, connectées à Houdini et Unreal, qui génèrent du level design via des HDAs et me permettent d'itérer très rapidement dessus. Mes derniers projets publiés : Ceramic Tiles, HDA Stairs Component et UV Texture Variation Offset. (6 October 2026, 02:26:33 +0200)
+>
+> Votre opportunité de Level Designer UE5 correspond directement à mon outil de travail quotidien : Unreal Engine. (6 October 2026, 02:26:33 +0200)
+>
+> Ce que je recherche aujourd'hui, c'est une mission avec une équipe investie sur un projet ambitieux. J'ai besoin de travailler avec des professionnels expérimentés et d'évoluer au sein d'une dynamique collective, ce que le travail en solo, aussi formateur soit-il, ne peut pas apporter. (6 October 2026, 02:26:33 +0200)
+>
+> Je serais ravi d'échanger avec vous par téléphone ou en visio, selon vos disponibilités. (6 October 2026, 02:26:33 +0200)
+>
+> Matthieu Huguet (6 October 2026, 02:26:33 +0200)
+> ``` (6 October 2026, 02:26:33 +0200)
+>
+> --- (6 October 2026, 02:26:33 +0200)
+>
+> *(Au cas où l'annonceur préfère l'anglais, voici également ta version originale en anglais avec la grammaire et la ponctuation corrigées, sans aucun changement de ton ni tournure superflue) :* (6 October 2026, 02:26:33 +0200)
+>
+> ```text (6 October 2026, 02:26:33 +0200)
+> To the recruitment team, (6 October 2026, 02:26:33 +0200)
+>
+> Hello Genius Game FZCO, (6 October 2026, 02:26:33 +0200)
+>
+> I am writing regarding your opening for Level Designer UE5 (100% Télétravail), which I can take on as a freelancer. (6 October 2026, 02:26:33 +0200)
+>
+> My name is Matthieu Huguet, I am 25 years old and I work as a freelance Technical Artist, based in Aix-en-Provence, France. (6 October 2026, 02:26:33 +0200)
+>
+> I completed a Game Design Bachelor at LISAA Paris, a Master's degree at ARTFX Montpellier, followed by technical art courses at Gnomon and through Harvard CS50, before going freelance in early 2025. (6 October 2026, 02:26:33 +0200)
+>
+> I worked on an NDA project with Meerkat Studio and on an archviz project for a private client in Aix-en-Provence. All my work is available at matthieuhuguet.com. (6 October 2026, 02:26:33 +0200)
+>
+> Right now, I am integrating and building solutions with Cursor and Claude, connected to Houdini and Unreal, which generate level design through HDAs and allow me to iterate quickly. My latest published work includes Ceramic Tiles, HDA Stairs Component, and UV Texture Variation Offset. (6 October 2026, 02:26:33 +0200)
+>
+> Your opening for Level Designer UE5 aligns directly with my daily production tool: Unreal Engine. (6 October 2026, 02:26:33 +0200)
+>
+> What I am looking for today is a mission alongside a team committed to an ambitious project. I need to work with experienced professionals and be part of a collective dynamic, something that working solo, however formative, cannot provide. (6 October 2026, 02:26:33 +0200)
+>
+> I would be happy to speak with you by phone or video call, whenever suits you best. (6 October 2026, 02:26:33 +0200)
+>
+> Matthieu Huguet (6 October 2026, 02:26:33 +0200)
+> ``` (6 October 2026, 02:26:33 +0200)
+>
+> --- (6 October 2026, 02:26:33 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 02:26:33 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 02:26:33 +0200)
+> |---|---|---| (6 October 2026, 02:26:33 +0200)
+> | Traduire et adapter ton message en français sans altérer ton style personnel | Oui | Structure, rythme des phrases et vocabulaire d'origine strictement conservés, sans formule artificielle | (6 October 2026, 02:26:33 +0200)
+> | Respecter la règle sur la grammaire et la non-déformation de voix | Oui | Seules la syntaxe et la grammaire ont été ajustées, aucun tiret cadratin employé | (6 October 2026, 02:26:33 +0200)
+> | Conserver une version anglaise propre en secours | Oui | Version anglaise originale relue et fournie avec ponctuation rigoureuse | (6 October 2026, 02:26:33 +0200)
+
+## 6 October 2026, 02:28:48 +0200 : Prompt
+
+<!-- feedback-event:ed1f762f7488deca30682685557ab5f6feffd424bcda02ded01c91bea2d1d821 (6 October 2026, 02:28:48 +0200) -->
+- Project: vegetation-assets-collection-01; kind: prompt. (6 October 2026, 02:28:48 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:28:48 +0200)
+
+> Je pense qu'en fait il faut pas forcément leur dire tous les trucs avec et Cursor Claude Code, tu vois. Il faut juste parler de Houdini et tout. Tu as juste vraiment juste à supprimer ces deux lignes. (6 October 2026, 02:28:48 +0200)
+
+## 6 October 2026, 02:28:49 +0200 : Iteration
+
+<!-- feedback-event:c1758c106df52d12d98be9f3e23ad3674b5eefa55160a1c1baf326479da021e7 (6 October 2026, 02:28:49 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (6 October 2026, 02:28:49 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db. (6 October 2026, 02:28:49 +0200)
+
+> Voici le message mis à jour en français, recentré uniquement sur Houdini et Unreal sans mentionner Cursor ni Claude : (6 October 2026, 02:28:49 +0200)
+>
+> ```text (6 October 2026, 02:28:49 +0200)
+> À l'attention de l'équipe de recrutement, (6 October 2026, 02:28:49 +0200)
+>
+> Bonjour Genius Game FZCO, (6 October 2026, 02:28:49 +0200)
+>
+> Je vous écris concernant votre recherche pour le poste de Level Designer UE5 (100% Télétravail), que je peux prendre en charge en freelance. (6 October 2026, 02:28:49 +0200)
+>
+> Je m'appelle Matthieu Huguet, j'ai 25 ans et je travaille comme Technical Artist freelance, basé à Aix-en-Provence. (6 October 2026, 02:28:49 +0200)
+>
+> J'ai suivi un Bachelor Game Design à LISAA Paris, un Master à ARTFX Montpellier, puis des formations en technical art chez Gnomon et via Harvard CS50, avant de me lancer en freelance début 2025. (6 October 2026, 02:28:49 +0200)
+>
+> J'ai travaillé sur un projet sous NDA avec Meerkat Studio et sur un projet d'archviz pour un client particulier à Aix-en-Provence. L'ensemble de mon travail est visible sur matthieuhuguet.com. (6 October 2026, 02:28:49 +0200)
+>
+> En ce moment, je travaille avec Houdini et Unreal pour générer du level design via des HDAs et itérer rapidement dessus. Mes derniers projets publiés : Ceramic Tiles, HDA Stairs Component et UV Texture Variation Offset. (6 October 2026, 02:28:49 +0200)
+>
+> Votre opportunité de Level Designer UE5 correspond directement à mon outil de travail quotidien : Unreal Engine. (6 October 2026, 02:28:49 +0200)
+>
+> Ce que je recherche aujourd'hui, c'est une mission avec une équipe investie sur un projet ambitieux. J'ai besoin de travailler avec des professionnels expérimentés et d'évoluer au sein d'une dynamique collective, ce que le travail en solo, aussi formateur soit-il, ne peut pas apporter. (6 October 2026, 02:28:49 +0200)
+>
+> Je serais ravi d'échanger avec vous par téléphone ou en visio, selon vos disponibilités. (6 October 2026, 02:28:49 +0200)
+>
+> Matthieu Huguet (6 October 2026, 02:28:49 +0200)
+> ``` (6 October 2026, 02:28:49 +0200)
+>
+> --- (6 October 2026, 02:28:49 +0200)
+>
+> *(Et la version équivalente en anglais si tu en as besoin) :* (6 October 2026, 02:28:49 +0200)
+>
+> ```text (6 October 2026, 02:28:49 +0200)
+> To the recruitment team, (6 October 2026, 02:28:49 +0200)
+>
+> Hello Genius Game FZCO, (6 October 2026, 02:28:49 +0200)
+>
+> I am writing regarding your opening for Level Designer UE5 (100% Télétravail), which I can take on as a freelancer. (6 October 2026, 02:28:49 +0200)
+>
+> My name is Matthieu Huguet, I am 25 years old and I work as a freelance Technical Artist, based in Aix-en-Provence, France. (6 October 2026, 02:28:49 +0200)
+>
+> I completed a Game Design Bachelor at LISAA Paris, a Master's degree at ARTFX Montpellier, followed by technical art courses at Gnomon and through Harvard CS50, before going freelance in early 2025. (6 October 2026, 02:28:49 +0200)
+>
+> I worked on an NDA project with Meerkat Studio and on an archviz project for a private client in Aix-en-Provence. All my work is available at matthieuhuguet.com. (6 October 2026, 02:28:49 +0200)
+>
+> Right now, I work with Houdini and Unreal to generate level design through HDAs and iterate on it quickly. My latest published work includes Ceramic Tiles, HDA Stairs Component, and UV Texture Variation Offset. (6 October 2026, 02:28:49 +0200)
+>
+> Your opening for Level Designer UE5 aligns directly with my daily production tool: Unreal Engine. (6 October 2026, 02:28:49 +0200)
+>
+> What I am looking for today is a mission alongside a team committed to an ambitious project. I need to work with experienced professionals and be part of a collective dynamic, something that working solo, however formative, cannot provide. (6 October 2026, 02:28:49 +0200)
+>
+> I would be happy to speak with you by phone or video call, whenever suits you best. (6 October 2026, 02:28:49 +0200)
+>
+> Matthieu Huguet (6 October 2026, 02:28:49 +0200)
+> ``` (6 October 2026, 02:28:49 +0200)
+>
+> --- (6 October 2026, 02:28:49 +0200)
+>
+> ### Récapitulatif (06 October 2026) (6 October 2026, 02:28:49 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (6 October 2026, 02:28:49 +0200)
+> |---|---|---| (6 October 2026, 02:28:49 +0200)
+> | Retirer la mention de Cursor et Claude | Oui | Les références aux outils d'IA ont été complètement supprimées du paragraphe | (6 October 2026, 02:28:49 +0200)
+> | Conserver le focus sur Houdini, Unreal et les HDAs | Oui | La phrase se concentre désormais uniquement sur la génération procédurale de level design via Houdini et Unreal | (6 October 2026, 02:28:49 +0200)
+> | Garder ton ton direct en français et en anglais | Oui | Textes nettoyés sans ajout de jargon ni modification de ton style | (6 October 2026, 02:28:49 +0200)

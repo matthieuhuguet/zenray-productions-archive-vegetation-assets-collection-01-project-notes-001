@@ -5116,3 +5116,147 @@
 > | Retirer la mention de Cursor et Claude | Oui | Les références aux outils d'IA ont été complètement supprimées du paragraphe | (6 October 2026, 02:28:49 +0200)
 > | Conserver le focus sur Houdini, Unreal et les HDAs | Oui | La phrase se concentre désormais uniquement sur la génération procédurale de level design via Houdini et Unreal | (6 October 2026, 02:28:49 +0200)
 > | Garder ton ton direct en français et en anglais | Oui | Textes nettoyés sans ajout de jargon ni modification de ton style | (6 October 2026, 02:28:49 +0200)
+
+## 30 September 2026, 19:36:09 +0200 : Order of work
+
+<!-- feedback-event:70dfd7910e404dcb55ecf7dfd897adf437e8edbf3292fccd0f4c8582c0e551ef (30 September 2026, 19:36:09 +0200) -->
+- Project: vegetation-assets-collection-01; kind: order. (30 September 2026, 19:36:09 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-a22ca64f3b664560e.jsonl. (30 September 2026, 19:36:09 +0200)
+
+> Read the skill at /Users/zenray/.claude/skills/zenray-html-photoshop-pdf-hda-socialmedia-shorts-reel/ COMPLETELY: SKILL.md and every other markdown file in the directory and its subfolders (read in full, in consecutive chunks for big files), and list the templates and scripts with their first 15 lines. Then write a structured digest to /Users/zenray/.claude/tmp/tmp-houdini-september-2026/skill-reads/zenray-html-photoshop.md containing: (1) how this skill implements the HDA parametric principle (definition, parameters file, instances, the sliders panel with a maximum number of controls, the 'Copy values for the prompt' button, tokens in :root), with the exact conventions and names, (2) how many sliders it allows and how they are grouped, (3) the date and feedback rules it repeats, (4) where a new section 'HDA control parameters for Houdini graphs, maximum 8 per category' should be cross-referenced. Write the file BEFORE you answer. Reply with at most 10 lines: the file path and the 5 most important points. Do not modify any other file. (30 September 2026, 19:36:09 +0200)
+
+## 30 September 2026, 19:38:25 +0200 : Iteration
+
+<!-- feedback-event:3628ad4799a2f3b89563edfd693a379c3aa03933de1a296b96552014ad9e6566 (30 September 2026, 19:38:25 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (30 September 2026, 19:38:25 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-a22ca64f3b664560e.jsonl. (30 September 2026, 19:38:25 +0200)
+
+> Digest written to `/Users/zenray/.claude/tmp/tmp-houdini-september-2026/skill-reads/zenray-html-photoshop.md`. It covers all of `SKILL.md`, every other markdown file and the first 15 lines of each script and template. The older `references/fusion-sources/zenray-html-photoshop-pdf-hda.md` (4686 lines) I checked by `diff` against `SKILL.md` instead of reading line by line. It holds no unique rule. (30 September 2026, 19:38:25 +0200)
+>
+> 1. **HDA implementation:** the template is the definition and `_params.json` plus `:root` tokens are the parameters. Parameters sit on three levels: global tokens, family, instance. Tools are instantiated with `scripts/zr-hda-instance.py` in 0.09 s and zero tokens. Only the `@zr-instance:start/end` block depends on the project, and fixes go in `templates/hda-light` and `hda-heavy`. (30 September 2026, 19:38:25 +0200)
+> 2. **Sliders panel:** sliders write only `:root` variables, and the "Copier les valeurs pour le prompt" button copies the values. The panel never ships to production, and it appears only if Matthieu explicitly asks (rule of 2026-08-27). (30 September 2026, 19:38:25 +0200)
+> 3. **Slider count:** the skill states no maximum. The heavy tool has about 25 sliders in groups of 7 at most (Light 7, Levels 5, Crop 4, Selective 3). `05-capsules-hda.html` (10 sliders) and the Sleep Shutdown panel (11 parameters) would exceed a cap of 8. (30 September 2026, 19:38:25 +0200)
+> 4. **Date and feedback rules:** the skill uses ISO dates, which predate the English-date rule. It bans em dashes and keeps an append-only log of Matthieu's feedback. Matthieu's text gets grammar fixes only. The post order is EN, then 日本語, then FR. (30 September 2026, 19:38:25 +0200)
+> 5. **Where to cross-reference the new section:** right after "Règle d'activation explicite" (about line 3131 of `SKILL.md`) and as a fifth rule in "Les quatre règles" (about line 2713). Also at the Houdini sliders step of the Reel pipeline (about line 621), in the HDA mapping table (about line 94) and in `references/INDEX.md`. The digest also suggests linking to `zenray-houdini` and `ParametricHda1.md`. (30 September 2026, 19:38:25 +0200)
+>
+> I changed no other file. (30 September 2026, 19:38:25 +0200)
+
+## 30 September 2026, 19:36:03 +0200 : Order of work
+
+<!-- feedback-event:33e6967b414094ba7988dd641fce04910d1f7e1c4b19acb14618274be8974668 (30 September 2026, 19:36:03 +0200) -->
+- Project: vegetation-assets-collection-01; kind: order. (30 September 2026, 19:36:03 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-a7302abee02508d43.jsonl. (30 September 2026, 19:36:03 +0200)
+
+> Read the skill at /Users/zenray/.claude/skills/claude-md-global/ COMPLETELY (SKILL.md, every file in references/, scripts/, templates/ if any; list the directory first and read every text file, in full, not just the head). Also read /Users/zenray/.claude/rules/ParametricHda1.md and /Users/zenray/.claude/rules/SkillsAndMemory1.md in full. Then write a structured digest to /Users/zenray/.claude/tmp/tmp-houdini-september-2026/skill-reads/claude-md-global.md containing: (1) how this skill says a new rule must be recorded (which files, which sections, dated lines in the form '30 September 2026', triggers.json vocabulary, scripts to run afterwards such as extract-rules.mjs --verify, build-rules-index.mjs, mirror-agents.sh), with the exact commands; (2) everything it says about HDA / parametric parameters (how many, where they live, the three stages, the two-occurrence rule, bibliotheque) verbatim where short; (3) the rule that feedback only enters a skill once Matthieu validates it; (4) any pitfall listed. Write the file BEFORE you answer. Reply with at most 10 lines: the file path and the 5 most important points. Do not modify any other file. (30 September 2026, 19:36:03 +0200)
+
+## 30 September 2026, 19:36:56 +0200 : Iteration
+
+<!-- feedback-event:aee7c6ff3bedb0d957d26d7c7e90e1dbca457c5e3b753da0ca705aeb1d04791c (30 September 2026, 19:36:56 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (30 September 2026, 19:36:56 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-a7302abee02508d43.jsonl. (30 September 2026, 19:36:56 +0200)
+
+> Digest écrit : `/Users/zenray/.claude/tmp/tmp-houdini-september-2026/skill-reads/claude-md-global.md` (30 September 2026, 19:36:56 +0200)
+>
+> 1. **Où enregistrer une règle.** D'abord chercher si elle existe déjà. Puis `CLAUDE.md` si elle est de priorité 0 et courte, sinon `rules/<Nom>1.md` avec une phrase de renvoi dans `CLAUDE.md`. Jamais à deux endroits. Son vocabulaire déclencheur entre dans `rules/triggers.json`. (30 September 2026, 19:36:56 +0200)
+> 2. **Commandes après coup, dans cet ordre.** Ce sont `extract-rules.mjs --verify` (limite de 65 536 octets), `build-rules-index.mjs`, `build-index.mjs`, puis `zsh mirror-agents.sh`. Ce dernier ne marche pas sous bash. Après l'édition d'un skill, lancer `sync-skill.sh <nom>` puis refaire `--verify`. (30 September 2026, 19:36:56 +0200)
+> 3. **Dates.** Chaque ajout a sa section au titre daté, et chaque ligne porte `30 September 2026`. Une commande `git diff | grep` vérifie qu'aucune ligne ajoutée n'en manque. Elle est dans le fichier. (30 September 2026, 19:36:56 +0200)
+> 4. **HDA.** Une définition unique, une interface de paramètres (aucun nombre fixe) et des instances. Les trois étages sont jetons globaux, famille et instance, et l'instance l'emporte sans modifier sa famille. La règle des deux occurrences : on paramètre ce qui varie déjà, pas ce qui pourrait varier. Dans la bibliothèque (`otls/`, en pratique `skills/<skill>/templates`), un travail fait devient la source du suivant, donc on ne repart pas d'une page blanche. (30 September 2026, 19:36:56 +0200)
+> 5. **Règle « le feedback n'entre dans un skill qu'après validation de Matthieu ».** Je ne l'ai trouvée dans aucun des trois fichiers lus, et le digest le dit. Les pièges du skill y sont listés : troncature silencieuse au-delà de 65 536 octets, `sync-skill.sh` qui réécrit `CLAUDE.md`, règle sans terme déclencheur qui ne se charge jamais, miroirs écrasés, pas de `git add -A` dans `~/.claude`. (30 September 2026, 19:36:56 +0200)
+>
+> Je n'ai modifié aucun autre fichier. (30 September 2026, 19:36:56 +0200)
+
+## 1 October 2026, 20:33:16 +0200 : Order of work
+
+<!-- feedback-event:79927750e2a68e1c1c2ce681f16b0369cb1eddb3a209d763c6023e0b0d7e2ab9 (1 October 2026, 20:33:16 +0200) -->
+- Project: vegetation-assets-collection-01; kind: order. (1 October 2026, 20:33:16 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-a974b0ef9d922defd.jsonl. (1 October 2026, 20:33:16 +0200)
+
+> Tu travailles pour Matthieu (français, bref, aucun tiret cadratin ni demi-cadratin ni double tiret comme ponctuation dans tout texte que tu écris, dates en anglais avec le mois en toutes lettres, par exemple 1 October 2026, sur chaque ligne que tu ajoutes dans un fichier de doc ou de suivi). Ne publie rien. N'ouvre jamais le navigateur personnel de Matthieu. N'utilise pas `git add -A`. Ne touche PAS aux fichiers du dossier `unreal/` ni à `~/.claude/tmp/tmp-ad-colour-grade/` (une autre tâche y travaille en parallèle, elle utilise l'éditeur Unreal et les images du réservoir `render/final_ue/`, tu ne dois pas les modifier). (1 October 2026, 20:33:16 +0200)
+>
+> CONTEXTE. Chantier de la pub Ceramic Tiles. Dossier de travail PROJ = `/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-materials-substance-copernicus-30-09-2026/`. Le rendu Unreal est un RÉSERVOIR de 720 images 4096x4096 dans `PROJ/render/final_ue/ad_0001..0720.png` (six plans de 120 images, indices de plans 0 à 5: 0 Triptych, 1 Rise, 2 Orbit, 3 Spheres roll, 4 Spheres cut, 5 Sphere trio). Le film final est un MONTAGE de 25 s (600 images, 24 i/s) dont l'ordre est défini à UN seul endroit: `EDIT_ORDER` dans `PROJ/Scripts/AdShots.py`, actuellement `(1, 2, 4, 5, 0)` (Rise, Orbit, Spheres cut, Sphere trio, Triptych). `PROJ/Scripts/EditAd.py` construit `PROJ/render/final_edit/ad_0001..0600.png` (liens symboliques vers le réservoir dans l'ordre du montage). `PROJ/Scripts/GradeFrames.py` applique l'étalonnage choisi par Matthieu (saturation +15, contraste +5, filtre Vivid Cool 80, bloc de référence `~/.claude/tmp/tmp-ad-colour-grade/grade-block.txt`) aux images de `render/final_edit/` et écrit `PROJ/render/final_edit_graded/ad_0001..0600.png` (images RÉELLES, numérotées par numéro de FILM, 600 fichiers, calculées pour l'ordre actuel). `PROJ/Scripts/AssembleAdVideo.py` assemble `PROJ/render/ceramic-tiles-ad-4096-24fps.mov` (HEVC, tag hvc1) depuis `A.EDIT_FRAMES_DIR` (= `render/final_edit_graded`); par défaut il ne fait QUE la 4K (le MP4 2048 demande `--with-2048`). Règle de Matthieu du 1 October 2026: après un changement de montage on refait UNIQUEMENT la vidéo 4K, jamais le short, la miniature, le MP4 2048 ni le post. (1 October 2026, 20:33:16 +0200)
+>
+> DEMANDE DE MATTHIEU (verbatim): « la séquence 10 à 15 en fait ce doit être le premier plan, edit la vidéo, ou l'ordre des frames ou les deux ». Lecture retenue: dans le film de 25 s, le plan de 10 à 15 s (indice de plan 4, Spheres cut) devient le PREMIER plan. Nouvel ordre: Spheres cut, Rise, Orbit, Sphere trio, Triptych, donc `EDIT_ORDER = (4, 1, 2, 5, 0)`. (1 October 2026, 20:33:16 +0200)
+>
+> CE QUE TU FAIS, dans cet ordre, en vérifiant chaque étape: (1 October 2026, 20:33:16 +0200)
+> 1. Archive l'ancienne vidéo 4K étalonnée (ordre Rise d'abord) sans la supprimer: `mkdir -p PROJ/render/archive_25s_graded_rise_first && mv PROJ/render/ceramic-tiles-ad-4096-24fps.mov PROJ/render/archive_25s_graded_rise_first/`. (1 October 2026, 20:33:16 +0200)
+> 2. Pour ne PAS recalculer l'étalonnage (il est identique image par image, il ne dépend pas de l'ordre), RANGE les images étalonnées par numéro du RÉSERVOIR au lieu du numéro de film. Fais-le ainsi: avec l'ancien `EDIT_ORDER` (1,2,4,5,0) (importe `AdShots` AVANT de le modifier et calcule `A.edit_to_source(n)` pour n de 1 à 600), déplace chaque `PROJ/render/final_edit_graded/ad_<n>.png` vers `PROJ/render/final_ue_graded/ad_<pool>.png` (`os.rename` ou `shutil.move`, jamais de copie des 600 x ~30 Mo). Contrôle ensuite: 600 fichiers dans `final_ue_graded`, aucun doublon, les numéros de réservoir 361 à 480 absents, et l'ancien dossier `final_edit_graded` vide (supprime seulement ce dossier vide, ou laisse-le vide: EditAd va le reconstruire en liens). (1 October 2026, 20:33:16 +0200)
+> 3. Modifie `PROJ/Scripts/AdShots.py`: `EDIT_ORDER = (4, 1, 2, 5, 0)`; ajoute une ligne de commentaire datée (1 October 2026) qui cite la demande. Ne change rien d'autre dans ce fichier. (1 October 2026, 20:33:16 +0200)
+> 4. Modifie `PROJ/Scripts/EditAd.py` pour qu'il construise DEUX dossiers de liens symboliques dans l'ordre du montage: `render/final_edit` (liens vers `render/final_ue/ad_<pool>.png`, comportement actuel) ET `render/final_edit_graded` (liens vers `render/final_ue_graded/ad_<pool>.png`), en échouant clairement (message qui nomme le fichier) si une image étalonnée manque. Il doit effacer seulement les liens de ces deux dossiers, jamais les images du réservoir ni de `final_ue_graded`. Garde ses contrôles (600 liens, aucune image en double, plage 361-480 absente) et applique-les aux deux dossiers. Mets à jour le commentaire d'en-tête (anglais d'abord, puis français). (1 October 2026, 20:33:16 +0200)
+> 5. Modifie `PROJ/Scripts/GradeFrames.py` pour qu'il travaille sur les images du RÉSERVOIR: source `render/final_ue/`, destination `render/final_ue_graded/`, et par défaut les seules images utilisées par le montage actuel (`A.edit_to_source(n)` pour n de 1 à A.EDIT_FRAMES), avec `--only` qui prend des numéros de réservoir. Il saute les images déjà étalonnées sauf avec `--force`. Garde `--identity`. Mets à jour l'en-tête. Ne le relance PAS sur les 600 images (c'est inutile, tu viens de les ranger); teste-le seulement avec `--identity` et, pour vérifier que le déplacement est cohérent, compare numériquement une image: pour une image du réservoir (par exemple 490), recalcule son étalonnage avec `--only 490 --force --workers 1` dans un dossier de sortie temporaire ou en vérifiant ensuite que le fichier `final_ue_graded/ad_0490.png` recalculé est identique (écart maximal 0) à celui que tu avais déplacé (sauvegarde-le d'abord ailleurs avant de forcer). (1 October 2026, 20:33:16 +0200)
+> 6. Lance `python3 PROJ/Scripts/EditAd.py` (doit afficher PASS), puis `python3 PROJ/Scripts/CheckRestart.py --no-hip` (il contient des contrôles qui supposent l'ancien ordre: adapte les trois contrôles de la section « edit » de `CheckRestart.py` à `EDIT_ORDER = (4, 1, 2, 5, 0)`: ordre des noms de plans ['Spheres cut', 'Rise', 'Orbit', 'Sphere trio', 'Triptych'], `source_to_edit(361) is None`, `edit_to_source(1) == 481`, `edit_to_source(121) == 121`, `edit_to_source(481) == 1`, `edit_to_source(600) == 120`, et le contrôle des liens: `final_edit/ad_0001.png` pointe vers `final_ue/ad_0481.png`). Il doit afficher 0 échec. (1 October 2026, 20:33:16 +0200)
+> 7. Lance `python3 PROJ/Scripts/AssembleAdVideo.py` (4K seulement). Il doit afficher PASS: 4096 x 4096, 24/1, 600 images, 25,00 s, tag hvc1. (1 October 2026, 20:33:16 +0200)
+> 8. Vérifie le contenu réel de la vidéo, sans te fier au nom des fichiers: extrait par index d'image (filtre `select=eq(n\,K)` et `scale=256:256`, sortie rawvideo) les images K = 0, 119, 120, 239, 240, 359, 360, 479, 480, 599 de la nouvelle vidéo et compare chacune (écart moyen absolu en 0..255, après réduction à 256x256) à l'image du réservoir ÉTALONNÉE attendue (`final_ue_graded/ad_<A.edit_to_source(K+1)>.png`) puis à celles des quatre autres débuts de plan pour montrer que le meilleur candidat est le bon; l'écart attendu est petit (compression, moins de 4 sur les images fixes). Regarde aussi une planche de ces 10 images pour confirmer visuellement: image 1 = sphère verte sur fond gris (plan Spheres cut), ensuite la grue sur le plan multicolore, l'orbite turquoise, le trio de sphères, et la dernière partie = le triptyque. Sauvegarde la planche dans `/private/tmp/claude-501/-Users-zenray--claude-Memory1/2562b086-836d-49c5-80c7-0c935a98513c/scratchpad/remontage2_joints.png`. (1 October 2026, 20:33:16 +0200)
+> 9. Documente (chaque ligne ajoutée porte sa date en anglais, par exemple 1 October 2026): dans `~/.claude/skills/zenray-houdini/Protocol1.md` ajoute, à la fin de la section « 8 quinquies. Phase K », une puce qui cite la demande verbatim de Matthieu, le nouvel ordre `(4, 1, 2, 5, 0)`, le fait que l'étalonnage est désormais rangé PAR NUMÉRO DE RÉSERVOIR dans `render/final_ue_graded/` et que changer l'ordre ne demande que `EditAd.py` puis `AssembleAdVideo.py` (plus de recalcul), et le nom du dossier d'archive. Ne réécris aucune ligne ancienne. Ajoute aussi une entrée datée à la fin de `/Users/zenray/.claude/tmp/tmp-houdini-september-2026/materials-copernicus-exercize/FEEDBACK.md` (append seulement, titre `## 1 October 2026, <heure> : remontage 2 exécuté`). Copie ensuite `AdShots.py`, `EditAd.py`, `GradeFrames.py` et `CheckRestart.py` vers `~/.claude/skills/zenray-houdini/templates/ceramic-tiles-height-v1/`, lance `python3 PROJ/Scripts/IndexScripts.py`, puis `~/.claude/skills/skill-sync/scripts/sync-skill.sh zenray-houdini` et `node ~/.claude/skills/claude-md-global/scripts/extract-rules.mjs --verify` (doit montrer `"missingRuleFiles": []`). (1 October 2026, 20:33:16 +0200)
+> 10. Écris le journal global: `node ~/.claude/skills/progress/scripts/progress.mjs append --project "ZenRay Houdini" --fait "..." --mesure "..." --verifie "..." --source-durable "/Users/zenray/.claude/skills/zenray-houdini/Protocol1.md" --prochain "..."` avec ce que tu as réellement fait et mesuré. (1 October 2026, 20:33:16 +0200)
+>
+> NE FAIS PAS: relancer l'étalonnage des 600 images, refaire le short, la miniature, le MP4 2048 ou le post, modifier le réservoir `render/final_ue/`, ni lancer Houdini ou Unreal. (1 October 2026, 20:33:16 +0200)
+>
+> RAPPORT FINAL (court, en français, sans tiret cadratin): le chemin absolu de la nouvelle vidéo 4K et sa taille, le résultat de chaque contrôle (PASS ou FAIL avec la mesure), les écarts mesurés de l'étape 8, le chemin de l'archive de l'ancienne vidéo, et tout ce qui n'a pas pu être fait avec la raison. Si un contrôle échoue, répare-le avant de rendre le rapport; si tu ne peux pas, dis-le franchement. (1 October 2026, 20:33:16 +0200)
+
+## 1 October 2026, 20:36:28 +0200 : Iteration
+
+<!-- feedback-event:5064b1e08ef951f8cae5b7cac7f6dbfa310650accb0d7870f13bcbb6aa8a3bfb (1 October 2026, 20:36:28 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (1 October 2026, 20:36:28 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-a974b0ef9d922defd.jsonl. (1 October 2026, 20:36:28 +0200)
+
+> La nouvelle vidéo 4K ouvre maintenant sur le plan Spheres cut (10 à 15 s dans l'ancien film), puis Rise, Orbit, Sphere trio et Triptych. Tous les contrôles passent. (1 October 2026, 20:36:28 +0200)
+>
+> **Vidéo 4K** : `/Users/zenray/.claude/tmp/tmp-houdini-september-2026/tmp-materials-substance-copernicus-30-09-2026/render/ceramic-tiles-ad-4096-24fps.mov`, 303,35 Mo. Elle fait 4096 x 4096, 24/1, 600 images, 25,00 s, hvc1. La taille est identique à l'ancienne, mais le contenu diffère (empreintes MD5 différentes). Je n'ai pas refait le short, la miniature, le MP4 2048 ni le post. (1 October 2026, 20:36:28 +0200)
+>
+> **Archive** : l'ancienne vidéo étalonnée (Rise d'abord) est dans `render/archive_25s_graded_rise_first/ceramic-tiles-ad-4096-24fps.mov`. (1 October 2026, 20:36:28 +0200)
+>
+> **Contrôles** (1 October 2026, 20:36:28 +0200)
+> - **Étalonnage rangé par numéro de réservoir** : les 600 images ont été déplacées sans copie ni recalcul vers `render/final_ue_graded/`. Il y en a 600, sans doublon, les numéros 361 à 480 sont absents et l'ancien dossier `final_edit_graded` est vide. (1 October 2026, 20:36:28 +0200)
+> - **`GradeFrames.py --identity`** : PASS, écart de 0,003/255. (1 October 2026, 20:36:28 +0200)
+> - **`GradeFrames.py` sur l'image 490** : recalculée avec `--force`, elle est identique à celle déplacée (écart maximal 0). Lancé sans `--force`, il saute les 600 images déjà étalonnées. (1 October 2026, 20:36:28 +0200)
+> - **`EditAd.py`** : PASS. Il construit 600 liens bruts et 600 liens étalonnés, avec la première image du film = réservoir 481 et la dernière = 120. (1 October 2026, 20:36:28 +0200)
+> - **`CheckRestart.py --no-hip`** : 69 contrôles, 0 échec. J'ai adapté les trois contrôles d'ordre et ajouté un contrôle des liens étalonnés. (1 October 2026, 20:36:28 +0200)
+> - **`AssembleAdVideo.py`** : PASS, en 48 s. (1 October 2026, 20:36:28 +0200)
+> - **Contenu réel de la vidéo** : j'ai extrait 10 images par index (K = 0, 119, 120, 239, 240, 359, 360, 479, 480, 599) et les ai comparées aux images étalonnées attendues, après réduction à 256x256. L'écart moyen absolu est de 2,0 à 2,6 sur 255 pour chacune. Pour les débuts de plan, l'écart avec le bon plan est de 2,0 à 2,6, contre 38,9 à 56,7 avec les quatre autres. La planche confirme à l'œil : sphère verte sur fond gris, puis la grue multicolore, l'orbite turquoise, le trio de sphères et le triptyque. Elle est dans `/private/tmp/claude-501/-Users-zenray--claude-Memory1/2562b086-836d-49c5-80c7-0c935a98513c/scratchpad/remontage2_joints.png`. (1 October 2026, 20:36:28 +0200)
+>
+> **Documentation et journal** (1 October 2026, 20:36:28 +0200)
+> - **Documentation** : j'ai ajouté quatre puces datées à la fin de la phase K dans `/Users/zenray/.claude/skills/zenray-houdini/Protocol1.md`, et une entrée à la fin de `materials-copernicus-exercize/FEEDBACK.md` (titre `## 1 October 2026, 20:36 : remontage 2 exécuté`). (1 October 2026, 20:36:28 +0200)
+> - **Skill** : les quatre scripts sont copiés dans `templates/ceramic-tiles-height-v1/`, `IndexScripts.py` est relancé, `sync-skill.sh zenray-houdini` est lancé et `extract-rules.mjs --verify` affiche `missingRuleFiles: []`. (1 October 2026, 20:36:28 +0200)
+> - **Journal global** : l'entrée est écrite. (1 October 2026, 20:36:28 +0200)
+>
+> Rien n'est resté en échec. Changer l'ordre se fait désormais en trois gestes : `AdShots.EDIT_ORDER`, puis `EditAd.py`, puis `AssembleAdVideo.py`, sans recalcul de l'étalonnage. (1 October 2026, 20:36:28 +0200)
+
+## 30 September 2026, 19:36:07 +0200 : Order of work
+
+<!-- feedback-event:15abbbb41cbec5dab39e33e4b298b317a223315ed9f455c5c1220e1ba163d029 (30 September 2026, 19:36:07 +0200) -->
+- Project: vegetation-assets-collection-01; kind: order. (30 September 2026, 19:36:07 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-aa62576447b202c42.jsonl. (30 September 2026, 19:36:07 +0200)
+
+> Read the skill at /Users/zenray/.claude/skills/zenray-houdini/ COMPLETELY: SKILL.md, Copernicus1.md, every other .md in the directory and its subfolders, and list (name + first 15 lines) the scripts and templates (templates/ceramic-tiles-height-v1/ in particular). Read every markdown file in full, not just the head; for very large files read them in consecutive chunks until the end. Then write a structured digest to /Users/zenray/.claude/tmp/tmp-houdini-september-2026/skill-reads/zenray-houdini.md containing: (1) the section layout of SKILL.md and Copernicus1.md (titles with dates), (2) every rule about parameters / HDA / sliders / control nodes in Houdini and how parameters are exposed (spare parms, channel references, null controller), (3) the protocols already written for the ceramic tiles material (measures/ folder, versions/ folder, RunChecks.py, FitRefStrip.py, feedback only after validation), (4) anything contradictory or duplicated that should be tidied, (5) where a new section about 'HDA control parameters, maximum 8 per category' should be added. Write the file BEFORE you answer. Reply with at most 10 lines: the file path and the 5 most important points. Do not modify any other file. (30 September 2026, 19:36:07 +0200)
+
+## 30 September 2026, 19:36:49 +0200 : Iteration
+
+<!-- feedback-event:a0ae0fd06ed45d9533691f559948a0b942c2bf86e7c636390198a6f2925a8cbb (30 September 2026, 19:36:49 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (30 September 2026, 19:36:49 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-aa62576447b202c42.jsonl. (30 September 2026, 19:36:49 +0200)
+
+> Now the Library md files, source guide (targeted), and scripts/templates heads. (30 September 2026, 19:36:49 +0200)
+
+## 30 September 2026, 19:39:29 +0200 : Iteration
+
+<!-- feedback-event:6b7f01e739e81ad4357bcf5960b49466f0d7f47e7c762d23d156bd1aa58c9b7e (30 September 2026, 19:39:29 +0200) -->
+- Project: vegetation-assets-collection-01; kind: iteration. (30 September 2026, 19:39:29 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/5b89815a-62ee-4221-96cc-246c084ff175/subagents/agent-aa62576447b202c42.jsonl. (30 September 2026, 19:39:29 +0200)
+
+> Digest written: `/Users/zenray/.claude/tmp/tmp-houdini-september-2026/skill-reads/zenray-houdini.md` (878 lines). I read every markdown file in full, including the 1882-line Copernicus transcript. The script and template heads are in an appendix at the end of the digest. (30 September 2026, 19:39:29 +0200)
+>
+> 1. **No control-null convention exists.** Parameters live as spare parms on the master `/obj/Church`, and components read them through `ch("../x")`. Nulls serve only as output markers or as the camera pivot. Copernicus builders use a Python dict `P` as their interface, and FiberWood already has exactly 8 root sliders. (30 September 2026, 19:39:29 +0200)
+> 2. **The ceramic protocols are in `Copernicus1.md` lines 1528 to 1593 and `templates/ceramic-tiles-height-v1/`.** They cover `measures/M<N>_<label>/` through `RunChecks.py` with an append-only `HISTORY.md`, and `versions/V00N.png` through `SaveVersion.py`. `SKILL.md` holds only a one-line pointer, and its routing table has no ceramic or carrelage keyword. The sentence "feedback only after validation" is not written as such. The closest rules are the per-step `wait-validation` and "only Matthieu validates". (30 September 2026, 19:39:29 +0200)
+> 3. **Existing components break the cap.** Parameter counts in `Components1.md` are Armature 12, WoodFacade 12, PorchStairs 16, WindowA 28, WindowB 21, Roof 20. The UV sliders are copied into every component. (30 September 2026, 19:39:29 +0200)
+> 4. **Main tidy-ups.** (30 September 2026, 19:39:29 +0200)
+>    - The snapshot rule is described three times in `SKILL.md`. (30 September 2026, 19:39:29 +0200)
+>    - The layer/step protocol appears three times. (30 September 2026, 19:39:29 +0200)
+>    - The tool count is inconsistent (five, six, seven or eight depending on where you look). (30 September 2026, 19:39:29 +0200)
+>    - The layer plans, short formats and subtitle yellows each have several conflicting versions. (30 September 2026, 19:39:29 +0200)
+>    - OBS is still mentioned although deprecated. (30 September 2026, 19:39:29 +0200)
+>    - `SKILL.md` line 13 is a truncated sentence. (30 September 2026, 19:39:29 +0200)
+> 5. **Where to add "HDA control parameters, maximum 8 per category".** (30 September 2026, 19:39:29 +0200)
+>    - A new dated section at the end of `SKILL.md`. (30 September 2026, 19:39:29 +0200)
+>    - A pointer after the HDA law (line 838) and a new row in the routing table. (30 September 2026, 19:39:29 +0200)
+>    - An audit section at the end of `Components1.md`. (30 September 2026, 19:39:29 +0200)
+>    - A short note at the end of `Copernicus1.md`. (30 September 2026, 19:39:29 +0200)

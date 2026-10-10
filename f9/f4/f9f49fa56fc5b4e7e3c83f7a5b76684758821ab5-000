@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-10T11:26:01.904Z",
+ "scannedAt": "2026-10-10T11:57:03.414Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -21,34 +21,34 @@
   },
   {
    "projectId": "vegetation-assets-collection-01",
-   "lines": 2280,
-   "work": 466,
+   "lines": 2284,
+   "work": 467,
    "prompts": 30,
    "first": "2026-10-05T08:38:02.743Z",
-   "last": "2026-10-09T21:39:55.880Z",
+   "last": "2026-10-10T11:51:16.911Z",
    "strength": "strong",
    "conversationId": "claude:2562b086-836d-49c5-80c7-0c935a98513c",
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-10T11:24:46.201Z",
-   "bytes": 23875,
+   "updatedAt": "2026-10-10T11:57:03.031Z",
+   "bytes": 1257549252,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
    "projectId": "vegetation-assets-collection-01",
-   "lines": 125,
-   "work": 45,
+   "lines": 127,
+   "work": 46,
    "prompts": 0,
    "first": "2026-10-07T14:19:34.887Z",
-   "last": "2026-10-09T14:39:48.840Z",
+   "last": "2026-10-10T11:36:48.656Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-10T11:25:19.514Z",
-   "bytes": 854702497,
+   "updatedAt": "2026-10-10T11:57:01.691Z",
+   "bytes": 859950542,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -110,8 +110,8 @@
    "conversationId": "gemini:20a24469-7472-4b42-8c52-ab98fa8c2827",
    "provider": "gemini",
    "sessionId": "20a24469-7472-4b42-8c52-ab98fa8c2827",
-   "title": "Conversation Gemini 20a24469",
-   "updatedAt": "2026-10-06T00:29:39.541Z",
+   "title": "/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/077_CURRENT_lily_trim_height.png /User",
+   "updatedAt": "2026-10-06T00:28:49.019217+00:00",
    "bytes": 1904640,
    "boundProject": "vegetation-assets-collection-01"
   },
@@ -222,8 +222,8 @@
    "conversationId": "gemini:8c359457-fb75-44b0-bca5-bc5fcf9ee51b",
    "provider": "gemini",
    "sessionId": "8c359457-fb75-44b0-bca5-bc5fcf9ee51b",
-   "title": "Conversation Gemini 8c359457",
-   "updatedAt": "2026-10-05T23:45:47.114Z",
+   "title": "change l'icone de zenray-dictate context + utilise les 3 couleurs de l'icone gemini pour créer une icon svg moderne go à partir de l'existan",
+   "updatedAt": "2026-10-05T23:44:58.703091+00:00",
    "bytes": 10227712,
    "boundProject": null
   }

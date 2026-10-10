@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-10T08:47:00.989Z",
+ "scannedAt": "2026-10-10T08:56:01.049Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -31,8 +31,8 @@
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-10T08:46:35.275Z",
-   "bytes": 1202240199,
+   "updatedAt": "2026-10-10T08:55:53.735Z",
+   "bytes": 23861,
    "boundProject": "vegetation-assets-collection-01"
   },
   {

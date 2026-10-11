@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-11T08:49:55.224Z",
+ "scannedAt": "2026-10-11T09:09:56.461Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -31,8 +31,8 @@
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-11T08:49:44.995Z",
-   "bytes": 1421820325,
+   "updatedAt": "2026-10-11T08:50:01.185Z",
+   "bytes": 23849,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
@@ -191,8 +191,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-11T08:43:08.717Z",
-   "bytes": 20980,
+   "updatedAt": "2026-10-11T09:09:12.071Z",
+   "bytes": 20945,
    "boundProject": null
   },
   {

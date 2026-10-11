@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-11T14:11:24.618Z",
+ "scannedAt": "2026-10-11T14:19:28.524Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -190,10 +190,26 @@
    "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-11T14:11:10.550Z",
-   "bytes": 21094,
+   "title": "DRIVE",
+   "updatedAt": "2026-10-11T14:19:26.628Z",
+   "bytes": 5730418,
    "boundProject": null
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 1,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-10-11T14:12:17.701Z",
+   "last": "2026-10-11T14:12:17.701Z",
+   "strength": "weak",
+   "conversationId": "claude:3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "provider": "claude",
+   "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "title": "ZENRAY HEIGHT",
+   "updatedAt": "2026-10-11T14:19:15.881Z",
+   "bytes": 3853164,
+   "boundProject": "zenray-height"
   },
   {
    "projectId": "vegetation-assets-collection-01",

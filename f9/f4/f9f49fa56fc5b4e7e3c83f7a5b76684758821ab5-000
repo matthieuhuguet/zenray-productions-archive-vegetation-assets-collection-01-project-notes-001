@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-11T00:22:21.536Z",
+ "scannedAt": "2026-10-11T00:28:17.710Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -191,8 +191,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-11T00:22:09.832Z",
-   "bytes": 20915,
+   "updatedAt": "2026-10-11T00:28:07.635Z",
+   "bytes": 20929,
    "boundProject": null
   },
   {

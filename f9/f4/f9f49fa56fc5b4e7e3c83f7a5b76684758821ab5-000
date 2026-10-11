@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-11T19:13:46.375Z",
+ "scannedAt": "2026-10-11T20:59:46.889Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -117,19 +117,35 @@
   },
   {
    "projectId": "vegetation-assets-collection-01",
+   "lines": 15,
+   "work": 1,
+   "prompts": 1,
+   "first": "2026-10-11T14:12:17.701Z",
+   "last": "2026-10-11T20:55:51.911Z",
+   "strength": "strong",
+   "conversationId": "claude:3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "provider": "claude",
+   "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "title": "ZENRAY HEIGHT",
+   "updatedAt": "2026-10-11T20:59:03.276Z",
+   "bytes": 20598,
+   "boundProject": "zenray-height"
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
    "lines": 14,
    "work": 1,
    "prompts": 1,
    "first": "2026-10-11T14:12:17.701Z",
    "last": "2026-10-11T19:04:58.673Z",
    "strength": "strong",
-   "conversationId": "claude:3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "conversationId": "claude:97dafd1e-ddee-454d-997b-6216fe6d4064",
    "provider": "claude",
-   "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
-   "title": "ZENRAY HEIGHT",
-   "updatedAt": "2026-10-11T19:13:41.988Z",
-   "bytes": 20912,
-   "boundProject": "zenray-height"
+   "sessionId": "97dafd1e-ddee-454d-997b-6216fe6d4064",
+   "title": "ZENRAY HEIGHT (fork)",
+   "updatedAt": "2026-10-11T20:59:13.662Z",
+   "bytes": 20635,
+   "boundProject": null
   },
   {
    "projectId": "vegetation-assets-collection-01",

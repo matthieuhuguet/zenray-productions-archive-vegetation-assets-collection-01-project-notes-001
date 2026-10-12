@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-12T01:45:11.487Z",
+ "scannedAt": "2026-10-12T02:28:11.592Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -279,6 +279,22 @@
    "projectId": "vegetation-assets-collection-01",
    "lines": 1,
    "work": 0,
+   "prompts": 0,
+   "first": "2026-10-10T20:53:47.390Z",
+   "last": "2026-10-10T20:53:47.390Z",
+   "strength": "weak",
+   "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
+   "provider": "claude",
+   "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
+   "title": "DRIVE",
+   "updatedAt": "2026-10-12T02:27:32.401Z",
+   "bytes": 20953,
+   "boundProject": null
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 1,
+   "work": 0,
    "prompts": 1,
    "first": "2026-10-12T01:02:52.821Z",
    "last": "2026-10-12T01:02:52.821Z",
@@ -290,22 +306,6 @@
    "updatedAt": "2026-10-12T01:44:35.744Z",
    "bytes": 20862,
    "boundProject": "zenray-height"
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-10T20:53:47.390Z",
-   "last": "2026-10-10T20:53:47.390Z",
-   "strength": "weak",
-   "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "provider": "claude",
-   "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "title": "DRIVE",
-   "updatedAt": "2026-10-12T01:19:45.081Z",
-   "bytes": 20953,
-   "boundProject": null
   },
   {
    "projectId": "vegetation-assets-collection-01",

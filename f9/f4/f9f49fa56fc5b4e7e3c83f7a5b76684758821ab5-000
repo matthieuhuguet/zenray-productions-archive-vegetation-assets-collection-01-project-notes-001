@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-12T09:05:17.984Z",
+ "scannedAt": "2026-10-12T10:50:23.497Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -95,8 +95,8 @@
    "provider": "codex",
    "sessionId": "01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
    "title": "Conversation codex 01a11aa4",
-   "updatedAt": "2026-10-12T00:00:25.407Z",
-   "bytes": 136502672,
+   "updatedAt": "2026-10-12T09:47:57.816Z",
+   "bytes": 137079623,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -270,10 +270,26 @@
    "conversationId": "claude:7e78b89b-c9f6-435b-aeea-a9878d6c808b",
    "provider": "claude",
    "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
-   "title": "Motion Design V2",
-   "updatedAt": "2026-10-12T09:04:21.087Z",
-   "bytes": 11397382,
+   "title": "Motion Design GLSL",
+   "updatedAt": "2026-10-12T10:45:55.620Z",
+   "bytes": 20963,
    "boundProject": "zenray-motion-design"
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-12T10:05:05.102Z",
+   "last": "2026-10-12T10:10:26.635Z",
+   "strength": "weak",
+   "conversationId": "claude:d71651de-2d57-45d0-b20d-830dd146d2ac",
+   "provider": "claude",
+   "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
+   "title": "ZenRay Assets UI rework",
+   "updatedAt": "2026-10-12T10:15:09.570Z",
+   "bytes": 20896,
+   "boundProject": null
   },
   {
    "projectId": "vegetation-assets-collection-01",
@@ -286,9 +302,9 @@
    "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "title": "DRIVE",
-   "updatedAt": "2026-10-12T08:59:39.393Z",
-   "bytes": 20920,
+   "title": "DRIVE evolution",
+   "updatedAt": "2026-10-12T10:46:05.164Z",
+   "bytes": 20947,
    "boundProject": null
   },
   {

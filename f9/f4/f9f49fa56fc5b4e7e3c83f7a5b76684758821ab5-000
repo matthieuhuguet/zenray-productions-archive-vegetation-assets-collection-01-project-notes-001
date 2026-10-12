@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-12T08:37:36.240Z",
+ "scannedAt": "2026-10-12T09:05:17.984Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -271,8 +271,8 @@
    "provider": "claude",
    "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
    "title": "Motion Design V2",
-   "updatedAt": "2026-10-12T08:37:23.875Z",
-   "bytes": 8704102,
+   "updatedAt": "2026-10-12T09:04:21.087Z",
+   "bytes": 11397382,
    "boundProject": "zenray-motion-design"
   },
   {
@@ -287,8 +287,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "DRIVE",
-   "updatedAt": "2026-10-12T08:31:08.551Z",
-   "bytes": 20935,
+   "updatedAt": "2026-10-12T08:59:39.393Z",
+   "bytes": 20920,
    "boundProject": null
   },
   {

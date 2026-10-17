@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-17T21:22:36.442Z",
+ "scannedAt": "2026-10-17T21:30:37.256Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -143,8 +143,8 @@
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-17T21:22:24.834Z",
-   "bytes": 39902367,
+   "updatedAt": "2026-10-17T21:29:11.125Z",
+   "bytes": 41042117,
    "boundProject": "zenray-japanese"
   },
   {
@@ -239,8 +239,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-17T21:22:35.132Z",
-   "bytes": 267373304,
+   "updatedAt": "2026-10-17T21:30:33.705Z",
+   "bytes": 22375,
    "boundProject": null
   },
   {

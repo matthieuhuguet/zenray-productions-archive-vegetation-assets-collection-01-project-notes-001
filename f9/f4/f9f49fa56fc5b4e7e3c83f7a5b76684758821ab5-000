@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-18T22:31:35.076Z",
+ "scannedAt": "2026-10-18T22:48:36.248Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -143,8 +143,8 @@
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-17T21:29:11.125Z",
-   "bytes": 41042117,
+   "updatedAt": "2026-10-18T22:34:26.136Z",
+   "bytes": 41044233,
    "boundProject": "zenray-japanese"
   },
   {
@@ -207,8 +207,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "2 louisiana bayou video",
-   "updatedAt": "2026-10-18T22:31:26.328Z",
-   "bytes": 68675716,
+   "updatedAt": "2026-10-18T22:48:33.604Z",
+   "bytes": 71063175,
    "boundProject": null
   },
   {
@@ -255,8 +255,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-18T21:00:53.656Z",
-   "bytes": 22313,
+   "updatedAt": "2026-10-18T22:47:56.562Z",
+   "bytes": 391694390,
    "boundProject": null
   },
   {

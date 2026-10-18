@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-18T22:01:45.082Z",
+ "scannedAt": "2026-10-18T22:18:32.055Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -207,8 +207,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "2 louisiana bayou video",
-   "updatedAt": "2026-10-18T22:01:23.749Z",
-   "bytes": 36928,
+   "updatedAt": "2026-10-18T22:17:48.048Z",
+   "bytes": 37109,
    "boundProject": null
   },
   {

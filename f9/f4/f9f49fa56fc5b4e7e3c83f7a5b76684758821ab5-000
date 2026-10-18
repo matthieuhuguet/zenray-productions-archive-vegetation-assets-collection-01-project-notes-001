@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-18T18:10:54.417Z",
+ "scannedAt": "2026-10-18T18:16:54.783Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -255,8 +255,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-18T18:10:36.777Z",
-   "bytes": 346354214,
+   "updatedAt": "2026-10-18T18:16:47.517Z",
+   "bytes": 353827991,
    "boundProject": null
   },
   {

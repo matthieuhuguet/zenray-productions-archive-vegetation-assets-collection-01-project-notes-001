@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-19T14:55:06.093Z",
+ "scannedAt": "2026-10-19T15:19:06.163Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -101,6 +101,22 @@
   },
   {
    "projectId": "vegetation-assets-collection-01",
+   "lines": 8,
+   "work": 0,
+   "prompts": 2,
+   "first": "2026-10-16T11:43:50.802Z",
+   "last": "2026-10-19T15:14:00.275Z",
+   "strength": "strong",
+   "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
+   "provider": "claude",
+   "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
+   "title": "2 louisiana bayou video",
+   "updatedAt": "2026-10-19T15:18:46.818Z",
+   "bytes": 40941,
+   "boundProject": null
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
    "lines": 6,
    "work": 2,
    "prompts": 0,
@@ -178,22 +194,6 @@
    "updatedAt": "2026-10-14T10:45:04.320Z",
    "bytes": 21342,
    "boundProject": "zenray-assets-tube-view"
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 7,
-   "work": 0,
-   "prompts": 1,
-   "first": "2026-10-16T11:43:50.802Z",
-   "last": "2026-10-19T14:52:06.332Z",
-   "strength": "weak",
-   "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "provider": "claude",
-   "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "title": "2 louisiana bayou video",
-   "updatedAt": "2026-10-19T14:54:50.941Z",
-   "bytes": 40894,
-   "boundProject": null
   },
   {
    "projectId": "vegetation-assets-collection-01",

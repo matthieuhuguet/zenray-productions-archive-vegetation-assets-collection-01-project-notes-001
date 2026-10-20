@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-20T11:23:33.429Z",
+ "scannedAt": "2026-10-20T11:32:33.304Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -95,8 +95,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology",
-   "updatedAt": "2026-10-20T11:23:32.344Z",
-   "bytes": 233718109,
+   "updatedAt": "2026-10-20T11:32:32.245Z",
+   "bytes": 234068056,
    "boundProject": null
   },
   {

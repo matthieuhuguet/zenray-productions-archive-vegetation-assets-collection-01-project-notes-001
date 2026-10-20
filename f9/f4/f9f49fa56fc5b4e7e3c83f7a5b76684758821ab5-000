@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-20T10:30:33.487Z",
+ "scannedAt": "2026-10-20T10:46:32.617Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -34,22 +34,6 @@
    "updatedAt": "2026-10-10T20:15:57.087Z",
    "bytes": 23177,
    "boundProject": null
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 16,
-   "work": 6,
-   "prompts": 6,
-   "first": "2026-10-08T08:33:02.862Z",
-   "last": "2026-10-11T12:09:12.409Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
-   "provider": "codex",
-   "sessionId": "01a11aa4-67bb-7ae1-b1d8-99af0c3495c3",
-   "title": "Conversation codex 01a11aa4",
-   "updatedAt": "2026-10-12T09:47:57.816Z",
-   "bytes": 137079623,
-   "boundProject": "louisiana-bayou"
   },
   {
    "projectId": "vegetation-assets-collection-01",
@@ -111,8 +95,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology",
-   "updatedAt": "2026-10-20T10:30:10.286Z",
-   "bytes": 228852738,
+   "updatedAt": "2026-10-20T10:46:10.601Z",
+   "bytes": 228972680,
    "boundProject": null
   },
   {
@@ -162,22 +146,6 @@
    "updatedAt": "2026-10-18T22:34:26.136Z",
    "bytes": 41044233,
    "boundProject": "zenray-japanese"
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 2,
-   "work": 1,
-   "prompts": 0,
-   "first": "2026-10-11T17:30:51.168Z",
-   "last": "2026-10-11T17:30:51.170Z",
-   "strength": "weak",
-   "conversationId": "codex:01a12bf7-8be3-7591-b4ac-649f5526a1da",
-   "provider": "codex",
-   "sessionId": "01a12bf7-8be3-7591-b4ac-649f5526a1da",
-   "title": "Conversation codex 01a12bf7",
-   "updatedAt": "2026-10-11T18:36:39.218Z",
-   "bytes": 21465841,
-   "boundProject": "conversation-codex-5d9e1d22c027cff20afc7ce1"
   },
   {
    "projectId": "vegetation-assets-collection-01",

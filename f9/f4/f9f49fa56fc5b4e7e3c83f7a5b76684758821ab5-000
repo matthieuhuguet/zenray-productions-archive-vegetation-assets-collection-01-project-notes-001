@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-20T11:32:33.304Z",
+ "scannedAt": "2026-10-20T11:48:33.820Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -95,8 +95,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology",
-   "updatedAt": "2026-10-20T11:32:32.245Z",
-   "bytes": 234068056,
+   "updatedAt": "2026-10-20T11:47:51.325Z",
+   "bytes": 40867,
    "boundProject": null
   },
   {
@@ -225,6 +225,22 @@
    "title": "Motion Design GLSL (fork) Sonnet 5.5 Après Modules",
    "updatedAt": "2026-10-13T17:04:27.813Z",
    "bytes": 20264,
+   "boundProject": null
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 1,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-10-20T11:47:50.998Z",
+   "last": "2026-10-20T11:47:50.998Z",
+   "strength": "weak",
+   "conversationId": "claude:e404b8fe-5771-41e1-b7bb-5f6111652bf6",
+   "provider": "claude",
+   "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
+   "title": "Consigner le sharingan",
+   "updatedAt": "2026-10-20T11:47:52.091Z",
+   "bytes": 1735474,
    "boundProject": null
   },
   {

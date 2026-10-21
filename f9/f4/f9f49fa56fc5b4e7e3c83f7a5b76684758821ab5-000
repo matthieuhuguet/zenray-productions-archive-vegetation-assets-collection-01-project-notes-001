@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-21T18:02:36.748Z",
+ "scannedAt": "2026-10-21T18:04:36.827Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -95,8 +95,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-21T18:02:19.096Z",
-   "bytes": 349814848,
+   "updatedAt": "2026-10-21T18:04:05.751Z",
+   "bytes": 349872758,
    "boundProject": "louisiana-bayou"
   },
   {

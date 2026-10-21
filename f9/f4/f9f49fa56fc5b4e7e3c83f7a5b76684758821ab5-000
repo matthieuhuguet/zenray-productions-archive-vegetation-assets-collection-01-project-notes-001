@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-21T10:27:56.660Z",
+ "scannedAt": "2026-10-21T10:48:10.012Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -95,8 +95,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-21T10:27:34.013Z",
-   "bytes": 322460778,
+   "updatedAt": "2026-10-21T10:44:03.335Z",
+   "bytes": 322872495,
    "boundProject": null
   },
   {
@@ -271,8 +271,8 @@
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
    "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T10:27:47.533Z",
-   "bytes": 31921555,
+   "updatedAt": "2026-10-21T10:47:46.636Z",
+   "bytes": 32847875,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {

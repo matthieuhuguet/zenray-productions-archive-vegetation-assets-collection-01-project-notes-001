@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-23T23:23:31.577Z",
+ "scannedAt": "2026-10-23T23:35:32.044Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -264,6 +264,22 @@
    "lines": 2,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-23T12:29:22.189Z",
+   "last": "2026-10-23T23:34:33.502Z",
+   "strength": "weak",
+   "conversationId": "claude:11264bd4-8a19-4e76-b9be-dc012304e419",
+   "provider": "claude",
+   "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
+   "title": "zenray knowledge",
+   "updatedAt": "2026-10-23T23:34:54.386Z",
+   "bytes": 38503,
+   "boundProject": "zenray-knowledge-23-october-2026"
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-23T21:01:19.136Z",
    "last": "2026-10-23T21:14:30.809Z",
    "strength": "weak",
@@ -306,22 +322,6 @@
    "updatedAt": "2026-10-13T17:04:27.813Z",
    "bytes": 20264,
    "boundProject": null
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-23T12:29:22.189Z",
-   "last": "2026-10-23T12:29:22.189Z",
-   "strength": "weak",
-   "conversationId": "claude:11264bd4-8a19-4e76-b9be-dc012304e419",
-   "provider": "claude",
-   "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
-   "title": "zenray knowledge",
-   "updatedAt": "2026-10-23T23:23:11.045Z",
-   "bytes": 38274,
-   "boundProject": "zenray-knowledge-23-october-2026"
   },
   {
    "projectId": "vegetation-assets-collection-01",

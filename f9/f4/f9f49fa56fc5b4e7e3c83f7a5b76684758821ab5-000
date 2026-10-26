@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-26T12:48:48.040Z",
+ "scannedAt": "2026-10-26T18:49:59.075Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -175,8 +175,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T12:43:56.632Z",
-   "bytes": 391635860,
+   "updatedAt": "2026-10-26T18:34:15.739Z",
+   "bytes": 38264,
    "boundProject": "zenray-meshes"
   },
   {
@@ -303,8 +303,8 @@
    "provider": "claude",
    "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
    "title": "zenray freelance",
-   "updatedAt": "2026-10-26T12:40:51.629Z",
-   "bytes": 38632,
+   "updatedAt": "2026-10-26T14:05:51.232Z",
+   "bytes": 38418,
    "boundProject": "zenray-calendar-plan-23-october-2026"
   },
   {
@@ -367,8 +367,8 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-26T09:38:01.148Z",
-   "bytes": 22397,
+   "updatedAt": "2026-10-26T18:49:51.243Z",
+   "bytes": 554834585,
    "boundProject": null
   },
   {

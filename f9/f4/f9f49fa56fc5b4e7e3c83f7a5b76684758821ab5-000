@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-26T10:57:39.920Z",
+ "scannedAt": "2026-10-26T11:11:21.993Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -248,6 +248,22 @@
    "lines": 4,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-26T10:18:45.765Z",
+   "last": "2026-10-26T11:00:09.985Z",
+   "strength": "weak",
+   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "provider": "claude",
+   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "title": "speech to text claude",
+   "updatedAt": "2026-10-26T11:11:19.599Z",
+   "bytes": 21085142,
+   "boundProject": "zenray-dictate"
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 4,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-23T15:45:24.690Z",
    "last": "2026-10-23T17:33:24.058Z",
    "strength": "weak",
@@ -258,22 +274,6 @@
    "updatedAt": "2026-10-23T17:39:34.036Z",
    "bytes": 38450,
    "boundProject": null
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 3,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T10:18:45.765Z",
-   "last": "2026-10-26T10:32:48.603Z",
-   "strength": "weak",
-   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
-   "provider": "claude",
-   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
-   "title": "speech to text claude",
-   "updatedAt": "2026-10-26T10:57:37.970Z",
-   "bytes": 13639163,
-   "boundProject": "zenray-dictate"
   },
   {
    "projectId": "vegetation-assets-collection-01",

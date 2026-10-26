@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-26T11:28:23.697Z",
+ "scannedAt": "2026-10-26T12:07:38.946Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -175,8 +175,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T09:46:00.954Z",
-   "bytes": 38230,
+   "updatedAt": "2026-10-26T12:04:19.684Z",
+   "bytes": 385865403,
    "boundProject": "zenray-meshes"
   },
   {

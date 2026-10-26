@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-26T10:08:35.322Z",
+ "scannedAt": "2026-10-26T10:24:10.125Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -280,6 +280,38 @@
    "lines": 2,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-26T10:18:45.765Z",
+   "last": "2026-10-26T10:20:26.385Z",
+   "strength": "weak",
+   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "provider": "claude",
+   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "title": "speech to text claude",
+   "updatedAt": "2026-10-26T10:21:14.224Z",
+   "bytes": 12966179,
+   "boundProject": "zenray-dictate"
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-26T08:52:36.506Z",
+   "last": "2026-10-26T10:18:29.109Z",
+   "strength": "weak",
+   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
+   "provider": "claude",
+   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
+   "title": "zenray freelance",
+   "updatedAt": "2026-10-26T10:21:08.325Z",
+   "bytes": 8560344,
+   "boundProject": null
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-23T12:29:22.189Z",
    "last": "2026-10-23T23:34:33.502Z",
    "strength": "weak",
@@ -321,22 +353,6 @@
    "title": "Motion Design GLSL (fork) Sonnet 5.5 Après Modules",
    "updatedAt": "2026-10-13T17:04:27.813Z",
    "bytes": 20264,
-   "boundProject": null
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T08:52:36.506Z",
-   "last": "2026-10-26T08:52:36.506Z",
-   "strength": "weak",
-   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "provider": "claude",
-   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "title": "zenray freelance",
-   "updatedAt": "2026-10-26T10:06:09.864Z",
-   "bytes": 38410,
    "boundProject": null
   },
   {

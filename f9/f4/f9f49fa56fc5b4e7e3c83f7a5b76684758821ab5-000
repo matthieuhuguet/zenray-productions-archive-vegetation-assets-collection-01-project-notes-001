@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-26T09:41:19.645Z",
+ "scannedAt": "2026-10-26T09:51:36.611Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -149,22 +149,6 @@
   },
   {
    "projectId": "vegetation-assets-collection-01",
-   "lines": 3,
-   "work": 1,
-   "prompts": 0,
-   "first": "2026-10-12T12:35:57.154Z",
-   "last": "2026-10-12T20:32:30.788Z",
-   "strength": "weak",
-   "conversationId": "codex:01a1301b-f199-7773-863c-b2a78d50b909",
-   "provider": "codex",
-   "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
-   "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-18T22:34:26.136Z",
-   "bytes": 41044233,
-   "boundProject": "zenray-japanese"
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
    "lines": 2,
    "work": 1,
    "prompts": 0,
@@ -191,8 +175,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T09:41:19.042Z",
-   "bytes": 381012029,
+   "updatedAt": "2026-10-26T09:46:00.954Z",
+   "bytes": 38230,
    "boundProject": "zenray-meshes"
   },
   {
@@ -344,6 +328,22 @@
    "lines": 1,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-26T08:52:36.506Z",
+   "last": "2026-10-26T08:52:36.506Z",
+   "strength": "weak",
+   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
+   "provider": "claude",
+   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
+   "title": "zenray freelance",
+   "updatedAt": "2026-10-26T09:50:29.811Z",
+   "bytes": 5474236,
+   "boundProject": null
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-15T11:17:50.275Z",
    "last": "2026-10-15T11:17:50.275Z",
    "strength": "weak",
@@ -353,22 +353,6 @@
    "title": "zenray motion design",
    "updatedAt": "2026-10-26T09:38:01.148Z",
    "bytes": 22397,
-   "boundProject": null
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 1,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T08:52:36.506Z",
-   "last": "2026-10-26T08:52:36.506Z",
-   "strength": "weak",
-   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "provider": "claude",
-   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "title": "zenray freelance",
-   "updatedAt": "2026-10-26T09:22:00.864Z",
-   "bytes": 38425,
    "boundProject": null
   },
   {

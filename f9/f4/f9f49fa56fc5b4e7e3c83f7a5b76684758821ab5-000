@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-26T10:35:58.634Z",
+ "scannedAt": "2026-10-26T10:37:53.754Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -271,8 +271,8 @@
    "provider": "claude",
    "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
    "title": "speech to text claude",
-   "updatedAt": "2026-10-26T10:33:09.462Z",
-   "bytes": 13346334,
+   "updatedAt": "2026-10-26T10:34:08.437Z",
+   "bytes": 38528,
    "boundProject": "zenray-dictate"
   },
   {

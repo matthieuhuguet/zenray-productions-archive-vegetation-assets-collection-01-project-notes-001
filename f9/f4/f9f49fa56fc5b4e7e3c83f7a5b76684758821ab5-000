@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "vegetation-assets-collection-01",
- "scannedAt": "2026-10-30T08:01:10.146Z",
+ "scannedAt": "2026-10-30T14:17:19.193Z",
  "conversations": [
   {
    "projectId": "vegetation-assets-collection-01",
@@ -159,8 +159,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-30T07:48:46.757Z",
-   "bytes": 38803,
+   "updatedAt": "2026-10-30T14:05:04.470Z",
+   "bytes": 38792,
    "boundProject": "zenray-meshes"
   },
   {
@@ -279,6 +279,22 @@
    "projectId": "vegetation-assets-collection-01",
    "lines": 2,
    "work": 0,
+   "prompts": 0,
+   "first": "2026-10-26T08:52:36.506Z",
+   "last": "2026-10-26T10:18:29.109Z",
+   "strength": "weak",
+   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
+   "provider": "claude",
+   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
+   "title": "zenray freelance",
+   "updatedAt": "2026-10-30T13:00:29.267Z",
+   "bytes": 38851,
+   "boundProject": "zenray-calendar-plan-23-october-2026"
+  },
+  {
+   "projectId": "vegetation-assets-collection-01",
+   "lines": 2,
+   "work": 0,
    "prompts": 1,
    "first": "2026-10-29T10:29:01.961Z",
    "last": "2026-10-29T16:37:19.972Z",
@@ -290,22 +306,6 @@
    "updatedAt": "2026-10-30T03:11:26.597Z",
    "bytes": 105000546,
    "boundProject": "zenray-edit"
-  },
-  {
-   "projectId": "vegetation-assets-collection-01",
-   "lines": 2,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T08:52:36.506Z",
-   "last": "2026-10-26T10:18:29.109Z",
-   "strength": "weak",
-   "conversationId": "claude:38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "provider": "claude",
-   "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
-   "title": "zenray freelance",
-   "updatedAt": "2026-10-30T00:33:11.745Z",
-   "bytes": 39014,
-   "boundProject": "zenray-calendar-plan-23-october-2026"
   },
   {
    "projectId": "vegetation-assets-collection-01",
